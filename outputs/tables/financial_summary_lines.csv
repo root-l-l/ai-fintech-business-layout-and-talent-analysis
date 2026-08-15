@@ -1,0 +1,35 @@
+company_code,company_name,metric,page_number,metric_line_raw,selection_status
+600570.SH,恒生电子,revenue,6,"营业收入 5,782,928,939.92 6,581,075,306.06 -12.13 7,281,202,979.92",raw_line_requires_human_value_selection
+300663.SZ,科蓝软件,revenue,8,"营业收入（元） 590,844,813.06 842,565,148.09 -29.88% 1,169,408,900.72",raw_line_requires_human_value_selection
+300663.SZ,科蓝软件,total_assets,8,"资产总额（元） 1,766,409,273.43 2,329,304,143.55 -24.17% 2,997,116,315.99",raw_line_requires_human_value_selection
+002987.SZ,京北方,revenue,7,"营业收入（元） 4,839,049,619.20 4,636,169,749.19 4.38% 4,242,011,130.87",raw_line_requires_human_value_selection
+002987.SZ,京北方,net_profit_attributable,14,实现营业收入48.39亿元，同比增长4.38%；归属于上市公司股东的净利润3.27亿元，同比增长5.06%。,raw_line_requires_human_value_selection
+603927.SH,中科软,revenue,8,"营业收入 6,028,200,653.026,374,512,940.856,671,233,219.66 -5.436,195,510,612.736,502,633,214.95",raw_line_requires_human_value_selection
+603927.SH,中科软,net_profit_attributable,9,"归属于上市公司股东的净利润 -16,236,680.42 123,273,448.55 66,310,114.58 50,597,798.85",raw_line_requires_human_value_selection
+603927.SH,中科软,total_assets,9,披露的净利润、资产总额、负债总额、净资产、经营活动产生的现金流量净额产生影响。,raw_line_requires_human_value_selection
+688590.SH,新致软件,revenue,7,"营业收入 2,106,579,792.56 1,995,198,312.45 5.58 1,682,692,866.75",raw_line_requires_human_value_selection
+002230.SZ,科大讯飞,revenue,7,"营业收入（元） 27,105,390,547.66 23,343,093,018.69 16.12% 19,650,329,209.04",raw_line_requires_human_value_selection
+002230.SZ,科大讯飞,net_profit_attributable,7,归属于上市公司股东的净利润,raw_line_requires_human_value_selection
+300229.SZ,拓尔思,net_profit_attributable,3,"34.19%；实现归属于上市公司股东的净利润-29,374.94 万元，较上年同期下",raw_line_requires_human_value_selection
+300229.SZ,拓尔思,revenue,10,"营业收入（元） 511,344,793.45 777,034,453.08 -34.19% 781,678,373.42",raw_line_requires_human_value_selection
+300229.SZ,拓尔思,total_assets,10,"资产总额（元） 4,207,791,883.05 4,481,824,962.63 -6.11% 3,746,005,629.18",raw_line_requires_human_value_selection
+300033.SZ,同花顺,revenue,7,"营业收入（元） 6,028,985,966.48 4,186,794,650.06 44.00% 3,564,260,219.05",raw_line_requires_human_value_selection
+300033.SZ,同花顺,total_assets,7,"资产总额（元） 15,832,994,333.52 10,976,501,567.53 44.24% 9,844,860,690.35",raw_line_requires_human_value_selection
+300059.SZ,东方财富,net_profit_attributable,7,"归属于上市公司股东的净利润（元） 12,084,594,947.22 9,610,120,743.64 25.75% 8,193,469,277.99",raw_line_requires_human_value_selection
+300059.SZ,东方财富,total_assets,7,"资产总额（元） 392,933,744,976.20 306,369,357,347.30 28.25% 239,578,320,552.16",raw_line_requires_human_value_selection
+300059.SZ,东方财富,revenue,12,富管理和资产管理业务，积极构建上市公司服务新生态，各项业务持续合规稳健发展，营业收入和净利,raw_line_requires_human_value_selection
+600446.SH,金证股份,revenue,6,"营业收入 2,418,857,503.49 4,693,117,962.98 -48.46 6,220,952,464.63",raw_line_requires_human_value_selection
+600446.SH,金证股份,net_profit_attributable,7,2025年公司归属于上市公司股东的净利润较上年同期减少亏损，基本每股收益较上年同期增,raw_line_requires_human_value_selection
+300377.SZ,赢时胜,net_profit_attributable,2,增长 2.37%，主营业务成本较上年基本持平，归属于上市公司股东的净利润,raw_line_requires_human_value_selection
+300377.SZ,赢时胜,revenue,10,"营业收入 1,373,047,83 1,341,741,65 1,341,741,65 1,592,143,38 1,592,143,38",raw_line_requires_human_value_selection
+300377.SZ,赢时胜,total_assets,10,"资产总额 2,754,606,20 2,803,803,77 2,788,446,16 3,315,906,17 3,315,906,17",raw_line_requires_human_value_selection
+300674.SZ,宇信科技,revenue,11,"营业收入（元） 3,623,081,673.57 3,958,028,236.86 -8.46% 5,203,702,275.14",raw_line_requires_human_value_selection
+300674.SZ,宇信科技,net_profit_attributable,11,"归属于上市公司股东的净利润（元） 431,843,595.03 379,852,639.00 13.69% 325,720,181.22",raw_line_requires_human_value_selection
+300674.SZ,宇信科技,total_assets,11,"资产总额（元） 6,818,799,864.19 5,825,169,063.21 17.06% 5,566,284,502.98",raw_line_requires_human_value_selection
+000555.SZ,神州信息,revenue,10,"营业收入（元） 13,162,811,905.52 10,002,831,521.49 31.59% 12,056,229,678.83",raw_line_requires_human_value_selection
+000555.SZ,神州信息,net_profit_attributable,16,同比增长6.32%。实现归属于上市公司股东的净利润0.56亿元，相较于去年同期扭亏为盈。,raw_line_requires_human_value_selection
+300348.SZ,长亮科技,revenue,4,市场阻力重重，我们仍实现了营业收入同比增长超 10%，经营性现金流净额增长逾 20%。,raw_line_requires_human_value_selection
+300348.SZ,长亮科技,total_assets,11,"资产总额（元） 2,951,093,993.73 2,884,860,960.82 2.30% 2,506,063,390.91",raw_line_requires_human_value_selection
+300872.SZ,天阳科技,net_profit_attributable,2,"0.60%;归属于上市公司股东的净利润为-13,813.57 万元，较上年同期减少",raw_line_requires_human_value_selection
+300872.SZ,天阳科技,revenue,9,"营业收入（元） 1,776,871,711.48 1,766,211,579.54 0.60% 1,935,801,733.00",raw_line_requires_human_value_selection
+300872.SZ,天阳科技,total_assets,9,"资产总额（元） 4,784,424,654.80 4,197,801,354.26 13.97% 4,037,096,683.54",raw_line_requires_human_value_selection

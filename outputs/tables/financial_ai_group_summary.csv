@@ -1,0 +1,4 @@
+asset_size_group,company_count,median_assets_billion_yuan,median_revenue_billion_yuan,median_net_profit_billion_yuan,profitable_company_count
+中资产组,5,5.45873802791,2.41885750349,-0.13813574249000002,2
+低资产组,5,2.95109399373,1.95793499909,-0.00526065189,2
+高资产组,5,15.907117992469999,13.16281190552,1.23118283503,5

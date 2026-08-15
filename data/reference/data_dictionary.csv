@@ -1,0 +1,8 @@
+dataset,field,definition,required,allowed_values_or_format
+company_screening,screening_status,"样本复核状态",yes,"verified|pending|excluded"
+source_registry,source_type,"来源类型",yes,"annual_report|product_page|job_posting|manual_annotation"
+source_registry,access_date,"访问或下载日期",yes,YYYY-MM-DD
+jobs_raw,job_url,"公开职位页面链接",yes,URL
+jobs_raw,crawl_date,"采集日期",yes,YYYY-MM-DD
+gold_job_annotations,annotator,"人工标注者匿名编号",yes,"例如 A、B"
+llm_outputs,prompt_version,"Prompt版本",yes,"P1|P2|P3"

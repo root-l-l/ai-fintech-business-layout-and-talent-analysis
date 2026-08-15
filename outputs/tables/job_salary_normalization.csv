@@ -1,0 +1,243 @@
+job_id,company_name,job_title,salary_raw,disclosure_status,pay_period,rmb_min,rmb_max,salary_months,parse_note
+JOB_0001,恒生电子,数据开发工程师,15-25K,numeric_disclosed,month,15000.0,25000.0,,
+JOB_0002,恒生电子,智能体开发工程师-研究院,30-40K,numeric_disclosed,month,30000.0,40000.0,,
+JOB_0003,恒生电子,高级C++开发工程师,30-50K,numeric_disclosed,month,30000.0,50000.0,,
+JOB_0004,恒生电子,C++开发工程师-经纪业务,20-30K·14薪,numeric_disclosed,month,20000.0,30000.0,14.0,
+JOB_0005,恒生电子,Java技术专家-资产管理,20-35K,numeric_disclosed,month,20000.0,35000.0,,
+JOB_0006,恒生电子,C++开发工程师-经纪业务,20-30K,numeric_disclosed,month,20000.0,30000.0,,
+JOB_0007,恒生电子,C++开发工程师-经纪业务,20-30K,numeric_disclosed,month,20000.0,30000.0,,
+JOB_0008,恒生电子,Java开发工程师-机构服务,20-30K,numeric_disclosed,month,20000.0,30000.0,,
+JOB_0009,恒生电子,C++开发工程师-经纪业务,20-30K·15薪,numeric_disclosed,month,20000.0,30000.0,15.0,
+JOB_0010,恒生电子,模型后训练技术负责人（团队负责人）,50-80K,numeric_disclosed,month,50000.0,80000.0,,
+JOB_0011,恒生电子,C++开发工程师-经纪业务,18-30K,numeric_disclosed,month,18000.0,30000.0,,
+JOB_0012,同花顺,NLP大模型算法专家（总部岗位）,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0013,同花顺,算法博士（NLP/CV/语音/博士专项）,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0014,同花顺,大模型算法工程师-AIME计划,50-80K·15薪,numeric_disclosed,month,50000.0,80000.0,15.0,
+JOB_0015,同花顺,大模型推理加速专家,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0016,同花顺,C++开发专家,35-50K·15薪,numeric_disclosed,month,35000.0,50000.0,15.0,
+JOB_0017,同花顺,数据录入,5-7K·14薪,numeric_disclosed,month,5000.0,7000.0,14.0,
+JOB_0018,同花顺,AI agent开发（base总部）,30-60K·15薪,numeric_disclosed,month,30000.0,60000.0,15.0,
+JOB_0019,同花顺,大模型算法工程师（大模型Agent方向）,面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0020,同花顺,实习算法工程师【博士专项】,500-600元/天,numeric_disclosed,day,500.0,600.0,,
+JOB_0021,同花顺,推广推荐算法工程师,面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0022,同花顺,量化研究员,面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0023,同花顺,多模态算法工程师,面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0024,同花顺,数据分析,15-20K·15薪,numeric_disclosed,month,15000.0,20000.0,15.0,
+JOB_0025,同花顺,测试开发工程师,12-16K·15薪,numeric_disclosed,month,12000.0,16000.0,15.0,
+JOB_0026,同花顺,技术负责人（AIGC出海业务技术）,50-70K·15薪,numeric_disclosed,month,50000.0,70000.0,15.0,
+JOB_0027,同花顺,AIME人才计划算法工程师,50-80K,numeric_disclosed,month,50000.0,80000.0,,
+JOB_0028,同花顺,大模型算法工程师,50-75K·15薪,numeric_disclosed,month,50000.0,75000.0,15.0,
+JOB_0029,同花顺,AI Agent 工程师 / 全栈,20-40K·15薪,numeric_disclosed,month,20000.0,40000.0,15.0,
+JOB_0030,同花顺,ACM专项岗位—AI工程师,30-40K,numeric_disclosed,month,30000.0,40000.0,,
+JOB_0031,同花顺,推理加速专家/主管,70-100K·16薪,numeric_disclosed,month,70000.0,100000.0,16.0,
+JOB_0032,同花顺,golang高级开发工程师,28-45K·15薪,numeric_disclosed,month,28000.0,45000.0,15.0,
+JOB_0033,同花顺,ACM专项招聘,30-60K,numeric_disclosed,month,30000.0,60000.0,,
+JOB_0034,同花顺,算法实习生,430-520元/天,numeric_disclosed,day,430.0,520.0,,
+JOB_0035,同花顺,agent算法/合伙人/专家（多模态/大模型）,30-60K·15薪,numeric_disclosed,month,30000.0,60000.0,15.0,
+JOB_0036,同花顺,ACM工程开发——摘星计划,35-50K·15薪,numeric_disclosed,month,35000.0,50000.0,15.0,
+JOB_0037,同花顺,推理优化算法专家,60-90K·15薪,numeric_disclosed,month,60000.0,90000.0,15.0,
+JOB_0038,同花顺,VLA算法工程师,400-550元/天,numeric_disclosed,day,400.0,550.0,,
+JOB_0039,同花顺,语音引擎开发工程师,30-60K·15薪,numeric_disclosed,month,30000.0,60000.0,15.0,
+JOB_0040,同花顺,AI研发-寻找ACMer,30-60K,numeric_disclosed,month,30000.0,60000.0,,
+JOB_0041,同花顺,安全开发专家,30-60K,numeric_disclosed,month,30000.0,60000.0,,
+JOB_0042,同花顺,AI应用开发工程师,20-40K,numeric_disclosed,month,20000.0,40000.0,,
+JOB_0043,同花顺,行情后台开发工程师,25-45K,numeric_disclosed,month,25000.0,45000.0,,
+JOB_0044,同花顺,C++开发主管（PC客户端）,50-80K·16薪,numeric_disclosed,month,50000.0,80000.0,16.0,
+JOB_0045,同花顺,Java开发工程师,20-40K·14薪,numeric_disclosed,month,20000.0,40000.0,14.0,
+JOB_0046,同花顺,算法博士（实习/社招）,50-80K·15薪,numeric_disclosed,month,50000.0,80000.0,15.0,
+JOB_0047,同花顺,量化策略研发工程师,30-45K,numeric_disclosed,month,30000.0,45000.0,,
+JOB_0048,同花顺,C/C++ 研发工程师,20-40K·14薪,numeric_disclosed,month,20000.0,40000.0,14.0,
+JOB_0049,同花顺,C/C++ 开发工程师,25-50K·15薪,numeric_disclosed,month,25000.0,50000.0,15.0,
+JOB_0050,同花顺,C/C++ 开发工程师,20-35K,numeric_disclosed,month,20000.0,35000.0,,
+JOB_0051,同花顺,博士算法研究员,40-65K·14薪,numeric_disclosed,month,40000.0,65000.0,14.0,
+JOB_0052,同花顺,Java开发工程师,20-40K,numeric_disclosed,month,20000.0,40000.0,,
+JOB_0053,同花顺,多模态算法工程师,35-50K·15薪,numeric_disclosed,month,35000.0,50000.0,15.0,
+JOB_0054,同花顺,算法博士（全球AIME计划）,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0055,同花顺,大模型算法工程师,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0056,同花顺,搜索算法专家,50-75K·15薪,numeric_disclosed,month,50000.0,75000.0,15.0,
+JOB_0057,同花顺,大模型算法工程师,40-55K·15薪,numeric_disclosed,month,40000.0,55000.0,15.0,
+JOB_0058,同花顺,AI技术总监,50-80K·15薪,numeric_disclosed,month,50000.0,80000.0,15.0,
+JOB_0059,同花顺,ACM专项—大模型开发工程师,30-40K,numeric_disclosed,month,30000.0,40000.0,,
+JOB_0060,同花顺,AI Agent工程师,40-70K,numeric_disclosed,month,40000.0,70000.0,,
+JOB_0061,同花顺,Agent开发工程师,25-45K·14薪,numeric_disclosed,month,25000.0,45000.0,14.0,
+JOB_0062,同花顺,ACM工程开发——摘星计划,25-35K·15薪,numeric_disclosed,month,25000.0,35000.0,15.0,
+JOB_0063,同花顺,agent工程开发,50-80K·16薪,numeric_disclosed,month,50000.0,80000.0,16.0,
+JOB_0064,同花顺,C++开发工程师（ACM计划）,30-50K,numeric_disclosed,month,30000.0,50000.0,,
+JOB_0065,同花顺,AI infra（云原生、沙箱、GPU）,30-60K·15薪,numeric_disclosed,month,30000.0,60000.0,15.0,
+JOB_0066,同花顺,算法博士专项【NLP/语音/多模态/图像】,65-95K·15薪,numeric_disclosed,month,65000.0,95000.0,15.0,
+JOB_0067,同花顺,AI算法合伙人/专家/负责人,30-60K·15薪,numeric_disclosed,month,30000.0,60000.0,15.0,
+JOB_0068,同花顺,容器与算力平台稳定性开发工程师,35-65K·15薪,numeric_disclosed,month,35000.0,65000.0,15.0,
+JOB_0069,同花顺,大模型基座算法工程师,45-75K·15薪,numeric_disclosed,month,45000.0,75000.0,15.0,
+JOB_0070,同花顺,算法专家（NER/命名实体识别）,63-75K·15薪,numeric_disclosed,month,63000.0,75000.0,15.0,
+JOB_0071,同花顺,AI开发工程师,40-70K·16薪,numeric_disclosed,month,40000.0,70000.0,16.0,
+JOB_0072,同花顺,视频生成算法工程师,30-60K·15薪,numeric_disclosed,month,30000.0,60000.0,15.0,
+JOB_0073,同花顺,高级AI开发/主管,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0074,同花顺,算法工程师（AIME人才计划）,45-75K·15薪,numeric_disclosed,month,45000.0,75000.0,15.0,
+JOB_0075,同花顺,AIME人才计划算法（LLM方向）,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0076,同花顺,算法专家（大模型/AIGC等需求方向）,50-80K,numeric_disclosed,month,50000.0,80000.0,,
+JOB_0077,同花顺,ACM专项—算法、AI开发、AI工程,26-45K,numeric_disclosed,month,26000.0,45000.0,,
+JOB_0078,同花顺,Java技术专家/主管,35-55K·15薪,numeric_disclosed,month,35000.0,55000.0,15.0,
+JOB_0079,同花顺,大模型推理内核工程师（GPU算力）,30-60K·15薪,numeric_disclosed,month,30000.0,60000.0,15.0,
+JOB_0080,同花顺,技术专家/架构师,50-80K·16薪,numeric_disclosed,month,50000.0,80000.0,16.0,
+JOB_0081,同花顺,视频生成算法,35-65K·15薪,numeric_disclosed,month,35000.0,65000.0,15.0,
+JOB_0082,同花顺,高级推荐算法工程师,35-65K·15薪,numeric_disclosed,month,35000.0,65000.0,15.0,
+JOB_0083,同花顺,推荐算法专家,40-60K·15薪,numeric_disclosed,month,40000.0,60000.0,15.0,
+JOB_0084,同花顺,算法博士（算法研究，量化）,35-55K·15薪,numeric_disclosed,month,35000.0,55000.0,15.0,
+JOB_0085,同花顺,AI应用工程师,30-45K·15薪,numeric_disclosed,month,30000.0,45000.0,15.0,
+JOB_0086,同花顺,AI infra算法工程师,50-80K,numeric_disclosed,month,50000.0,80000.0,,
+JOB_0087,同花顺,推荐营销算法,35-65K·15薪,numeric_disclosed,month,35000.0,65000.0,15.0,
+JOB_0088,同花顺,Agent算法工程师,30-60K·14薪,numeric_disclosed,month,30000.0,60000.0,14.0,
+JOB_0089,同花顺,资深Java研发工程师/专家/TL,40-70K·15薪,numeric_disclosed,month,40000.0,70000.0,15.0,
+JOB_0090,同花顺,AI Builder（云原生PaaS与C++）,35-65K·15薪,numeric_disclosed,month,35000.0,65000.0,15.0,
+JOB_0091,同花顺,推理引擎开发专家/优化专家（算力方向）,35-65K·15薪,numeric_disclosed,month,35000.0,65000.0,15.0,
+JOB_0092,同花顺,算法专家（AIME人才计划）,50-80K·16薪,numeric_disclosed,month,50000.0,80000.0,16.0,
+JOB_0093,同花顺,算法工程师（人才计划 金融Agent）,45-70K·15薪,numeric_disclosed,month,45000.0,70000.0,15.0,
+JOB_0094,同花顺,LLM推理引擎研发工程师,35-65K·15薪,numeric_disclosed,month,35000.0,65000.0,15.0,
+JOB_0095,东方财富,算法实习生（大模型/Agent方向）,220-280元/天,numeric_disclosed,day,220.0,280.0,,
+JOB_0096,东方财富,算法实习生-大模型/Agent方向,200-250元/天,numeric_disclosed,day,200.0,250.0,,
+JOB_0097,东方财富,经营分析岗,12-20K·16薪,numeric_disclosed,month,12000.0,20000.0,16.0,
+JOB_0098,东方财富,数据编辑 (MJ001940),8-10K,numeric_disclosed,month,8000.0,10000.0,,
+JOB_0099,东方财富,服务端-AI应用开发-南京-27届暑期实习,200-250元/天,numeric_disclosed,day,200.0,250.0,,
+JOB_0100,东方财富,数据编辑,3-5K·13薪,numeric_disclosed,month,3000.0,5000.0,13.0,
+JOB_0101,东方财富,AI应用工程师（证券）,30-45K·16薪,numeric_disclosed,month,30000.0,45000.0,16.0,
+JOB_0102,东方财富,信息安全岗 (MJ002671),18-25K·16薪,numeric_disclosed,month,18000.0,25000.0,16.0,
+JOB_0103,东方财富,客户端开发工程师 (MJ002707),25-35K·16薪,numeric_disclosed,month,25000.0,35000.0,16.0,
+JOB_0104,东方财富,算法工程师 (MJ002932),25-45K·16薪,numeric_disclosed,month,25000.0,45000.0,16.0,
+JOB_0105,东方财富,AI应用工程师 (证券),25-40K·16薪,numeric_disclosed,month,25000.0,40000.0,16.0,
+JOB_0106,东方财富,C++服务端开发工程师 (证券),20-35K·16薪,numeric_disclosed,month,20000.0,35000.0,16.0,
+JOB_0107,东方财富,java服务端开发工程师,15-25K·16薪,numeric_disclosed,month,15000.0,25000.0,16.0,
+JOB_0108,东方财富,C++服务端开发工程师 (证券),20-40K·16薪,numeric_disclosed,month,20000.0,40000.0,16.0,
+JOB_0109,东方财富,Java服务端开发工程师 (AI应用方向),25-35K·15薪,numeric_disclosed,month,25000.0,35000.0,15.0,
+JOB_0110,东方财富,服务端开发工程师 (Java),18-35K·16薪,numeric_disclosed,month,18000.0,35000.0,16.0,
+JOB_0111,东方财富,服务端工程师 (Java),18-30K·16薪,numeric_disclosed,month,18000.0,30000.0,16.0,
+JOB_0112,东方财富,服务端开发工程师Java (证券交易),20-35K·16薪,numeric_disclosed,month,20000.0,35000.0,16.0,
+JOB_0113,东方财富,JAVA服务端开发工程师 (财务系统-外包),13-18K,numeric_disclosed,month,13000.0,18000.0,,
+JOB_0114,东方财富,数据编辑 (MJ001945),7-10K,numeric_disclosed,month,7000.0,10000.0,,
+JOB_0115,东方财富,数据编辑专员,3-5K·13薪,numeric_disclosed,month,3000.0,5000.0,13.0,
+JOB_0116,东方财富,AI Agent 架构师 (MJ002936),40-60K·16薪,numeric_disclosed,month,40000.0,60000.0,16.0,
+JOB_0117,东方财富,资深服务端开发工程师-Java (MJ00...),25-40K·16薪,numeric_disclosed,month,25000.0,40000.0,16.0,
+JOB_0118,东方财富,算法工程师 (大模型方向),35-65K·16薪,numeric_disclosed,month,35000.0,65000.0,16.0,
+JOB_0119,东方财富,算法工程师（大模型方向）,35-65K·16薪,numeric_disclosed,month,35000.0,65000.0,16.0,
+JOB_0120,东方财富,算法工程师（推荐/搜索方向）,25-45K,numeric_disclosed,month,25000.0,45000.0,,
+JOB_0121,东方财富,AI应用工程师（证券）(MJ002957),25-40K,numeric_disclosed,month,25000.0,40000.0,,
+JOB_0122,东方财富,C++服务端开发工程师（证券交易）,25-40K·16薪,numeric_disclosed,month,25000.0,40000.0,16.0,
+JOB_0123,东方财富,Java服务端开发工程师（证券）,25-40K·16薪,numeric_disclosed,month,25000.0,40000.0,16.0,
+JOB_0124,金证股份,DevOps工程师,14-16K,numeric_disclosed,month,14000.0,16000.0,,
+JOB_0125,金证股份,Python开发,10-14K,numeric_disclosed,month,10000.0,14000.0,,
+JOB_0126,金证股份,Java开发工程师（海通证券）,12-20K,numeric_disclosed,month,12000.0,20000.0,,
+JOB_0127,金证股份,Java开发工程师,12-18K,numeric_disclosed,month,12000.0,18000.0,,
+JOB_0128,金证股份,C++高级开发工程师（平台/AI方向）,20-30K,numeric_disclosed,month,20000.0,30000.0,,
+JOB_0129,金证股份,高级Java开发工程师（深圳国泰海通项目）,15-18K,numeric_disclosed,month,15000.0,18000.0,,
+JOB_0130,金证股份,Java开发工程师,15-20K,numeric_disclosed,month,15000.0,20000.0,,
+JOB_0131,金证股份,C++主管开发工程师,20-30K,numeric_disclosed,month,20000.0,30000.0,,
+JOB_0133,金证股份,高级java开发,12-17K,numeric_disclosed,month,12000.0,17000.0,,
+JOB_0134,金证股份,C/C++开发工程师,100-150元/天,numeric_disclosed,day,100.0,150.0,,
+JOB_0135,金证股份,Java开发工程师（深圳国泰海通）,12-15K,numeric_disclosed,month,12000.0,15000.0,,
+JOB_0136,金证股份,C++开发工程师,10-12K,numeric_disclosed,month,10000.0,12000.0,,
+JOB_0137,金证股份,Java开发工程师,15-22K,numeric_disclosed,month,15000.0,22000.0,,
+JOB_0138,金证股份,Java开发工程师,13-16K,numeric_disclosed,month,13000.0,16000.0,,
+JOB_0139,金证股份,Java开发工程师（上海国泰海通项目）,15-18K,numeric_disclosed,month,15000.0,18000.0,,
+JOB_0140,金证股份,2026届C++开发实习生,120-140元/天,numeric_disclosed,day,120.0,140.0,,
+JOB_0141,金证股份,【2027届】C/C++开发实习生,150-250元/天,numeric_disclosed,day,150.0,250.0,,
+JOB_0142,金证股份,JAVA开发工程师,11-20K,numeric_disclosed,month,11000.0,20000.0,,
+JOB_0143,新致软件,软件测试工程师（含 4 级功能测试 / 5 级数据测试 / 4-5 级自动化测试方向）,12-14K,numeric_disclosed,month,12000.0,14000.0,,
+JOB_0144,新致软件,投资经理（AI+MCN 方向）,7-12K,numeric_disclosed,month,7000.0,12000.0,,
+JOB_0145,新致软件,测试工程师,7-8K,numeric_disclosed,month,7000.0,8000.0,,
+JOB_0146,新致软件,测试工程师（兴业银行外包）,8-13K,numeric_disclosed,month,8000.0,13000.0,,
+JOB_0147,新致软件,中级测试工程师,12-14K,numeric_disclosed,month,12000.0,14000.0,,
+JOB_0148,新致软件,AI 产品经理,20-21K,numeric_disclosed,month,20000.0,21000.0,,
+JOB_0149,新致软件,测试工程师（外派保险）,10-11K,numeric_disclosed,month,10000.0,11000.0,,
+JOB_0150,新致软件,Java 实习生,120-150 元 / 天,numeric_disclosed,day,120.0,150.0,,
+JOB_0151,科大讯飞,高级 Java 开发工程师（科大讯飞）,30-45K・14 薪,numeric_disclosed,month,30000.0,45000.0,14.0,
+JOB_0152,科大讯飞,智慧信贷研发组长（科大讯飞）,23-45K・14 薪,numeric_disclosed,month,23000.0,45000.0,14.0,
+JOB_0153,拓尔思,AI 产品工程师,11-15K,numeric_disclosed,month,11000.0,15000.0,,
+JOB_0154,拓尔思,金融行业大客户经理,15-30K,numeric_disclosed,month,15000.0,30000.0,,
+JOB_0155,拓尔思,初级数据分析师（正式）,9-13K,numeric_disclosed,month,9000.0,13000.0,,
+JOB_0156,拓尔思,AI 产品经理,9-13K,numeric_disclosed,month,9000.0,13000.0,,
+JOB_0157,拓尔思,产品经理,18-25K,numeric_disclosed,month,18000.0,25000.0,,
+JOB_0158,拓尔思,数据分析实习生,150-200 元 / 天,numeric_disclosed,day,150.0,200.0,,
+JOB_0159,拓尔思,交互设计师（可转岗产品经理）,8-13K,numeric_disclosed,month,8000.0,13000.0,,
+JOB_0160,拓尔思,产品经理,15-25K,numeric_disclosed,month,15000.0,25000.0,,
+JOB_0161,拓尔思,高级数据分析师（正式）,15-20K,numeric_disclosed,month,15000.0,20000.0,,
+JOB_0162,拓尔思,数据分析实习生,180-200 元 / 天,numeric_disclosed,day,180.0,200.0,,
+JOB_0163,天阳科技,金融工程师,15-30K,numeric_disclosed,month,15000.0,30000.0,,
+JOB_0164,天阳科技,Java 开发（银行驻场）,10-11K,numeric_disclosed,month,10000.0,11000.0,,
+JOB_0165,天阳科技,初级 java 开发工程师,10-12K,numeric_disclosed,month,10000.0,12000.0,,
+JOB_0166,天阳科技,UI 设计师,12-18K,numeric_disclosed,month,12000.0,18000.0,,
+JOB_0167,天阳科技,金融测试工程师,11-12K,numeric_disclosed,month,11000.0,12000.0,,
+JOB_0168,天阳科技,版本管理工程师（配置管理 / DevOps）,5-9K,numeric_disclosed,month,5000.0,9000.0,,
+JOB_0169,天阳科技,功能测试工程师,8-11K,numeric_disclosed,month,8000.0,11000.0,,
+JOB_0170,天阳科技,大数据开发工程师,11-13K,numeric_disclosed,month,11000.0,13000.0,,
+JOB_0171,天阳科技,前端开发工程师,13-19K,numeric_disclosed,month,13000.0,19000.0,,
+JOB_0172,天阳科技,ETL 开发工程师,10-15K,numeric_disclosed,month,10000.0,15000.0,,
+JOB_0173,天阳科技,资深数据治理工程师（咨询方向）,18-22K,numeric_disclosed,month,18000.0,22000.0,,
+JOB_0174,天阳科技,java 中级开发工程师,15-16K,numeric_disclosed,month,15000.0,16000.0,,
+JOB_0175,天阳科技,财务系统实施顾问,12-14K,numeric_disclosed,month,12000.0,14000.0,,
+JOB_0176,科蓝软件,初级 JAVA 开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0177,科蓝软件,中级 JAVA 开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0178,科蓝软件,Android 开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0179,科蓝软件,架构师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0180,科蓝软件,金融业务分析师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0181,京北方,测试专家,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0182,京北方,高级全栈开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0183,京北方,中级 Java 开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0184,中科软,Java 开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0185,中科软,前端开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0186,中科软,Python 开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0187,中科软,大数据开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0188,中科软,数据分析师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0189,中科软,自动化测试开发工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0190,中科软,测试工程师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0191,中科软,产品经理,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0192,中科软,UI 设计师,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0193,中科软,运营副总,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0194,中科软,业务经理,未公示,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0195,赢时胜,需求分析实习生,3000 - 5000 元/月,numeric_disclosed,month,3000.0,5000.0,,
+JOB_0196,赢时胜,需求分析实习生,4000 - 6000 元/月,numeric_disclosed,month,4000.0,6000.0,,
+JOB_0197,赢时胜,需求分析实习生,实习待遇：本科： 4000-5000元/月 研究生：5000-6000元/月 转正待遇：本科：8000-10000元/月 研究生：9000-12000元/月,numeric_disclosed,month,4000.0,5000.0,,
+JOB_0198,赢时胜,软件测试实习生,3500 - 5500 元/月,numeric_disclosed,month,3500.0,5500.0,,
+JOB_0199,赢时胜,软件测试实习生,2500 - 3500 元/月,numeric_disclosed,month,2500.0,3500.0,,
+JOB_0200,宇信科技,高级业务专家,,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0201,宇信科技,高级业务专家(J11951),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0202,宇信科技,中级业务分析师(J11964),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0203,宇信科技,资深业务专家(J11984),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0204,宇信科技,中级业务分析师(J11833),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0205,宇信科技,中级软件工程师(J11919),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0208,宇信科技,中级软件工程师(J11919),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0209,宇信科技,信贷业务专家(J11646),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0210,宇信科技,信贷部门-技术岗(J11782),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0211,宇信科技,监管报送产品经理(J11557),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0212,宇信科技,高级业务分析师(J11985),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0213,宇信科技,中级系统工程师(J11841),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0214,宇信科技,高级UED设计师(J11847),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0215,宇信科技,中级软件工程师(J11969),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0216,宇信科技,东部数据一部服务类(J11846),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0217,宇信科技,高级软件工程师(J11802),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0218,宇信科技,中级测试工程师(J11889),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0219,宇信科技,中级软件工程师(J11963),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0220,宇信科技,初级系统工程师(J11995),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0221,宇信科技,【校招-高潜人才】大模型应用开发工程师(J12429),15-25K/月（硕士）、10-20K/月（本科）,numeric_disclosed,month,15000.0,25000.0,,
+JOB_0222,宇信科技,【校招-高潜人才】业务分析师(J12428),12-20K/月,numeric_disclosed,month,12000.0,20000.0,,
+JOB_0223,宇信科技,【校招】销售管培生(J12452),10-18K/月+业绩提成,numeric_disclosed,month,10000.0,18000.0,,
+JOB_0224,宇信科技,【校招】JAVA开发工程师(J12462),10-20K/月,numeric_disclosed,month,10000.0,20000.0,,
+JOB_0225,宇信科技,【校招】大数据开发工程师(J12463),12-22K/月,numeric_disclosed,month,12000.0,22000.0,,
+JOB_0226,宇信科技,【校招】业务分析师(J12465),10-18K/月,numeric_disclosed,month,10000.0,18000.0,,
+JOB_0227,宇信科技,【实习】大模型应用开发工程师（2027届，有留用机会）(J12974),150-300元/天,numeric_disclosed,day,150.0,300.0,,
+JOB_0228,宇信科技,【实习】JAVA开发工程师（有转正机会）(J12753),150-250元/天,numeric_disclosed,day,150.0,250.0,,
+JOB_0229,宇信科技,【实习】大数据开发工程师（有转正机会）(J12571),150-300元/天,numeric_disclosed,day,150.0,300.0,,
+JOB_0230,神州信息,高级java组长(J16069),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0231,神州信息,中级java开发工程师(J17189),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0232,神州信息,软件工程师(J12245),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0233,神州信息,软件工程师(J22429),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0234,神州信息,软件工程师(J22380),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0235,神州信息,软件工程师(J22342),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0236,神州信息,软件工程师(J22337),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0237,神州信息,软件工程师(J22248),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0238,神州信息,软件工程师(J22215),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0239,神州信息,软件测试工程师(J22212),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0240,神州信息,软件工程师(J22130),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0241,神州信息,27届提前批-Java开发工程师（上海）(J22222),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0242,神州信息,27届提前批-Java开发工程师（西安）(J21822),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0243,神州信息,27届提前批-Java开发工程师（北京）(J21821),面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0244,长亮科技,销售经理（大数据产品）,面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.
+JOB_0245,长亮科技,销售经理,面议,not_disclosed,unknown,,,,No numeric salary disclosed in source.

@@ -1,0 +1,27 @@
+{
+  "job_title": "中级测试工程师",
+  "salary_range": "12-14K",
+  "work_location": "上海",
+  "hard_skills": [
+    "接口自动化测试用例编写、调试与维护",
+    "Oracle、MySQL 等数据库，可编写 SQL 语句、存储过程与函数",
+    "Python/Java 编程语言，可开发测试小工具"
+  ],
+  "soft_skills": [
+    "工作认真细致",
+    "具备较强的沟通理解能力"
+  ],
+  "education": "本科",
+  "experience": "3-5 年相关工作经验",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：中级测试工程师",
+    "salary_range": "薪资范围：12-14K",
+    "work_location": "工作地点：上海",
+    "hard_skills": "硬技能：1. 掌握接口自动化测试用例编写、调试与维护2. 熟悉 Oracle、MySQL 等数据库，可编写 SQL 语句、存储过程与函数3. 至少掌握 Python/Java 一种编程语言，可开发测试小工具",
+    "soft_skills": "软技能：工作认真细致，具备较强的沟通理解能力",
+    "education": "学历要求：本科",
+    "experience": "经验要求：3-5 年相关工作经验",
+    "ai_tech_stack": "AI相关技术栈要求：无明确要求"
+  }
+}

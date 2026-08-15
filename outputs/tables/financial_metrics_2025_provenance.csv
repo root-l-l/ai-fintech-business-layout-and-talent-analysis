@@ -1,0 +1,46 @@
+company_code,metric,source_page,source_excerpt,extraction_method,verification_status
+600570.SH,revenue_yuan,6,"5,782,928,939.92",table_cell,machine_extracted_source_table_requires_manual_audit
+600570.SH,net_profit_attributable_yuan,6,"1,231,182,835.03",table_cell,machine_extracted_source_table_requires_manual_audit
+600570.SH,total_assets_yuan,6,"15,907,117,992.47",table_cell,machine_extracted_source_table_requires_manual_audit
+300663.SZ,revenue_yuan,8,"590,844,813.06",table_cell,machine_extracted_source_table_requires_manual_audit
+300663.SZ,net_profit_attributable_yuan,8,"-394,960,371.14",table_cell,machine_extracted_source_table_requires_manual_audit
+300663.SZ,total_assets_yuan,8,"1,766,409,273.43",table_cell,machine_extracted_source_table_requires_manual_audit
+002987.SZ,revenue_yuan,7,"4,839,049,619.20",table_cell,machine_extracted_source_table_requires_manual_audit
+002987.SZ,net_profit_attributable_yuan,7,"327,388,083.10",table_cell,machine_extracted_source_table_requires_manual_audit
+002987.SZ,total_assets_yuan,7,"总资产（元）3,560,501,383.803,379,648,532.265.35%3,072,875,390.74归属于上市公司股东2,979,647,250.822,808,260,514.286.10%2,546,110,980.81的净资产（元）公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性□是否公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净利润三",text_fallback,machine_extracted_source_table_requires_manual_audit
+603927.SH,revenue_yuan,8,"6,028,200,653.02",table_cell,machine_extracted_source_table_requires_manual_audit
+603927.SH,net_profit_attributable_yuan,8,"223,944,681.56",table_cell,machine_extracted_source_table_requires_manual_audit
+603927.SH,total_assets_yuan,8,"7,994,112,191.21",table_cell,machine_extracted_source_table_requires_manual_audit
+688590.SH,revenue_yuan,7,"2,106,579,792.56",table_cell,machine_extracted_source_table_requires_manual_audit
+688590.SH,net_profit_attributable_yuan,7,"-127,365,589.93",table_cell,machine_extracted_source_table_requires_manual_audit
+688590.SH,total_assets_yuan,7,"3,210,084,146.61",table_cell,machine_extracted_source_table_requires_manual_audit
+002230.SZ,revenue_yuan,7,"27,105,390,547.66",table_cell,machine_extracted_source_table_requires_manual_audit
+002230.SZ,net_profit_attributable_yuan,7,"839,390,861.36",table_cell,machine_extracted_source_table_requires_manual_audit
+002230.SZ,total_assets_yuan,7,"总资产（元）44,857,109,349.3441,478,899,803.208.14%37,831,122,978.15归属于上市公司股东的净资产18,794,462,168.6917,793,386,034.675.63%17,032,284,511.72（元）公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性□是☑否公司报告期内经审计利润总额、净利润、扣除非经常性损益",text_fallback,machine_extracted_source_table_requires_manual_audit
+300229.SZ,revenue_yuan,10,"营业收入（元）511,344,793.45777,034,453.08-34.19%781,678,373.42归属于上市公司股东的净利润（元）-293,749,397.56-94,145,629.80-212.02%36,465,973.39归属于上市公司股东的扣除非经常性-335,753,340.94-170,533,242.93-96.88%2,428,630.97损益的净利润（元）经营活动产生的现金流量净额（元）197,978,",text_fallback,machine_extracted_source_table_requires_manual_audit
+300229.SZ,net_profit_attributable_yuan,10,"归属于上市公司股东的净利润（元）-293,749,397.56-94,145,629.80-212.02%36,465,973.39归属于上市公司股东的扣除非经常性-335,753,340.94-170,533,242.93-96.88%2,428,630.97损益的净利润（元）经营活动产生的现金流量净额（元）197,978,468.3369,459,171.56185.03%45,940,871.74基本每股收益（元/股）-0.336",text_fallback,machine_extracted_source_table_requires_manual_audit
+300229.SZ,total_assets_yuan,10,"资产总额（元）4,207,791,883.054,481,824,962.63-6.11%3,746,005,629.18归属于上市公司股东的净资产（元）3,846,553,812.814,125,239,803.11-6.76%3,352,105,013.12公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性□是否公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净",text_fallback,machine_extracted_source_table_requires_manual_audit
+300033.SZ,revenue_yuan,7,"6,028,985,966.48",table_cell,machine_extracted_source_table_requires_manual_audit
+300033.SZ,net_profit_attributable_yuan,7,"归属于上市公司股东的3,205,082,002.691,823,266,690.0375.79%1,402,468,555.23净利润（元）归属于上市公司股东的扣除非经常性损益的净3,051,009,895.431,764,896,337.9272.87%1,368,922,316.80利润（元）经营活动产生的现金流3,774,236,497.702,315,506,812.2763.00%1,591,901,414.82量净额（元）基",text_fallback,machine_extracted_source_table_requires_manual_audit
+300033.SZ,total_assets_yuan,7,"15,832,994,333.52",table_cell,machine_extracted_source_table_requires_manual_audit
+300059.SZ,revenue_yuan,7,"营业总收入（元）16,067,741,039.5111,604,343,090.1638.46%11,081,439,282.37归属于上市公司股东的净利润（元）12,084,594,947.229,610,120,743.6425.75%8,193,469,277.99归属于上市公司股东的扣除非经常性11,653,886,754.899,253,228,906.8125.94%7,861,598,966.25损益的净利润（元）经营活动",text_fallback,machine_extracted_source_table_requires_manual_audit
+300059.SZ,net_profit_attributable_yuan,7,"归属于上市公司股东的净利润（元）12,084,594,947.229,610,120,743.6425.75%8,193,469,277.99归属于上市公司股东的扣除非经常性11,653,886,754.899,253,228,906.8125.94%7,861,598,966.25损益的净利润（元）经营活动产生的现金流量净额（元）-10,222,245,645.1444,587,872,891.43-122.93%-3,137,724",text_fallback,machine_extracted_source_table_requires_manual_audit
+300059.SZ,total_assets_yuan,7,"资产总额（元）392,933,744,976.20306,369,357,347.3028.25%239,578,320,552.16归属于上市公司股东的净资产（元）91,875,470,955.3180,727,090,522.6313.81%71,962,860,559.82注：公司营业总收入不包括证券业务产生的投资收益及公允价值变动损益。公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经",text_fallback,machine_extracted_source_table_requires_manual_audit
+600446.SH,revenue_yuan,6,"2,418,857,503.49",table_cell,machine_extracted_source_table_requires_manual_audit
+600446.SH,net_profit_attributable_yuan,6,"-168,353,895.22",table_cell,machine_extracted_source_table_requires_manual_audit
+600446.SH,total_assets_yuan,6,"5,458,738,027.91",table_cell,machine_extracted_source_table_requires_manual_audit
+300377.SZ,revenue_yuan,10,"1,373,047,831.21",table_cell,machine_extracted_source_table_requires_manual_audit
+300377.SZ,net_profit_attributable_yuan,10,"-5,260,651.89",table_cell,machine_extracted_source_table_requires_manual_audit
+300377.SZ,total_assets_yuan,10,"2,754,606,206.17",table_cell,machine_extracted_source_table_requires_manual_audit
+300674.SZ,revenue_yuan,11,"3,623,081,673.57",table_cell,machine_extracted_source_table_requires_manual_audit
+300674.SZ,net_profit_attributable_yuan,11,"431,843,595.03",table_cell,machine_extracted_source_table_requires_manual_audit
+300674.SZ,total_assets_yuan,11,"6,818,799,864.19",table_cell,machine_extracted_source_table_requires_manual_audit
+000555.SZ,revenue_yuan,10,"营业收入（元） 13,162,811,905.52 10,002,831,521.49 31.59% 12,056,229,678.83",manual_source_line_correction,manual_source_line_selected
+000555.SZ,net_profit_attributable_yuan,10,"归属于上市公司股东的净利润（元） 56,428,334.46 -524,060,125.94 110.77% 207,127,329.98",manual_source_line_correction,manual_source_line_selected
+000555.SZ,total_assets_yuan,11,"资产总额（元） 12,525,575,558.10 11,979,374,002.81 4.56% 12,815,505,492.23",manual_source_line_correction,manual_source_line_selected
+300348.SZ,revenue_yuan,11,"营业收入（元）1,957,934,999.091,736,421,794.4012.76%1,917,862,625.17归属于上市公司股东20,596,720.5918,585,986.7810.82%32,146,344.61的净利润（元）归属于上市公司股东的扣除非经常性损益15,120,729.3214,175,479.806.67%25,736,587.95的净利润（元）经营活动产生的现金147,982,356.92120,23",text_fallback,machine_extracted_source_table_requires_manual_audit
+300348.SZ,net_profit_attributable_yuan,11,"归属于上市公司股东20,596,720.5918,585,986.7810.82%32,146,344.61的净利润（元）归属于上市公司股东的扣除非经常性损益15,120,729.3214,175,479.806.67%25,736,587.95的净利润（元）经营活动产生的现金147,982,356.92120,235,160.9123.08%105,700,561.47流量净额（元）基本每股收益（元/0.02540.02434.53%",text_fallback,machine_extracted_source_table_requires_manual_audit
+300348.SZ,total_assets_yuan,11,"资产总额（元）2,951,093,993.732,884,860,960.822.30%2,506,063,390.91归属于上市公司股东2,148,273,969.952,117,035,571.461.48%1,581,599,839.12的净资产（元）公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性□是否公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净利润",text_fallback,machine_extracted_source_table_requires_manual_audit
+300872.SZ,revenue_yuan,9,"营业收入（元）1,776,871,711.481,766,211,579.540.60%1,935,801,733.00归属于上市公司股东-138,135,742.4977,503,842.69-278.23%116,728,781.98的净利润（元）归属于上市公司股东的扣除非经常性损益-197,741,499.702,716,502.32-7,379.27%63,942,346.47的净利润（元）经营活动产生的现金133,634,87",text_fallback,machine_extracted_source_table_requires_manual_audit
+300872.SZ,net_profit_attributable_yuan,9,"归属于上市公司股东-138,135,742.4977,503,842.69-278.23%116,728,781.98的净利润（元）归属于上市公司股东的扣除非经常性损益-197,741,499.702,716,502.32-7,379.27%63,942,346.47的净利润（元）经营活动产生的现金133,634,874.50122,660,310.108.95%406,294,866.95流量净额（元）基本每股收益（元/-0.290.",text_fallback,machine_extracted_source_table_requires_manual_audit
+300872.SZ,total_assets_yuan,9,"资产总额（元）4,784,424,654.804,197,801,354.2613.97%4,037,096,683.54归属于上市公司股东3,583,408,269.693,221,078,383.7111.25%2,593,605,844.12的净资产（元）公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性□是否公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净",text_fallback,machine_extracted_source_table_requires_manual_audit

@@ -1,0 +1,28 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Word",
+    "Axure"
+  ],
+  "soft_skills": [
+    "沟通能力",
+    "团队合作意识",
+    "分析与写作能力",
+    "项目推进与跨部门协同能力"
+  ],
+  "education": "全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业",
+  "experience": "一年以上相关工作经验，有互联网、金融行业经验更佳",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "熟练使用 Word、Axure 软件",
+    "soft_skills": "具备较强的沟通能力与团队合作意识；具备良好的分析与写作能力；具备项目推进与跨部门协同能力",
+    "education": "学历要求：全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业",
+    "experience": "经验要求：一年以上相关工作经验，有互联网、金融行业经验更佳",
+    "ai_tech_stack": "AI相关技术栈要求："
+  }
+}

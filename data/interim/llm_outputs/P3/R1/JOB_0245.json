@@ -1,0 +1,30 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "银行业及计算机应用系统",
+    "银行软件产品销售",
+    "高附加值服务解决方案"
+  ],
+  "soft_skills": [
+    "人际沟通能力",
+    "商务拓展能力",
+    "快速学习能力",
+    "产品展示与表达能力",
+    "客户关系维护与人脉拓展能力"
+  ],
+  "education": "大专及以上",
+  "experience": "具备银行软件产品销售工作经验，有系统销售、模型或咨询项目销售经验优先",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "硬技能：了解银行业及计算机应用系统，具备银行软件产品销售能力，能提供高附加值服务解决方案",
+    "soft_skills": "软技能：良好的人际沟通能力，独立的商务拓展能力，快速学习能力，产品展示与表达能力，客户关系维护与人脉拓展能力",
+    "education": "学历要求：大专及以上",
+    "experience": "经验要求：具备银行软件产品销售工作经验，有系统销售、模型或咨询项目销售经验优先",
+    "ai_tech_stack": "AI相关技术栈要求："
+  }
+}

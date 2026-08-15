@@ -1,0 +1,2 @@
+raw_imported_records,deduplicated_records,duplicates_removed,covered_companies,sample_pool_companies,uncovered_companies,ai_reference_records,ai_reference_definition
+245,242,3,15,15,0,121,AI技术栈字段含AI/人工智能/大模型/智能体/机器学习/深度学习/NLP/自然语言/知识图谱/计算机视觉/算法/风控等词，且不为无相关表述。

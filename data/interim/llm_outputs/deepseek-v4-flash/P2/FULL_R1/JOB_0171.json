@@ -1,0 +1,34 @@
+{
+  "job_title": "前端开发工程师",
+  "salary_range": "13-19K",
+  "work_location": "保定",
+  "hard_skills": [
+    "JavaScript",
+    "ES5/ES6",
+    "Vue",
+    "Angular",
+    "React",
+    "Echarts",
+    "前端工程化",
+    "Git",
+    "组件化开发"
+  ],
+  "soft_skills": [
+    "规范开发习惯",
+    "需求理解顺畅",
+    "团队协作意识强"
+  ],
+  "education": "本科",
+  "experience": "3-5年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：前端开发工程师",
+    "salary_range": "薪资范围：13-19K",
+    "work_location": "工作地点：保定",
+    "hard_skills": "技能要求：精通 JavaScript、ES5/ES6；熟练 Vue、Angular、React、Echarts；掌握前端工程化、Git、组件化开发。",
+    "soft_skills": "规范开发习惯；需求理解顺畅；团队协作意识强",
+    "education": "学历要求：本科",
+    "experience": "经验要求：3-5 年",
+    "ai_tech_stack": null
+  }
+}

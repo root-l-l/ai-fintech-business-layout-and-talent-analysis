@@ -1,0 +1,38 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "SQL",
+    "PLSQL",
+    "数据库查询与优化",
+    "Python",
+    "R",
+    "数据分析",
+    "数据挖掘"
+  ],
+  "soft_skills": [
+    "逻辑思维能力",
+    "沟通表达能力",
+    "自驱力",
+    "业务洞察",
+    "问题解决能力"
+  ],
+  "education": "本科及以上学历，信息技术类、数学、统计学、计量经济学类专业",
+  "experience": "3年以上数据分析相关工作经验",
+  "ai_tech_stack": [
+    "AI智能风控",
+    "精准营销",
+    "智能理赔"
+  ],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "熟练掌握 SQL、PLSQL 编程，具备数据库查询与优化能力；熟悉 Python/R 等数据分析编程语言优先；具备数据分析、数据挖掘能力。",
+    "soft_skills": "强逻辑思维能力、数据分析能力；优秀的沟通表达能力与自驱力；具备业务洞察与问题解决能力",
+    "education": "学历要求：本科及以上学历，信息技术类、数学、统计学、计量经济学类专业",
+    "experience": "经验要求：3 年以上数据分析相关工作经验",
+    "ai_tech_stack": "为 AI 智能风控、精准营销、智能理赔等 AI 金融场景提供数据洞察与模型输入"
+  }
+}

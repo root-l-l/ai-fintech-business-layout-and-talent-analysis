@@ -1,0 +1,50 @@
+{
+  "job_title": "高级 Java 开发工程师（科大讯飞）",
+  "salary_range": "30-45K・14 薪",
+  "work_location": "北京",
+  "hard_skills": [
+    "Java",
+    "Python",
+    "JavaScript/TypeScript",
+    "MySQL",
+    "Redis",
+    "Spring",
+    "微服务架构",
+    "Git",
+    "代码规范",
+    "单元测试",
+    "接口调试",
+    "CI/CD",
+    "SDD",
+    "架构设计"
+  ],
+  "soft_skills": [
+    "技术方案设计",
+    "代码评审",
+    "性能优化",
+    "工程化建设",
+    "信贷全流程业务逻辑",
+    "风控要点",
+    "推动新技术落地"
+  ],
+  "education": "本科及以上",
+  "experience": "5-10年工作经验，2年以上架构经验",
+  "ai_tech_stack": [
+    "大模型",
+    "AI Coding工具（claude code、codex等）",
+    "AI Coding",
+    "智能体开发",
+    "自动化测试",
+    "代码生成"
+  ],
+  "evidence": {
+    "job_title": "职位名称：高级 Java 开发工程师（科大讯飞）",
+    "salary_range": "薪资范围：30-45K・14 薪",
+    "work_location": "工作地点：北京",
+    "hard_skills": "硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。",
+    "soft_skills": "软技能：具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。",
+    "education": "学历要求：本科及以上",
+    "experience": "经验要求：5-10 年工作经验，具备 2 年以上架构经验",
+    "ai_tech_stack": "AI相关技术栈要求：具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践"
+  }
+}

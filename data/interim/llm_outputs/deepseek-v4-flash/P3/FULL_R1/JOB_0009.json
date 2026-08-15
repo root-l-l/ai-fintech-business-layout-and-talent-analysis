@@ -1,0 +1,34 @@
+{
+  "job_title": "C++开发工程师-经纪业务",
+  "salary_range": "20-30K·15薪",
+  "work_location": "杭州",
+  "hard_skills": [
+    "C/C++",
+    "C",
+    "Linux",
+    "全内存证券交易系统",
+    "多线程/进程编程",
+    "内存管理",
+    "数据库"
+  ],
+  "soft_skills": [
+    "责任心",
+    "沟通能力",
+    "抗压能力",
+    "系统分析和设计能力",
+    "技术钻研能力"
+  ],
+  "education": "本科",
+  "experience": "5-10年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：C++开发工程师-经纪业务",
+    "salary_range": "薪资范围：20-30K·15薪",
+    "work_location": "工作地点：杭州",
+    "hard_skills": "硬技能：C/C++、C、Linux、全内存证券交易系统、多线程/进程编程、内存管理、数据库",
+    "soft_skills": "软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力",
+    "education": "学历要求：本科",
+    "experience": "经验要求：5-10年",
+    "ai_tech_stack": "AI相关技术栈要求：无"
+  }
+}

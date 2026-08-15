@@ -1,0 +1,32 @@
+{
+  "job_title": "初级 JAVA 开发工程师",
+  "salary_range": null,
+  "work_location": "北京",
+  "hard_skills": [
+    "Java",
+    "JavaScript",
+    "C",
+    "J2EE",
+    "Tomcat",
+    "JBOSS",
+    "Weblogic",
+    "Web Sphere"
+  ],
+  "soft_skills": [
+    "团队协作意识",
+    "执行与跟进能力"
+  ],
+  "education": "统招 211 知名高校本科及以上学历，计算机软件相关专业",
+  "experience": "一年以上大、中型 JAVA 项目开发经验",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：初级 JAVA 开发工程师",
+    "salary_range": null,
+    "work_location": "工作地点：北京",
+    "hard_skills": "熟练掌握 Java、JavaScript、C 等语言及 J2EE 架构；熟悉 Tomcat、JBOSS、Weblogic、Web Sphere 主流应用服务器至少一种",
+    "soft_skills": "具备团队协作意识；具备较强的执行与跟进能力",
+    "education": "学历要求：统招 211 知名高校本科及以上学历，计算机软件相关专业",
+    "experience": "经验要求：一年以上大、中型 JAVA 项目开发经验",
+    "ai_tech_stack": null
+  }
+}

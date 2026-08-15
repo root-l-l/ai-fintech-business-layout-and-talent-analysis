@@ -1,0 +1,27 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "技术架构设计",
+    "系统规划",
+    "AI 技术管理"
+  ],
+  "soft_skills": [
+    "跨团队推进",
+    "团队管理"
+  ],
+  "education": "本科",
+  "experience": "5-10 年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理",
+    "soft_skills": "技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理",
+    "education": "技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理",
+    "experience": "技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理",
+    "ai_tech_stack": "技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理"
+  }
+}

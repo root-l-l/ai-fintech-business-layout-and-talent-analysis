@@ -1,0 +1,24 @@
+{
+  "target_profile": "金融数据与AI应用学习者（模拟画像）",
+  "target_skills": [
+    "Python",
+    "SQL",
+    "金融",
+    "风控",
+    "数据分析",
+    "统计",
+    "机器学习",
+    "大模型"
+  ],
+  "reward_definition": "每个候选岗位在职位名称+技能要求中命中的模拟画像技能数 / 8；不使用真实点击、投递或录用反馈。",
+  "candidate_job_records": 242,
+  "episodes": 5000,
+  "seed": 20260815,
+  "alpha": 0.2,
+  "epsilon_start": 0.35,
+  "epsilon_end": 0.02,
+  "random_policy_expected_reward": 0.1291,
+  "last_500_episode_mean_reward": 0.6115,
+  "best_candidate_simulated_reward": 0.625,
+  "method_boundary": "没有真实用户行为数据；本表仅展示强化学习方法如何在明确的模拟反馈下学习排序策略。"
+}

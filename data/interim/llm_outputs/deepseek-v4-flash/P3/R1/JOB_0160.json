@@ -1,0 +1,43 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Adobe 系列",
+    "Sketch",
+    "figma",
+    "Axure",
+    "XMind",
+    "B 端大数据产品全周期管理",
+    "需求分析",
+    "产品规划能力"
+  ],
+  "soft_skills": [
+    "需求理解能力",
+    "自驱力",
+    "责任心",
+    "交付能力",
+    "团队协作",
+    "沟通能力"
+  ],
+  "education": "统招本科及以上，硕士优先",
+  "experience": "3-5 年",
+  "ai_tech_stack": [
+    "大模型应用相关技术",
+    "语义类 AI",
+    "金融智能体",
+    "产业大脑",
+    "智能体",
+    "大模型"
+  ],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "硬技能：熟练使用 Adobe 系列、Sketch、figma、Axure、XMind 等设计工具；具备 B 端大数据产品全周期管理、需求分析与产品规划能力",
+    "soft_skills": "软技能：较强的需求理解能力；自驱力、责任心与交付能力强；具备良好的团队协作与沟通能力",
+    "education": "学历要求：统招本科及以上，硕士优先",
+    "experience": "经验要求：3-5 年",
+    "ai_tech_stack": "AI相关技术栈要求：熟悉大模型应用相关技术；覆盖语义类 AI、金融智能体、产业大脑等 AI 应用场景；对智能体、大模型、金融领域有浓厚兴趣"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input": "/Users/emi/Documents/保险/data/processed/jobs_clean.csv",
+  "model_name": "BAAI/bge-small-zh-v1.5",
+  "seed": 20260815,
+  "epochs": 3,
+  "batch_size": 16,
+  "max_length": 128,
+  "learning_rate": 2e-05,
+  "unfrozen_layers": 1,
+  "num_threads": 1,
+  "train_n": 193,
+  "holdout_n": 49,
+  "label_definition": "用户提供的 AI 技术栈字段不为空值标记，且包含 AI/人工智能/大模型/模型/智能体/agent/机器学习/深度学习/NLP/自然语言/知识图谱/计算机视觉/算法/风控中的至少一项。",
+  "method_boundary": "真实监督微调的文本编码器；不是生成式大语言模型，且标签来自用户提供的 AI 技术栈字段。"
+}

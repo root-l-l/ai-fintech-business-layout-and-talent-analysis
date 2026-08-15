@@ -1,0 +1,45 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Java",
+    "Spring",
+    "SpringBoot",
+    "SpringCloud",
+    "MyBatis",
+    "Dubbo",
+    "Redis",
+    "Kafka",
+    "Vue",
+    "ElementUI",
+    "IDEA",
+    "Eclipse",
+    "Git",
+    "MySQL"
+  ],
+  "soft_skills": [
+    "持续学习新技术",
+    "快速适配项目",
+    "抗压",
+    "高强度工作适配",
+    "独立技术风险排查与方案输出"
+  ],
+  "education": "统招二本及以上，学信网可查",
+  "experience": "5年及以上全栈开发经验；银行项目经验优先",
+  "ai_tech_stack": [
+    "金融AI模型调用",
+    "智能业务流程",
+    "全栈底层系统"
+  ],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "技能要求：后端精通 Java、Spring/SpringBoot/SpringCloud/MyBatis、Dubbo、Redis、Kafka；前端熟练 Vue+ElementUI；熟练 IDEA/Eclipse、Git；精通 MySQL 数据库",
+    "soft_skills": "持续学习新技术、快速适配项目；抗压，高强度工作适配；独立技术风险排查与方案输出",
+    "education": "学历要求：统招二本及以上，学信网可查",
+    "experience": "经验要求：5 年及以上全栈开发经验；银行项目经验优先",
+    "ai_tech_stack": "AI相关技术栈要求：承担银行智能信贷、AI 账务、数字化金融系统前后端研发，搭建支撑金融 AI 模型调用、智能业务流程的全栈底层系统"
+  }
+}

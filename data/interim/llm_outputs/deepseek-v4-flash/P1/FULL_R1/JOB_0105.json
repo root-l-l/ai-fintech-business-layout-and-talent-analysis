@@ -1,0 +1,25 @@
+{
+  "job_title": "AI应用工程师 (证券)",
+  "salary_range": "25-40K·16薪",
+  "work_location": "上海",
+  "hard_skills": [
+    "AI应用开发"
+  ],
+  "soft_skills": [],
+  "education": "本科",
+  "experience": "3-5年",
+  "ai_tech_stack": [
+    "AI应用开发",
+    "大模型应用"
+  ],
+  "evidence": {
+    "job_title": "职位名称：AI应用工程师 (证券)",
+    "salary_range": "薪资范围：25-40K·16薪",
+    "work_location": "工作地点：上海",
+    "hard_skills": "技能要求：AI应用开发相关能力",
+    "soft_skills": null,
+    "education": "学历要求：本科",
+    "experience": "经验要求：3-5年",
+    "ai_tech_stack": "AI相关技术栈要求：AI应用开发、大模型应用"
+  }
+}

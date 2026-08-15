@@ -1,0 +1,37 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Figma",
+    "Sketch",
+    "PS",
+    "AI",
+    "视觉设计",
+    "排版",
+    "色彩",
+    "交互逻辑",
+    "PC端界面设计",
+    "移动端界面设计"
+  ],
+  "soft_skills": [
+    "沟通顺畅",
+    "责任心强",
+    "用户体验思维",
+    "细节把控能力",
+    "配合项目进度"
+  ],
+  "education": "本科及以上学历，设计类相关专业优先",
+  "experience": "3年以上相关设计经验",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "熟练使用 Figma/Sketch/PS/AI 等设计软件；具备扎实的视觉、排版、色彩基础，懂交互逻辑优先；能独立完成 PC 端、移动端整套界面设计。",
+    "soft_skills": "沟通顺畅、责任心强；具备用户体验思维与细节把控能力；能配合项目进度完成设计交付",
+    "education": "学历要求：本科及以上学历，设计类相关专业优先",
+    "experience": "经验要求：未明确限定，参考同体系岗位要求：3 年以上相关设计经验",
+    "ai_tech_stack": null
+  }
+}

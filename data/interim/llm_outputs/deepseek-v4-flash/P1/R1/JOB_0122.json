@@ -1,0 +1,44 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "C/C++",
+    "Go",
+    "Rust",
+    "Linux",
+    "Windows",
+    "多线程/多进程编程",
+    "进程间通讯",
+    "消息事件通知",
+    "同步/异步",
+    "内存管理",
+    "低延迟",
+    "高并发无锁化编程",
+    "TCP/UDP协议",
+    "组网",
+    "抓包分析",
+    "网络编程"
+  ],
+  "soft_skills": [
+    "工作敬业",
+    "细心",
+    "爱钻研技术",
+    "有团队精神",
+    "善于总结",
+    "能承受一定的工作压力"
+  ],
+  "education": "本科",
+  "experience": "3-5年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "精通C/C++、Go或Rust等编程语言的一种；熟练使用Linux/Windows开发、编译、调试；熟悉Linux下多线程/多进程编程模型，进程间通讯，消息事件通知，同步/异步；熟悉Linux下内存管理机制，低延迟、高并发无锁化编程；熟悉TCP/UDP协议、组网、抓包分析等网络编程",
+    "soft_skills": "工作敬业，细心，爱钻研技术，有团队精神，善于总结，能承受一定的工作压力",
+    "education": "本科及以上学历",
+    "experience": "三年以上C++工作经验；经验要求：3-5年",
+    "ai_tech_stack": "AI相关技术栈要求：无"
+  }
+}

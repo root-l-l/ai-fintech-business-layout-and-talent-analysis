@@ -1,0 +1,2 @@
+evaluation_split,holdout_n,train_n,positive_label_share_holdout,accuracy,precision,recall,f1,best_epoch,model_name,trainable_layers,label_definition,method_boundary
+holdout,49,193,0.5306,0.6735,0.6389,0.8846,0.7419,3,BAAI/bge-small-zh-v1.5,1,用户提供的 AI 技术栈字段不为空值标记，且包含 AI/人工智能/大模型/模型/智能体/agent/机器学习/深度学习/NLP/自然语言/知识图谱/计算机视觉/算法/风控中的至少一项。,真实监督微调的文本编码器；不是生成式大语言模型，且标签来自用户提供的 AI 技术栈字段。

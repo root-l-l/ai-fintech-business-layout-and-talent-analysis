@@ -1,0 +1,11 @@
+{
+  "method": "sentence-transformer",
+  "model_name": "BAAI/bge-small-zh-v1.5",
+  "max_characters_per_section": 1200,
+  "input_path": "data/interim/annual_report_sections_final15.csv",
+  "status": "completed",
+  "section_count": 60,
+  "company_count": 15,
+  "keyword_count": 128,
+  "run_at_utc": "2026-08-13T06:13:34.364690+00:00"
+}

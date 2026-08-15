@@ -1,0 +1,48 @@
+{
+  "job_title": "服务端-AI应用开发-南京-27届暑期实习",
+  "salary_range": "200-250元/天",
+  "work_location": "南京",
+  "hard_skills": [
+    "Python",
+    "Java",
+    "Go",
+    "C++",
+    "算法与数据结构",
+    "Agent系统开发",
+    "LangChain",
+    "LlamaIndex",
+    "AutoGen",
+    "Prompt工程",
+    "RAG",
+    "Tool Calling",
+    "上下文工程",
+    "OpenAPI",
+    "RPC",
+    "MCP"
+  ],
+  "soft_skills": [],
+  "education": "本科",
+  "experience": "5天/周，持续2个月",
+  "ai_tech_stack": [
+    "大模型",
+    "多智能体（Multi-Agent）架构",
+    "Prompt工程",
+    "RAG（检索增强生成）",
+    "Tool Calling",
+    "上下文编排",
+    "模型服务化与智能体调度架构",
+    "LangChain",
+    "LlamaIndex",
+    "AutoGen"
+  ],
+  "evidence": {
+    "job_title": "职位名称：服务端-AI应用开发-南京-27届暑期实习",
+    "salary_range": "薪资范围：200-250元/天",
+    "work_location": "工作地点：南京",
+    "hard_skills": "技能要求：Python/Java/Go/C++等编程语言，扎实的算法与数据结构基础；了解Agent系统开发，熟悉LangChain/LlamaIndex/AutoGen等框架；掌握Prompt工程、RAG、Tool Calling、上下文工程等AI应用关键技术；掌握OpenAPI、RPC、MCP等协议",
+    "soft_skills": null,
+    "education": "学历要求：本科",
+    "experience": "经验要求：5天/周，持续2个月",
+    "ai_tech_stack": "AI相关技术栈要求：大模型/多智能体（Multi-Agent）架构，Prompt工程，RAG（检索增强生成），Tool Calling，上下文编排，模型服务化与智能体调度架构，LangChain/LlamaIndex/AutoGen"
+  }
+}

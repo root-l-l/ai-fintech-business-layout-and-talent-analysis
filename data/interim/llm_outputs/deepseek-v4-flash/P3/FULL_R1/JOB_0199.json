@@ -1,0 +1,23 @@
+{
+  "job_title": "软件测试实习生",
+  "salary_range": "2500 - 3500 元/月",
+  "work_location": "长沙",
+  "hard_skills": [
+    "SQL",
+    "ORACLE数据库"
+  ],
+  "soft_skills": [],
+  "education": "全日制本科及以上学历，2027届计算机应用、金融、财务相关专业毕业生",
+  "experience": "了解软件测试理论和方法，以及软件测试流程",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：软件测试实习生",
+    "salary_range": "薪资范围：2500 - 3500 元/月",
+    "work_location": "工作地点：长沙",
+    "hard_skills": "熟练掌握SQL语句，有ORACLE数据库经验者更优",
+    "soft_skills": null,
+    "education": "全日制本科及以上学历，2027届计算机应用、金融、财务相关专业毕业生",
+    "experience": "了解软件测试理论和方法，以及软件测试流程",
+    "ai_tech_stack": null
+  }
+}

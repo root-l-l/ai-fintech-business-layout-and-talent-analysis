@@ -1,0 +1,48 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Java",
+    "Python",
+    "JavaScript/TypeScript",
+    "MySQL",
+    "Redis",
+    "Spring",
+    "微服务架构",
+    "Git",
+    "代码规范",
+    "单元测试",
+    "接口调试",
+    "CI/CD",
+    "SDD",
+    "架构设计"
+  ],
+  "soft_skills": [
+    "技术方案设计",
+    "代码评审",
+    "性能优化",
+    "工程化建设",
+    "推动新技术落地"
+  ],
+  "education": "本科及以上",
+  "experience": "5-10年工作经验，具备2年以上架构经验",
+  "ai_tech_stack": [
+    "大模型",
+    "AI Coding工具（claude code、codex等）",
+    "AI Coding",
+    "智能体开发",
+    "自动化测试",
+    "代码生成"
+  ],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。",
+    "soft_skills": "具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。",
+    "education": "学历要求：本科及以上",
+    "experience": "经验要求：5-10 年工作经验，具备 2 年以上架构经验",
+    "ai_tech_stack": "具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践"
+  }
+}

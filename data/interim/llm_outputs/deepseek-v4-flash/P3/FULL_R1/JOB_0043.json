@@ -1,0 +1,23 @@
+{
+  "job_title": "行情后台开发工程师",
+  "salary_range": "25-45K",
+  "work_location": "杭州",
+  "hard_skills": [
+    "行情后台开发",
+    "金融数据处理"
+  ],
+  "soft_skills": [],
+  "education": "硕士",
+  "experience": "1-3年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：行情后台开发工程师",
+    "salary_range": "薪资范围：25-45K",
+    "work_location": "工作地点：杭州",
+    "hard_skills": "技能要求：行情后台开发、金融数据处理",
+    "soft_skills": null,
+    "education": "学历要求：硕士",
+    "experience": "经验要求：1-3年",
+    "ai_tech_stack": "AI相关技术栈要求：无"
+  }
+}

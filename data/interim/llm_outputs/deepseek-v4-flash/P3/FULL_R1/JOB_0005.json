@@ -1,0 +1,41 @@
+{
+  "job_title": "Java技术专家-资产管理",
+  "salary_range": "20-35K",
+  "work_location": "武汉",
+  "hard_skills": [
+    "Java",
+    "多线程",
+    "Spring",
+    "Springboot",
+    "Dubbo",
+    "Redis",
+    "Zookeeper",
+    "MQ",
+    "Spring Cloud",
+    "微服务",
+    "架构设计",
+    "分布式系统"
+  ],
+  "soft_skills": [
+    "沟通能力",
+    "协调能力",
+    "团队精神",
+    "求知欲",
+    "创造力",
+    "责任感",
+    "抗压能力"
+  ],
+  "education": "本科",
+  "experience": "5-10年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：Java技术专家-资产管理",
+    "salary_range": "薪资范围：20-35K",
+    "work_location": "工作地点：武汉",
+    "hard_skills": "硬技能：Java、多线程、Spring、Springboot、Dubbo、Redis、Zookeeper、MQ、Spring Cloud、微服务、架构设计、分布式系统",
+    "soft_skills": "软技能：沟通能力、协调能力、团队精神、求知欲、创造力、责任感、抗压能力",
+    "education": "学历要求：本科",
+    "experience": "经验要求：5-10年",
+    "ai_tech_stack": "AI相关技术栈要求：无"
+  }
+}

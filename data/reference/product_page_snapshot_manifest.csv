@@ -1,0 +1,4 @@
+source_file,local_path,sha256,expected_companies,extracted_companies,paragraph_count,status
+1-4 产品文字版.docx,data/raw/product_page_snapshots/1-4 产品文字版.docx,72695ed67eca202c4e8009e06f78c086c926b4afce5869c231eb84423dbcafbe,恒生电子、同花顺、东方财富、金证股份,恒生电子、同花顺、东方财富、金证股份,351,segmentation_complete
+5-8产品全部.docx,data/raw/product_page_snapshots/5-8产品全部.docx,95385b260d9e804a971ec24c5e6c4b096ee703d7d8557949f3e50a0f0a5bafe1,赢时胜、宇信科技、神州信息、长亮科技,赢时胜、宇信科技、神州信息、长亮科技,359,segmentation_complete
+13-15产品.docx,data/raw/product_page_snapshots/13-15产品.docx,cf8c4d30d997b68e79fd75d530bdec9a4a36ae5d059dc5809209221c5ce9c7ad,新致软件、科大讯飞、拓尔思,新致软件、科大讯飞、拓尔思,405,segmentation_complete

@@ -1,0 +1,40 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "系统设计",
+    "编码开发",
+    "Java 开发语言",
+    "Spring",
+    "SpringMVC",
+    "SpringBoot",
+    "MyBatis",
+    "Oracle",
+    "MySql",
+    "SqlServer",
+    "SQL 语句调优分析",
+    "TCP",
+    "HTTP",
+    "HTTPS",
+    "接口安全"
+  ],
+  "soft_skills": [
+    "沟通能力",
+    "学习能力",
+    "责任心"
+  ],
+  "education": "本科及以上",
+  "experience": null,
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "技能要求：硬技能：具备系统设计、编码开发能力，熟悉 java 开发语言及相关框架；熟练使用 JAVA 语言及各类开源框架，如 Spring、SpringMVC、SpringBoot、MyBatis 等；熟练使用 Oracle、MySql、SqlServer 等数据库，对 SQL 语句能够调优分析；对网络通讯 (TCP\\HTTP\\HTTPS) 和接口安全技术有一定的了解。",
+    "soft_skills": "软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。",
+    "education": "学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历",
+    "experience": "经验要求：27 届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会。",
+    "ai_tech_stack": "AI 相关技术栈要求："
+  }
+}

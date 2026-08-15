@@ -1,0 +1,27 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "测试用例设计",
+    "测试用例执行",
+    "测试报告编写",
+    "测试环境搭建",
+    "SQL 语句",
+    "ORACLE 数据库"
+  ],
+  "soft_skills": [],
+  "education": "全日制本科及以上学历",
+  "experience": null,
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "技能要求：1、根据业务需求，设计编写测试用例，执行测试用例；2、编写测试报告，及时反映测试情况；3、根据项目要求，搭建测试环境。",
+    "soft_skills": null,
+    "education": "学历要求：1、全日制本科及以上学历，2027 届计算机应用、金融、财务相关专业毕业生；",
+    "experience": null,
+    "ai_tech_stack": "AI 相关技术栈要求："
+  }
+}

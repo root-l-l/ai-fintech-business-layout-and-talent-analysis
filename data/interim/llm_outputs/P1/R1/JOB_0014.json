@@ -1,0 +1,24 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "大模型算法研发"
+  ],
+  "soft_skills": [],
+  "education": "博士",
+  "experience": null,
+  "ai_tech_stack": [
+    "大模型算法"
+  ],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "技能要求：大模型算法研发",
+    "soft_skills": null,
+    "education": "学历要求：博士",
+    "experience": null,
+    "ai_tech_stack": "AI 相关技术栈要求：大模型算法"
+  }
+}

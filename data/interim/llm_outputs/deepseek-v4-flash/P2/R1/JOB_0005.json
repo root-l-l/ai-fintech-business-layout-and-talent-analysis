@@ -1,0 +1,41 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Java",
+    "多线程",
+    "Spring",
+    "Springboot",
+    "Dubbo",
+    "Redis",
+    "Zookeeper",
+    "MQ",
+    "Spring Cloud",
+    "微服务",
+    "架构设计",
+    "分布式系统"
+  ],
+  "soft_skills": [
+    "沟通能力",
+    "协调能力",
+    "团队精神",
+    "求知欲",
+    "创造力",
+    "责任感",
+    "抗压能力"
+  ],
+  "education": "本科",
+  "experience": "5-10年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "硬技能：Java、多线程、Spring、Springboot、Dubbo、Redis、Zookeeper、MQ、Spring Cloud、微服务、架构设计、分布式系统",
+    "soft_skills": "软技能：沟通能力、协调能力、团队精神、求知欲、创造力、责任感、抗压能力",
+    "education": "学历要求：本科",
+    "experience": "经验要求：5-10年",
+    "ai_tech_stack": "AI相关技术栈要求：无"
+  }
+}

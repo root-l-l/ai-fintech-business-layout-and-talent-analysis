@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+data/raw/annual_reports/*.pdf
+data/raw/jobs/*.csv
+data/raw/products/*.json
+data/raw/product_page_screenshots/
+data/raw/product_page_snapshots/

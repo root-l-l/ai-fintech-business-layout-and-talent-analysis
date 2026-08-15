@@ -1,0 +1,35 @@
+{
+  "job_title": "高级C++开发工程师",
+  "salary_range": "30-50K",
+  "work_location": "杭州",
+  "hard_skills": [
+    "C/C++",
+    "Linux",
+    "gdb调试",
+    "多线程/进程编程",
+    "内存管理",
+    "数据库（事务特性、索引）",
+    "Linux服务端开发",
+    "系统性能调优"
+  ],
+  "soft_skills": [
+    "责任心",
+    "沟通能力",
+    "抗压能力",
+    "系统分析和设计能力",
+    "技术钻研能力"
+  ],
+  "education": "本科",
+  "experience": "3-5年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：高级C++开发工程师",
+    "salary_range": "薪资范围：30-50K",
+    "work_location": "工作地点：杭州",
+    "hard_skills": "硬技能：C/C++、Linux、gdb调试、多线程/进程编程、内存管理、数据库（事务特性、索引）、Linux服务端开发、系统性能调优",
+    "soft_skills": "软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力",
+    "education": "学历要求：本科",
+    "experience": "经验要求：3-5年",
+    "ai_tech_stack": "AI相关技术栈要求：无"
+  }
+}

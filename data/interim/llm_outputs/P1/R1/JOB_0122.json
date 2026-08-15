@@ -1,0 +1,42 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "C/C++",
+    "Go",
+    "Rust",
+    "Linux",
+    "Windows",
+    "多线程",
+    "多进程",
+    "进程间通讯",
+    "消息事件通知",
+    "同步/异步",
+    "内存管理",
+    "TCP/UDP",
+    "组网",
+    "抓包分析"
+  ],
+  "soft_skills": [
+    "敬业",
+    "细心",
+    "爱钻研技术",
+    "团队精神",
+    "善于总结",
+    "能承受一定的工作压力"
+  ],
+  "education": "本科",
+  "experience": "3-5 年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "技能要求：工作职责：1、负责证券业务的集中交易、极速交易、量化交易等系统的研发工作；2、完成公司安排的其他工作。任职资格：1、本科及以上学历，技术扎实，精通 C/C++、Go 或 Rust 等编程语言的一种；2、具有三年以上 C++ 工作经验，熟练使用 Linux/Windows 开发、编译、调试；3、熟悉 Linux 下多线程/多进程编程模型，进程间通讯，消息事件通知，同步/异步；4、熟悉 Linux 下内存管理机制，低延迟、高并发无锁化编程；5、熟悉 TCP/UDP 协议、组网、抓包分析等网络编程；6、工作敬业，细心，爱钻研技术，有团队精神，善于总结，能承受一定的工作压力。",
+    "soft_skills": "6、工作敬业，细心，爱钻研技术，有团队精神，善于总结，能承受一定的工作压力。",
+    "education": "学历要求：本科",
+    "experience": "经验要求：3-5 年",
+    "ai_tech_stack": "AI 相关技术栈要求：无"
+  }
+}

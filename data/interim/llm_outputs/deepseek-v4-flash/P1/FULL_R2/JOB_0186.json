@@ -1,0 +1,39 @@
+{
+  "job_title": "Python 开发工程师",
+  "salary_range": "未公示",
+  "work_location": "广州",
+  "hard_skills": [
+    "Python",
+    "numpy",
+    "pandas",
+    "Oracle",
+    "MySQL",
+    "JS",
+    "前端框架"
+  ],
+  "soft_skills": [
+    "逻辑思维能力",
+    "沟通表达能力",
+    "对技术挑战有高热情",
+    "团队协作意识"
+  ],
+  "education": "本科及以上学历，计算机相关专业",
+  "experience": "2年以上相关工作经验",
+  "ai_tech_stack": [
+    "AI金融数据分析",
+    "量化建模",
+    "智能风控模型开发",
+    "金融大数据分析",
+    "AI模型训练与落地"
+  ],
+  "evidence": {
+    "job_title": "职位名称：Python 开发工程师",
+    "salary_range": "薪资范围：未公示",
+    "work_location": "工作地点：广州",
+    "hard_skills": "技能要求：精通 Python 语言，熟练掌握 numpy、pandas 等科学运算库；掌握 Oracle/MySQL 等数据库技术；具备 JS、前端框架知识优先。",
+    "soft_skills": "优秀的逻辑思维能力、沟通表达能力；对技术挑战有高热情；具备良好的团队协作意识",
+    "education": "学历要求：本科及以上学历，计算机相关专业",
+    "experience": "经验要求：2 年以上相关工作经验",
+    "ai_tech_stack": "AI相关技术栈要求：直接对接 AI 金融数据分析、量化建模、智能风控模型开发，是 AI 金融科技核心研发岗位，可支撑金融大数据分析、AI 模型训练与落地"
+  }
+}

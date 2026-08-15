@@ -1,0 +1,26 @@
+{
+  "job_title": "技术专家/架构师",
+  "salary_range": "50-80K·16薪",
+  "work_location": "杭州",
+  "hard_skills": [
+    "技术架构设计",
+    "系统规划"
+  ],
+  "soft_skills": [
+    "跨团队推进",
+    "团队管理"
+  ],
+  "education": "本科",
+  "experience": "5-10年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：技术专家/架构师",
+    "salary_range": "薪资范围：50-80K·16薪",
+    "work_location": "工作地点：杭州",
+    "hard_skills": "技能要求：技术架构设计、系统规划、跨团队推进、团队管理",
+    "soft_skills": "技能要求：技术架构设计、系统规划、跨团队推进、团队管理",
+    "education": "学历要求：本科",
+    "experience": "经验要求：5-10年",
+    "ai_tech_stack": "AI相关技术栈要求：AI技术管理"
+  }
+}

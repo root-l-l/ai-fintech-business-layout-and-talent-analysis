@@ -1,0 +1,4 @@
+company_code,metric,value_yuan,source_page,source_excerpt,correction_reason,review_status
+000555.SZ,revenue_yuan,13162811905.52,10,"营业收入（元） 13,162,811,905.52 10,002,831,521.49 31.59% 12,056,229,678.83",主要会计数据表跨页；原始文本顺序误将后续子表收入作为总收入,manual_source_line_selected
+000555.SZ,net_profit_attributable_yuan,56428334.46,10,"归属于上市公司股东的净利润（元） 56,428,334.46 -524,060,125.94 110.77% 207,127,329.98",主要会计数据表跨页；原始文本顺序误将净资产作为净利润,manual_source_line_selected
+000555.SZ,total_assets_yuan,12525575558.10,11,"资产总额（元） 12,525,575,558.10 11,979,374,002.81 4.56% 12,815,505,492.23",主要会计数据表跨页；在续页直接定位资产总额行,manual_source_line_selected

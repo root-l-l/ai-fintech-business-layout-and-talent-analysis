@@ -1,0 +1,35 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Android APP 研发",
+    "代码架构设计",
+    "性能调优",
+    "bug 修复",
+    "跟踪新技术",
+    "解决技术难点",
+    "产品分析",
+    "优化方案设计"
+  ],
+  "soft_skills": [
+    "独立开发与问题解决能力",
+    "主动解决问题的意识",
+    "团队协作能力",
+    "产品思维",
+    "创新意识"
+  ],
+  "education": "全日制统招本科及以上学历",
+  "experience": "3年以上软件开发经验",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "技能要求：具备 Android APP 研发、代码架构设计、性能调优与 bug 修复能力；具备跟踪新技术、解决技术难点的能力；具备产品分析与优化方案设计能力。",
+    "soft_skills": "具备独立开发与问题解决能力；具备主动解决问题的意识；具备良好的团队协作能力；具备产品思维与创新意识",
+    "education": "学历要求：全日制统招本科及以上学历",
+    "experience": "经验要求：3 年以上软件开发经验",
+    "ai_tech_stack": "AI相关技术栈要求："
+  }
+}

@@ -1,0 +1,4 @@
+prompt_version,model_id,quality_run_id,stability_run_ids,strict_macro_field_accuracy,macro_hallucination_rate,mean_runtime_seconds,quality_sample_n,macro_pairwise_agreement,stability_sample_n,minimum_field_agreement,optimization_advice,metric_note
+P1,deepseek-v4-flash,FULL_R1,FULL_R1 / FULL_R2,0.6279,0.0465,3.119,43,0.925,15,0.7333,作为 zero-shot 基线保留；增加字段定义与证据约束以降低软技能误填。,严格宏平均：8字段归一化后完全一致率；技能列表按无序集合完全一致比较。运行时间为本次并发调用的单请求端到端耗时均值。
+P2,deepseek-v4-flash,FULL_R1,FULL_R1 / FULL_R2,0.6482,0.0494,4.846,43,0.9583,15,0.8667,跨轮一致性最高；保留 Schema 与证据约束，并优先优化 AI 技术栈的术语归一化。,严格宏平均：8字段归一化后完全一致率；技能列表按无序集合完全一致比较。运行时间为本次并发调用的单请求端到端耗时均值。
+P3,deepseek-v4-flash,FULL_R1,FULL_R1 / FULL_R2,0.6744,0.0494,2.986,43,0.9333,15,0.6667,严格字段准确率最高；保留 one-shot 与自检，但针对 AI 技术栈增加受控术语表或逐项证据校验。,严格宏平均：8字段归一化后完全一致率；技能列表按无序集合完全一致比较。运行时间为本次并发调用的单请求端到端耗时均值。

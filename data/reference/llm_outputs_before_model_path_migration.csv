@@ -1,0 +1,3965 @@
+job_id,prompt_version,run_id,model_id,started_at,finished_at,raw_model_output,parsed_json_path
+JOB_0238,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T08:52:08.580025+00:00,2026-08-13T08:54:40.478002+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""渠道适配平台规划与设计"",
+    ""渠道对接功能"",
+    ""业务流程"",
+    ""后台管理内容"",
+    ""产品需求文档（PRD）"",
+    ""产品交互功能框架"",
+    ""产品功能改进""
+  ],
+  ""soft_skills"": [
+    ""深入理解保险业务"",
+    ""渠道对接类业务"",
+    ""行业发展趋势分析"",
+    ""创新产品设计方案""
+  ],
+  ""education"": ""本科及以上"",
+  ""experience"": ""产品规划与设计相关经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：负责渠道适配平台的规划与设计..."",
+    ""soft_skills"": ""软技能：深入理解保险业务、渠道对接类业务..."",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：产品规划与设计相关经验..."",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0238.json
+JOB_0243,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T09:10:35.097707+00:00,2026-08-13T09:12:34.109084+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""系统设计"",
+    ""编码开发"",
+    ""Java"",
+    ""Spring"",
+    ""SpringMVC"",
+    ""SpringBoot"",
+    ""MyBatis"",
+    ""Oracle"",
+    ""MySql"",
+    ""SqlServer"",
+    ""SQL 调优"",
+    ""TCP"",
+    ""HTTP"",
+    ""HTTPS"",
+    ""接口安全""
+  ],
+  ""soft_skills"": [
+    ""沟通能力"",
+    ""学习能力"",
+    ""责任心""
+  ],
+  ""education"": ""本科及以上"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：具备系统设计、编码开发能力，熟悉 java 开发语言及相关框架；熟练使用 JAVA 语言及各类开源框架，如 Spring、SpringMVC、SpringBoot、MyBatis 等；熟练使用 Oracle、MySql、SqlServer 等数据库，对 SQL 语句能够调优分析；对网络通讯 (TCP\\HTTP\\HTTPS) 和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI 相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0243.json
+JOB_0242,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T09:12:34.114512+00:00,2026-08-13T09:44:29.123196+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""系统设计"",
+    ""编码开发"",
+    ""Java 开发语言"",
+    ""Spring"",
+    ""SpringMVC"",
+    ""SpringBoot"",
+    ""MyBatis"",
+    ""Oracle"",
+    ""MySql"",
+    ""SqlServer"",
+    ""SQL 语句调优分析"",
+    ""TCP"",
+    ""HTTP"",
+    ""HTTPS"",
+    ""接口安全""
+  ],
+  ""soft_skills"": [
+    ""沟通能力"",
+    ""学习能力"",
+    ""责任心""
+  ],
+  ""education"": ""本科及以上"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：具备系统设计、编码开发能力，熟悉 java 开发语言及相关框架；熟练使用 JAVA 语言及各类开源框架，如 Spring、SpringMVC、SpringBoot、MyBatis 等；熟练使用 Oracle、MySql、SqlServer 等数据库，对 SQL 语句能够调优分析；对网络通讯 (TCP\\HTTP\\HTTPS) 和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": ""经验要求：27 届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会。"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0242.json
+JOB_0151,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T09:44:29.127144+00:00,2026-08-13T11:24:16.120352+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""Java"",
+    ""Python"",
+    ""JavaScript/TypeScript"",
+    ""MySQL"",
+    ""Redis"",
+    ""Spring"",
+    ""微服务架构"",
+    ""Git"",
+    ""代码规范"",
+    ""单元测试"",
+    ""接口调试"",
+    ""CI/CD 开发流程"",
+    ""SDD 开发"",
+    ""架构设计""
+  ],
+  ""soft_skills"": [
+    ""技术方案设计"",
+    ""代码评审"",
+    ""性能优化"",
+    ""工程化建设"",
+    ""信贷全流程业务逻辑"",
+    ""风控要点""
+  ],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10 年工作经验，具备 2 年以上架构经验"",
+  ""ai_tech_stack"": [
+    ""大模型"",
+    ""AI Coding 工具"",
+    ""claude code"",
+    ""codex"",
+    ""AI Coding"",
+    ""智能体开发"",
+    ""自动化测试"",
+    ""代码生成""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。"",
+    ""soft_skills"": ""软技能：具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0151.json
+JOB_0152,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T11:24:16.123071+00:00,2026-08-13T11:24:26.872443+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""Java"",
+    ""Python"",
+    ""JavaScript/TypeScript"",
+    ""微服务架构"",
+    ""Git"",
+    ""代码规范"",
+    ""单元测试"",
+    ""接口调试"",
+    ""CI/CD 开发流程"",
+    ""SDD 开发""
+  ],
+  ""soft_skills"": [
+    ""团队管理能力"",
+    ""技术方案设计"",
+    ""代码评审"",
+    ""性能优化"",
+    ""工程化建设能力"",
+    ""信贷全流程业务逻辑理解"",
+    ""风控要点理解"",
+    ""新技术落地推动"",
+    ""尽职调查业务认知"",
+    ""授信审核业务认知"",
+    ""银行对公/供应链金融系统开发经验""
+  ],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3-5 年工作经验，具备 2 年以上架构经验"",
+  ""ai_tech_stack"": [
+    ""AI 大模型"",
+    ""AI Coding 工具"",
+    ""AI Coding"",
+    ""智能体开发"",
+    ""自动化测试"",
+    ""代码生成"",
+    ""AI Agent"",
+    ""RAG"",
+    ""大模型应用开发""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发"",
+    ""soft_skills"": ""软技能：具备团队管理能力；具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术落地；有尽职调查、授信审核业务认知、银行对公 / 供应链金融系统开发经验为加分项"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3-5 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：熟悉 AI 大模型；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践；有 AI Agent、RAG 或大模型应用开发经验为加分项""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0152.json
+JOB_0183,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T11:24:26.877268+00:00,2026-08-13T11:24:36.487294+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""Java"",
+    ""数据结构与算法"",
+    ""高并发"",
+    ""多线程"",
+    ""Shell 脚本"",
+    ""账务系统开发"",
+    ""支付系统开发"",
+    ""托管类金融系统开发"",
+    ""单元测试"",
+    ""代码走查"",
+    ""需求文档编写"",
+    ""逻辑分析"",
+    ""故障排查""
+  ],
+  ""soft_skills"": [
+    ""团队协作"",
+    ""沟通表达"",
+    ""责任心"",
+    ""抗压能力""
+  ],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3 年及以上银行 / 保险金融系统开发经验"",
+  ""ai_tech_stack"": [
+    ""银行智能支付"",
+    ""智能风控后台"",
+    ""自动化账务系统""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：扎实 Java 基础、数据结构与算法；熟悉高并发、多线程、Shell 脚本；熟练账务 / 支付 / 托管类金融系统开发；单元测试、代码走查、需求文档编写能力。逻辑分析、故障排查能力"",
+    ""soft_skills"": ""团队协作、沟通表达；责任心强、抗压"",
+    ""education"": ""学历要求：本科及以上，学信网可查"",
+    ""experience"": ""经验要求：3 年及以上银行 / 保险金融系统开发经验；账务、支付、托管系统开发经验优先"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：开发银行智能支付、智能风控后台、自动化账务系统""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0183.json
+JOB_0181,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T11:24:36.491469+00:00,2026-08-13T11:24:39.777442+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""银行全业务架构"",
+    ""银行新核心系统测试体系"",
+    ""银行系统测试全流程"",
+    ""测试方案设计"",
+    ""项目风险识别"",
+    ""售前咨询"",
+    ""测试团队管理"",
+    ""跨方沟通"",
+    ""问题拆解"",
+    ""解决方案输出"",
+    ""银行 AI 风控测试"",
+    ""智能账务测试"",
+    ""数字化金融平台测试体系搭建""
+  ],
+  ""soft_skills"": [
+    ""统筹规划"",
+    ""团队管理"",
+    ""跨方沟通"",
+    ""责任心"",
+    ""抗压能力""
+  ],
+  ""education"": ""统招本科及以上"",
+  ""experience"": ""8 年以上工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通银行全业务架构、银行新核心系统测试体系..."",
+    ""soft_skills"": ""优秀统筹规划、团队管理、跨方沟通协调能力"",
+    ""education"": ""学历要求：统招本科及以上"",
+    ""experience"": ""经验要求：8 年以上工作经验"",
+    ""ai_tech_stack"": ""无单独标注 AI 开发技术栈""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0181.json
+JOB_0182,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T11:24:39.780778+00:00,2026-08-13T11:24:44.118292+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""Java"",
+    ""Spring"",
+    ""SpringBoot"",
+    ""SpringCloud"",
+    ""MyBatis"",
+    ""Dubbo"",
+    ""Redis"",
+    ""Kafka"",
+    ""Vue"",
+    ""ElementUI"",
+    ""MySQL"",
+    ""IDEA"",
+    ""Eclipse"",
+    ""Git""
+  ],
+  ""soft_skills"": [
+    ""架构设计"",
+    ""技术选型"",
+    ""核心算法研发"",
+    ""开发规范制定"",
+    ""持续学习"",
+    ""抗压"",
+    ""独立技术风险排查"",
+    ""方案输出""
+  ],
+  ""education"": ""统招二本及以上"",
+  ""experience"": ""5 年及以上全栈开发经验"",
+  ""ai_tech_stack"": [
+    ""银行智能信贷"",
+    ""AI 账务"",
+    ""数字化金融系统"",
+    ""金融 AI 模型调用"",
+    ""智能业务流程""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：后端精通 Java、Spring/SpringBoot/SpringCloud/MyBatis、Dubbo、Redis、Kafka；前端熟练 Vue+ElementUI；熟练 IDEA/Eclipse、Git；精通 MySQL 数据库"",
+    ""soft_skills"": ""可独立完成架构设计、技术选型、核心算法研发、开发规范制定。持续学习新技术、快速适配项目；抗压，高强度工作适配；独立技术风险排查与方案输出"",
+    ""education"": ""学历要求：统招二本及以上，学信网可查"",
+    ""experience"": ""经验要求：5 年及以上全栈开发经验；银行项目经验优先"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：承担银行智能信贷、AI 账务、数字化金融系统前后端研发，搭建支撑金融 AI 模型调用、智能业务流程的全栈底层系统""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0182.json
+JOB_0043,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T11:24:44.122788+00:00,2026-08-13T12:32:46.930272+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""行情后台开发"",
+    ""金融数据处理""
+  ],
+  ""soft_skills"": [],
+  ""education"": ""硕士"",
+  ""experience"": ""1-3 年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：行情后台开发、金融数据处理"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：硕士"",
+    ""experience"": ""经验要求：1-3 年"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0043.json
+JOB_0014,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T12:32:46.933563+00:00,2026-08-13T12:32:50.536618+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""大模型算法研发""
+  ],
+  ""soft_skills"": [],
+  ""education"": ""博士"",
+  ""experience"": null,
+  ""ai_tech_stack"": [
+    ""大模型算法""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：大模型算法研发"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：博士"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI 相关技术栈要求：大模型算法""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0014.json
+JOB_0080,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T12:32:50.541334+00:00,2026-08-13T12:32:57.451634+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""技术架构设计"",
+    ""系统规划"",
+    ""AI 技术管理""
+  ],
+  ""soft_skills"": [
+    ""跨团队推进"",
+    ""团队管理""
+  ],
+  ""education"": ""本科"",
+  ""experience"": ""5-10 年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理"",
+    ""soft_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理"",
+    ""education"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理"",
+    ""experience"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理"",
+    ""ai_tech_stack"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理 学历要求：本科 经验要求：5-10 年 AI 相关技术栈要求：AI 技术管理""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0080.json
+JOB_0105,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T12:32:57.454834+00:00,2026-08-13T12:33:01.296068+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""AI 应用开发"",
+    ""大模型应用""
+  ],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""3-5 年"",
+  ""ai_tech_stack"": [
+    ""AI 应用开发"",
+    ""大模型应用""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：AI 应用开发相关能力"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：AI 应用开发、大模型应用""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0105.json
+JOB_0122,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T12:33:01.299180+00:00,2026-08-13T12:33:07.343513+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""C/C++"",
+    ""Go"",
+    ""Rust"",
+    ""Linux"",
+    ""Windows"",
+    ""多线程"",
+    ""多进程"",
+    ""进程间通讯"",
+    ""消息事件通知"",
+    ""同步/异步"",
+    ""内存管理"",
+    ""TCP/UDP"",
+    ""组网"",
+    ""抓包分析""
+  ],
+  ""soft_skills"": [
+    ""敬业"",
+    ""细心"",
+    ""爱钻研技术"",
+    ""团队精神"",
+    ""善于总结"",
+    ""能承受一定的工作压力""
+  ],
+  ""education"": ""本科"",
+  ""experience"": ""3-5 年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：工作职责：1、负责证券业务的集中交易、极速交易、量化交易等系统的研发工作；2、完成公司安排的其他工作。任职资格：1、本科及以上学历，技术扎实，精通 C/C++、Go 或 Rust 等编程语言的一种；2、具有三年以上 C++ 工作经验，熟练使用 Linux/Windows 开发、编译、调试；3、熟悉 Linux 下多线程/多进程编程模型，进程间通讯，消息事件通知，同步/异步；4、熟悉 Linux 下内存管理机制，低延迟、高并发无锁化编程；5、熟悉 TCP/UDP 协议、组网、抓包分析等网络编程；6、工作敬业，细心，爱钻研技术，有团队精神，善于总结，能承受一定的工作压力。"",
+    ""soft_skills"": ""6、工作敬业，细心，爱钻研技术，有团队精神，善于总结，能承受一定的工作压力。"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0122.json
+JOB_0099,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T12:33:07.347367+00:00,2026-08-13T13:23:52.623323+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""Python"",
+    ""Java"",
+    ""Go"",
+    ""C++"",
+    ""算法"",
+    ""数据结构"",
+    ""Agent 系统开发"",
+    ""LangChain"",
+    ""LlamaIndex"",
+    ""AutoGen"",
+    ""Prompt 工程"",
+    ""RAG"",
+    ""Tool Calling"",
+    ""上下文工程"",
+    ""OpenAPI"",
+    ""RPC"",
+    ""MCP"",
+    ""大模型"",
+    ""多智能体（Multi-Agent）架构"",
+    ""模型服务化与智能体调度架构""
+  ],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": null,
+  ""ai_tech_stack"": [
+    ""大模型"",
+    ""多智能体（Multi-Agent）架构"",
+    ""Prompt 工程"",
+    ""RAG"",
+    ""Tool Calling"",
+    ""上下文编排"",
+    ""模型服务化与智能体调度架构"",
+    ""LangChain"",
+    ""LlamaIndex"",
+    ""AutoGen""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：Python/Java/Go/C++等编程语言，扎实的算法与数据结构基础；了解 Agent 系统开发，熟悉 LangChain/LlamaIndex/AutoGen 等框架；掌握 Prompt 工程、RAG、Tool Calling、上下文工程等 AI 应用关键技术；掌握 OpenAPI、RPC、MCP 等协议"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI 相关技术栈要求：大模型/多智能体（Multi-Agent）架构，Prompt 工程，RAG（检索增强生成），Tool Calling，上下文编排，模型服务化与智能体调度架构，LangChain/LlamaIndex/AutoGen""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0099.json
+JOB_0161,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T13:23:52.625801+00:00,2026-08-13T13:23:55.539015+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""Python"",
+    ""R"",
+    ""Java"",
+    ""SQL"",
+    ""金融大数据需求分析"",
+    ""数据挖掘"",
+    ""金融类模型构建""
+  ],
+  ""soft_skills"": [
+    ""沟通能力"",
+    ""逻辑能力"",
+    ""创业精神"",
+    ""团队合作意识"",
+    ""学习能力""
+  ],
+  ""education"": ""本科及以上，国内外双一流大学及以上学历，硕士优先"",
+  ""experience"": ""5-10 年，需具备 3 年以上金融或大数据相关行业经验"",
+  ""ai_tech_stack"": [
+    ""大模型微调"",
+    ""规则模型"",
+    ""量化模型"",
+    ""金融风控"",
+    ""大数据相关 AI 应用场景""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：熟练使用 Python、R、Java、SQL 中任意一种分析工具；具备金融大数据需求分析、数据挖掘、金融类模型构建能力"",
+    ""soft_skills"": ""技能要求：软技能：良好的沟通与逻辑能力；具备创业精神与团队合作意识；学习能力强，可快速适应新环境与新方法"",
+    ""education"": ""学历要求：本科及以上，国内外双一流大学及以上学历，硕士优先"",
+    ""experience"": ""经验要求：5-10 年，需具备 3 年以上金融或大数据相关行业经验"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：可参与大模型微调、规则模型、量化模型等金融类模型构建；覆盖金融风控、大数据相关 AI 应用场景""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0161.json
+JOB_0160,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T13:23:55.542167+00:00,2026-08-13T13:24:01.574898+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""Adobe 系列"",
+    ""Sketch"",
+    ""figma"",
+    ""Axure"",
+    ""XMind"",
+    ""B 端大数据产品全周期管理"",
+    ""需求分析"",
+    ""产品规划"",
+    ""大模型应用"",
+    ""语义类 AI"",
+    ""金融智能体"",
+    ""产业大脑"",
+    ""智能体"",
+    ""金融领域""
+  ],
+  ""soft_skills"": [
+    ""需求理解能力"",
+    ""自驱力"",
+    ""责任心"",
+    ""交付能力"",
+    ""团队协作"",
+    ""沟通能力""
+  ],
+  ""education"": ""统招本科及以上"",
+  ""experience"": ""3-5 年"",
+  ""ai_tech_stack"": [
+    ""大模型应用"",
+    ""语义类 AI"",
+    ""金融智能体"",
+    ""产业大脑"",
+    ""智能体"",
+    ""金融领域""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练使用 Adobe 系列、Sketch、figma、Axure、XMind 等设计工具；具备 B 端大数据产品全周期管理、需求分析与产品规划能力"",
+    ""soft_skills"": ""较强的需求理解能力；自驱力、责任心与交付能力强；具备良好的团队协作与沟通能力"",
+    ""education"": ""统招本科及以上，硕士优先"",
+    ""experience"": ""3-5 年"",
+    ""ai_tech_stack"": ""熟悉大模型应用相关技术；覆盖语义类 AI、金融智能体、产业大脑等 AI 应用场景；对智能体、大模型、金融领域有浓厚兴趣""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0160.json
+JOB_0154,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T13:24:01.578564+00:00,2026-08-13T13:24:05.710147+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""高端大客户商务洽谈"",
+    ""招投标"",
+    ""SaaS 软件产品销售"",
+    ""数据业务产品销售"",
+    ""金融行业消保"",
+    ""风控""
+  ],
+  ""soft_skills"": [
+    ""诚实守信"",
+    ""市场开拓"",
+    ""抗压能力"",
+    ""职业素养""
+  ],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3 年以上软件行业销售经验"",
+  ""ai_tech_stack"": [
+    ""AI"",
+    ""NLP"",
+    ""大数据"",
+    ""风控"",
+    ""企业舆情"",
+    ""大模型应用""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：具备高端大客户商务洽谈与招投标能力；熟悉 SaaS 软件、数据业务产品销售；掌握金融行业消保、风控相关业务知识"",
+    ""soft_skills"": ""软技能：诚实守信，具备市场开拓能力与抗压能力；具备良好的职业素养"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3 年以上软件行业销售经验"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：了解 AI、NLP、大数据、风控及企业舆情在金融行业的应用场景；了解大模型应用等科技发展状况""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0154.json
+JOB_0244,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T13:24:05.713808+00:00,2026-08-13T13:24:10.408792+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""商业智能解决方案"",
+    ""数据仓库"",
+    ""大数据"",
+    ""数据治理"",
+    ""数据分析"",
+    ""风险管理"",
+    ""银行行业计算机应用系统""
+  ],
+  ""soft_skills"": [
+    ""沟通协调能力"",
+    ""商务拓展能力"",
+    ""客户关系维护能力"",
+    ""需求分析与解决方案提供能力""
+  ],
+  ""education"": ""大专及以上"",
+  ""experience"": ""有金融行业背景，具备相关销售/售前支持相关经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：具备商业智能解决方案知识，熟悉数据仓库、大数据、数据治理、数据分析、风险管理等领域知识，了解银行行业计算机应用系统"",
+    ""soft_skills"": ""软技能：良好的沟通协调能力，独立的商务拓展能力，客户关系维护能力，需求分析与解决方案提供能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：有金融行业背景，具备相关销售/售前支持相关经验优先"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0244.json
+JOB_0245,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T13:24:10.413394+00:00,2026-08-13T13:24:15.595677+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""银行业"",
+    ""计算机应用系统"",
+    ""银行软件产品销售"",
+    ""高附加值服务解决方案""
+  ],
+  ""soft_skills"": [
+    ""人际沟通能力"",
+    ""商务拓展能力"",
+    ""快速学习能力"",
+    ""产品展示与表达能力"",
+    ""客户关系维护"",
+    ""人脉拓展能力""
+  ],
+  ""education"": ""大专及以上"",
+  ""experience"": ""银行软件产品销售工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：了解银行业及计算机应用系统，具备银行软件产品销售能力，能提供高附加值服务解决方案"",
+    ""soft_skills"": ""软技能：良好的人际沟通能力，独立的商务拓展能力，快速学习能力，产品展示与表达能力，客户关系维护与人脉拓展能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：具备银行软件产品销售工作经验，有系统销售、模型或咨询项目销售经验优先"",
+    ""ai_tech_stack"": ""AI 相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0245.json
+JOB_0197,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T13:24:15.598623+00:00,2026-08-13T13:24:22.454675+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""资金清算"",
+    ""信息披露"",
+    ""估值核算"",
+    ""用户需求调研"",
+    ""需求设计"",
+    ""AXURE"",
+    ""界面原型绘制"",
+    ""系统指标验证"",
+    ""文档撰写""
+  ],
+  ""soft_skills"": [
+    ""逻辑思维能力"",
+    ""分析能力"",
+    ""业务理解能力"",
+    ""学习能力"",
+    ""抗压能力"",
+    ""沟通协调能力"",
+    ""团队协作能力"",
+    ""责任感"",
+    ""主动好学"",
+    ""性格开朗""
+  ],
+  ""education"": ""全日制本科或研究生以上学历"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：1、负责公司资金清算或信息披露或估值核算等相关产品用户需求调研、分析整理及跟踪；2、撰写用户需求说明书与需求设计等相关文档；3、使用 AXURE 等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证"",
+    ""soft_skills"": ""经验要求：1、有较强的逻辑思维能力，分析能力...3、工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力"",
+    ""education"": ""学历要求：1、全日制本科或研究生以上学历，2027 届计算机、金融或财务相关专业毕业生"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI 相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0197.json
+JOB_0199,P1,R1,Qwen/Qwen3.5-4B,2026-08-13T13:24:22.458438+00:00,2026-08-13T13:24:25.833089+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""测试用例设计"",
+    ""测试用例执行"",
+    ""测试报告编写"",
+    ""测试环境搭建"",
+    ""SQL 语句"",
+    ""ORACLE 数据库""
+  ],
+  ""soft_skills"": [],
+  ""education"": ""全日制本科及以上学历"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：1、根据业务需求，设计编写测试用例，执行测试用例；2、编写测试报告，及时反映测试情况；3、根据项目要求，搭建测试环境。"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：1、全日制本科及以上学历，2027 届计算机应用、金融、财务相关专业毕业生；"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI 相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0199.json
+JOB_0178,P1,R1,deepseek-v4-flash,2026-08-13T15:23:26.962478+00:00,2026-08-13T15:23:29.875279+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Android APP 研发"", ""代码架构设计"", ""性能调优"", ""bug 修复"", ""跟踪新技术"", ""解决技术难点"", ""产品分析"", ""优化方案设计""],
+  ""soft_skills"": [""独立开发与问题解决能力"", ""主动解决问题的意识"", ""团队协作能力"", ""产品思维"", ""创新意识""],
+  ""education"": ""全日制统招本科及以上学历"",
+  ""experience"": ""3年以上软件开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：具备 Android APP 研发、代码架构设计、性能调优与 bug 修复能力；具备跟踪新技术、解决技术难点的能力；具备产品分析与优化方案设计能力。"",
+    ""soft_skills"": ""具备独立开发与问题解决能力；具备主动解决问题的意识；具备良好的团队协作能力；具备产品思维与创新意识"",
+    ""education"": ""学历要求：全日制统招本科及以上学历"",
+    ""experience"": ""经验要求：3 年以上软件开发经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0178.json
+JOB_0195,P1,R1,deepseek-v4-flash,2026-08-13T15:23:26.962069+00:00,2026-08-13T15:23:30.531781+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""用户需求调研"", ""需求分析"", ""撰写需求文档"", ""AXURE原型设计"", ""系统验证""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""业务理解能力"", ""学习能力"", ""文档撰写能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：1、负责公司资金清算或信息披露或估值核算等相关产品用户需求调研、分析整理及跟踪；2、撰写用户需求说明书与需求设计等相关文档；3、使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证；"",
+    ""soft_skills"": ""经验要求：1、有较强的逻辑思维能力，分析能力，了解金融及经济学理论知识，热爱金融行业；2、具备较强的业务理解和学习能力，能快速学习新业务，文档撰写能力较好；3、工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力。"",
+    ""education"": ""学历要求：1、全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生；"",
+    ""experience"": null,
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0195.json
+JOB_0180,P1,R1,deepseek-v4-flash,2026-08-13T15:23:26.962663+00:00,2026-08-13T15:23:30.618938+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""互联网金融功能设计"", ""用户体验设计"", ""业务流程设计"", ""撰写需求文档"", ""撰写咨询报告"", ""软件系统简单测试"", ""Word"", ""Axure""],
+  ""soft_skills"": [""敏锐的互联网洞察力"", ""金融产品洞察力"", ""软件信息技术洞察力"", ""创新意识"", ""沟通能力"", ""团队合作意识"", ""分析能力"", ""写作能力"", ""项目推进能力"", ""跨部门协同能力""],
+  ""education"": ""全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业"",
+  ""experience"": ""一年以上相关工作经验，有互联网、金融行业经验更佳"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：具备互联网金融功能、用户体验、业务流程设计能力；能撰写需求文档、咨询报告；具备软件系统简单测试能力；熟练使用 Word、Axure 软件。"",
+    ""soft_skills"": ""具备敏锐的互联网、金融产品、软件信息技术洞察力与创新意识；具备较强的沟通能力与团队合作意识；具备良好的分析与写作能力；具备项目推进与跨部门协同能力"",
+    ""education"": ""学历要求：全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业"",
+    ""experience"": ""经验要求：一年以上相关工作经验，有互联网、金融行业经验更佳"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0180.json
+JOB_0176,P1,R1,deepseek-v4-flash,2026-08-13T15:23:29.880542+00:00,2026-08-13T15:23:33.357007+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JavaScript"", ""C"", ""J2EE"", ""Tomcat"", ""JBOSS"", ""Weblogic"", ""Web Sphere"", ""编码"", ""单元测试""],
+  ""soft_skills"": [""团队协作意识"", ""执行与跟进能力"", ""编码规范与流程执行能力"", ""文档编写能力""],
+  ""education"": ""统招211知名高校本科及以上学历，计算机软件相关专业"",
+  ""experience"": ""一年以上大、中型JAVA项目开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：熟练掌握 Java、JavaScript、C 等语言及 J2EE 架构；熟悉 Tomcat、JBOSS、Weblogic、Web Sphere 主流应用服务器至少一种；能根据设计文档高效完成编码、单元测试。"",
+    ""soft_skills"": ""具备良好的编码规范与流程执行能力；具备团队协作意识；能配合完成项目相关文档编写；具备较强的执行与跟进能力"",
+    ""education"": ""学历要求：统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+    ""experience"": ""经验要求：一年以上大、中型 JAVA 项目开发经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0176.json
+JOB_0205,P1,R1,deepseek-v4-flash,2026-08-13T15:23:30.536382+00:00,2026-08-13T15:23:34.277537+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""JAVA/J2EE开发能力"", ""SpringMVC"", ""SpringBoot"", ""VUE"", ""MySQL/Oracle"", ""SQL语言编写"", ""git"", ""Linux常用命令"", ""redis缓存技术"", ""SSM框架"", ""微服务框架"", ""DB2数据库""],
+  ""soft_skills"": [""逻辑思维能力"", ""问题解决能力"", ""沟通能力"", ""吃苦耐劳"", ""承压能力""],
+  ""education"": ""全日制本科及以上学历，计算机或相关专业"",
+  ""experience"": ""3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：JAVA/J2EE开发能力，SpringMVC、SpringBoot等JAVA框架使用能力，VUE等前端框架使用能力，MySQL/Oracle等数据库操作能力，SQL语言编写能力，git、Linux常用命令使用能力，redis缓存技术、SSM框架、微服务框架、DB2数据库掌握能力"",
+    ""soft_skills"": ""软技能：逻辑思维能力，问题解决能力，沟通能力，吃苦耐劳，承压能力"",
+    ""education"": ""学历要求：全日制本科及以上学历，计算机或相关专业"",
+    ""experience"": ""经验要求：3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0205.json
+JOB_0212,P1,R1,deepseek-v4-flash,2026-08-13T15:23:30.624597+00:00,2026-08-13T15:23:34.395871+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""银行私域用户增长运营能力"",
+    ""营销运营体系搭建能力"",
+    ""线上营销工具使用能力"",
+    ""营销活动策划与执行能力"",
+    ""运营效果监测与分析能力"",
+    ""业务指标体系建立能力"",
+    ""数据分析与精细化运营能力""
+  ],
+  ""soft_skills"": [
+    ""用户洞察能力"",
+    ""增长思维"",
+    ""策划与方案统筹能力"",
+    ""执行力"",
+    ""沟通能力"",
+    ""抗压能力"",
+    ""结果导向""
+  ],
+  ""education"": ""本科及以上学历，市场营销、媒体传播等相关专业毕业优先"",
+  ""experience"": ""2年以上金融行业营销运营经验，有金融产品运营及用户增长运营相关工作经验者优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：银行私域用户增长运营能力，营销运营体系搭建能力，线上营销工具使用能力，营销活动策划与执行能力，运营效果监测与分析能力，业务指标体系建立能力，数据分析与精细化运营能力"",
+    ""soft_skills"": ""软技能：用户洞察能力，增长思维，策划与方案统筹能力，执行力，沟通能力，抗压能力，结果导向"",
+    ""education"": ""学历要求：本科及以上学历，市场营销、媒体传播等相关专业毕业优先"",
+    ""experience"": ""经验要求：2年以上金融行业营销运营经验，有金融产品运营及用户增长运营相关工作经验者优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无明确要求""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0212.json
+JOB_0209,P1,R1,deepseek-v4-flash,2026-08-13T15:23:33.361546+00:00,2026-08-13T15:23:37.452164+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""新产品方向策划与确定能力"",
+    ""信贷类软件产品研发组织与管理能力"",
+    ""解决方案管理与市场推广能力"",
+    ""售前项目管理能力"",
+    ""团队培养与培训能力"",
+    ""信贷业务需求设计能力""
+  ],
+  ""soft_skills"": [
+    ""归纳提炼总结能力"",
+    ""沟通能力"",
+    ""方案与需求编制能力"",
+    ""市场趋势洞察能力""
+  ],
+  ""education"": ""国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+  ""experience"": ""6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+  ""ai_tech_stack"": [
+    ""AI+MCN"",
+    ""AI行业研究"",
+    ""AI相关标的筛选与投资价值评估""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：新产品方向策划与确定能力，信贷类软件产品研发组织与管理能力，解决方案管理与市场推广能力，售前项目管理能力，团队培养与培训能力，信贷业务需求设计能力"",
+    ""soft_skills"": ""软技能：归纳提炼总结能力，沟通能力，方案与需求编制能力，市场趋势洞察能力"",
+    ""education"": ""学历要求：国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+    ""experience"": ""经验要求：6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0209.json
+JOB_0171,P1,R1,deepseek-v4-flash,2026-08-13T15:23:34.280275+00:00,2026-08-13T15:23:37.750794+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""JavaScript"", ""ES5/ES6"", ""Vue"", ""Angular"", ""React"", ""Echarts"", ""前端工程化"", ""Git"", ""组件化开发""],
+  ""soft_skills"": [""规范开发习惯"", ""需求理解顺畅"", ""团队协作意识强""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [""AI数据分析结果展示"", ""智能金融业务交互页面开发""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通 JavaScript、ES5/ES6；熟练 Vue、Angular、React、Echarts；掌握前端工程化、Git、组件化开发。"",
+    ""soft_skills"": ""规范开发习惯；需求理解顺畅；团队协作意识强"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：开发银行智能管理后台、数据可视化大屏，承载 AI 数据分析结果展示、智能金融业务交互页面开发""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0171.json
+JOB_0173,P1,R1,deepseek-v4-flash,2026-08-13T15:23:34.399602+00:00,2026-08-13T15:23:38.808543+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""DCMM数据治理成熟度评估体系"", ""数据标准"", ""数据字典"", ""元数据"", ""数据质量"", ""指标体系"", ""数据资产全流程治理"", ""数据血缘梳理"", ""数据资产目录搭建"", ""业务建模"", ""指标梳理"", ""数仓对接"", ""数据中台对接"", ""客户调研访谈"", ""方案编写"", ""项目落地推进""],
+  ""soft_skills"": [""多方团队沟通协调"", ""闭环项目管理""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10年；5年以上数据治理咨询/实施全流程操盘经验；拥有能源集团客户落地案例优先"",
+  ""ai_tech_stack"": [""金融大模型"", ""智能分析"", ""金融数据智能清洗"", ""指标智能识别""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：掌握 DCMM 数据治理成熟度评估体系；精通数据标准、数据字典、元数据、数据质量、指标体系、数据资产全流程治理；熟悉数据血缘梳理、数据资产目录搭建；具备业务建模、指标梳理能力；能对接数仓、数据中台；客户调研访谈、方案编写、项目落地推进"",
+    ""soft_skills"": ""多方团队沟通协调、闭环项目管理"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年；5 年以上数据治理咨询 / 实施全流程操盘经验；拥有能源集团客户落地案例优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：岗位未直接写明 AI 技术栈；岗位属于金融 AI 底层数据底座建设，工作产出为金融大模型、智能分析提供高质量治理后的数据，可适配金融数据智能清洗、指标智能识别等 AI 场景；需要理解数据如何支撑智能化数据分析应用""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0173.json
+JOB_0129,P1,R1,deepseek-v4-flash,2026-08-13T15:23:37.753968+00:00,2026-08-13T15:23:41.754530+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JVM"", ""IO"", ""多线程"", ""并发"", ""集合"", ""分布式"", ""缓存"", ""消息"", ""Spring"", ""Spring Cloud"", ""Hibernate"", ""Netty"", ""Dubbo"", ""Tomcat"", ""Nginx"", ""Zookeeper"", ""MySQL"", ""Redis"", ""SQL索引优化"", ""查询优化"", ""存储过程优化"", ""TCP/IP"", ""HTTP"", ""RESTful"", ""API开发"", ""Maven"", ""Jenkins"", ""JUnit"", ""Html"", ""Javascript"", ""Css"", ""Angularjs""],
+  ""soft_skills"": [""良好的开发习惯""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：3年以上Java开发工作经验，精通Java开发，了解JVM原理；熟悉IO、多线程和并发、集合等基础框架，熟悉分布式、缓存、消息等机制；熟悉Spring、Spring Cloud、Hibernate、Netty/Dubbo等Java开源框架，熟悉Tomcat、Nginx、Zookeeper等开源工具；熟悉MySQL、Redis常用DB/Cache数据库，熟悉SQL索引优化、查询优化和存储过程优化；熟悉TCP/IP协议，熟悉HTTP协议和RESTful规范，有API开发经验；有良好的开发习惯，熟悉Maven、Jenkins、JUnit；熟悉Html、Javascript、Css等前端开发技术，有Angularjs等前端框架开发经验优先"",
+    ""soft_skills"": ""有良好的开发习惯"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0129.json
+JOB_0175,P1,R1,deepseek-v4-flash,2026-08-13T15:23:37.457266+00:00,2026-08-13T15:23:42.410811+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""熟悉财务管理、会计核算业务流程"", ""电力行业财务软件实施"", ""项目需求调研"", ""需求分析"", ""文档编写"", ""掌握项目管理方法"", ""了解电力行业数据治理、数据服务工作"", ""客户沟通"", ""项目管控"", ""需求梳理"", ""驻场项目交付能力""],
+  ""soft_skills"": [],
+  ""education"": ""本科，财务/会计类相关专业优先"",
+  ""experience"": ""3-5年，社保累计3年以上；具备电力行业经验、财务系统实施经验优先"",
+  ""ai_tech_stack"": [""数据治理"", ""数据服务"", ""财务智能分析"", ""智能报表"", ""业财AI风控""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：熟悉财务管理、会计核算业务流程；电力行业财务软件实施、项目需求调研、需求分析、文档编写；掌握项目管理方法；了解电力行业数据治理、数据服务工作； 客户沟通、项目管控、需求梳理、驻场项目交付能力"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科，财务 / 会计类相关专业优先"",
+    ""experience"": ""经验要求：3-5 年，社保累计 3 年以上；具备电力行业经验、财务系统实施经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：岗位 JD 无直接写明 AI 技术栈；负责电力行业财资数字化与数据治理，为企业财务智能分析、智能报表、业财 AI 风控提供数据基础，属于产业金融数字化 AI 应用支撑岗位""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0175.json
+JOB_0135,P1,R1,deepseek-v4-flash,2026-08-13T15:23:38.812396+00:00,2026-08-13T15:23:43.620638+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JVM"", ""IO"", ""多线程"", ""并发"", ""集合"", ""分布式"", ""缓存"", ""消息"", ""Spring"", ""Spring Cloud"", ""Hibernate"", ""Netty"", ""Dubbo"", ""Tomcat"", ""Nginx"", ""Zookeeper"", ""MySQL"", ""Redis"", ""SQL索引优化"", ""查询优化"", ""存储过程优化"", ""TCP/IP"", ""HTTP"", ""RESTful"", ""API开发"", ""Html"", ""JavaScript"", ""Css"", ""jQuery"", ""struts""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：参与项目的功能模块编码、开发、测试；协助解决项目开发过程中的技术难题和编写日常开发文档和流程图；计算机科学或相关专业本科及以上学历；3年以上java开发工作经验，精通java开发，了解JVM原理；熟练使用IO、多线程和并发、集合功能，熟悉分布式、缓存、消息等机制；熟悉Spring、Spring Cloud、Hibernate、Netty/Dubbo开源框架，熟悉Tomcat、Nginx、Zookeeper等开源工具；熟悉MySQL、Redis常用DB/Cache数据库，熟悉SQL索引优化、查询优化和存储过程优化；熟悉TCP/IP协议，熟悉HTTP协议和RESTful规范，有API开发经验；熟悉Html、JavaScript、Css、jQuery等前端开发技术，有struts等前端框架开发经验优先"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0135.json
+JOB_0140,P1,R1,deepseek-v4-flash,2026-08-13T15:23:41.758705+00:00,2026-08-13T15:23:44.913221+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Linux/Unix/Windows"", ""TCP/IP"", ""C++"", ""SQL Server"", ""DB2"", ""Oracle"", ""SQL""],
+  ""soft_skills"": [""热爱编程"", ""创造力"", ""交流沟通能力"", ""适应出差""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""4天/周 4个月"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉Linux/Unix/Windows操作和开发环境，熟悉TCP/IP协议相关知识，有C++开发和网络编程经验优先；熟悉SQL Server、DB2、Oracle数据库中至少一种，熟练掌握数据库SQL语言"",
+    ""soft_skills"": ""热爱编程，有创造力，具备良好的交流沟通能力，能适应短期出差"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""4天/周 4个月"",
+    ""ai_tech_stack"": ""无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0140.json
+JOB_0005,P1,R1,deepseek-v4-flash,2026-08-13T15:23:42.415913+00:00,2026-08-13T15:23:45.434376+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""多线程"", ""Spring"", ""Springboot"", ""Dubbo"", ""Redis"", ""Zookeeper"", ""MQ"", ""Spring Cloud"", ""微服务"", ""架构设计"", ""分布式系统""],
+  ""soft_skills"": [""沟通能力"", ""协调能力"", ""团队精神"", ""求知欲"", ""创造力"", ""责任感"", ""抗压能力""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：Java、多线程、Spring、Springboot、Dubbo、Redis、Zookeeper、MQ、Spring Cloud、微服务、架构设计、分布式系统"",
+    ""soft_skills"": ""软技能：沟通能力、协调能力、团队精神、求知欲、创造力、责任感、抗压能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0005.json
+JOB_0009,P1,R1,deepseek-v4-flash,2026-08-13T15:23:43.626457+00:00,2026-08-13T15:23:47.194002+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""C"", ""Linux"", ""全内存证券交易系统"", ""多线程/进程编程"", ""内存管理"", ""数据库""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、C、Linux、全内存证券交易系统、多线程/进程编程、内存管理、数据库"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0009.json
+JOB_0003,P1,R1,deepseek-v4-flash,2026-08-13T15:23:44.916555+00:00,2026-08-13T15:23:48.839569+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Linux"", ""gdb调试"", ""多线程/进程编程"", ""内存管理"", ""数据库（事务特性、索引）"", ""Linux服务端开发"", ""系统性能调优""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、Linux、gdb调试、多线程/进程编程、内存管理、数据库（事务特性、索引）、Linux服务端开发、系统性能调优"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0003.json
+JOB_0188,P1,R1,deepseek-v4-flash,2026-08-13T15:23:45.438746+00:00,2026-08-13T15:23:49.732402+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""SQL"", ""PLSQL"", ""数据库查询与优化"", ""Python"", ""R"", ""数据分析"", ""数据挖掘""],
+  ""soft_skills"": [""强逻辑思维能力"", ""数据分析能力"", ""沟通表达能力"", ""自驱力"", ""业务洞察"", ""问题解决能力""],
+  ""education"": ""本科及以上学历，信息技术类、数学、统计学、计量经济学类专业"",
+  ""experience"": ""3年以上数据分析相关工作经验"",
+  ""ai_tech_stack"": [""AI智能风控"", ""精准营销"", ""智能理赔"", ""数据洞察"", ""模型输入""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：熟练掌握 SQL、PLSQL 编程，具备数据库查询与优化能力；熟悉 Python/R 等数据分析编程语言优先；具备数据分析、数据挖掘能力。"",
+    ""soft_skills"": ""强逻辑思维能力、数据分析能力；优秀的沟通表达能力与自驱力；具备业务洞察与问题解决能力"",
+    ""education"": ""学历要求：本科及以上学历，信息技术类、数学、统计学、计量经济学类专业"",
+    ""experience"": ""经验要求：3 年以上数据分析相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：负责金融 / 保险业务数据分析、数据挖掘，为 AI 智能风控、精准营销、智能理赔等 AI 金融场景提供数据洞察与模型输入""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0188.json
+JOB_0192,P1,R1,deepseek-v4-flash,2026-08-13T15:23:47.198874+00:00,2026-08-13T15:23:50.799330+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Figma"", ""Sketch"", ""PS"", ""AI"", ""视觉设计"", ""排版"", ""色彩"", ""交互逻辑"", ""PC端界面设计"", ""移动端界面设计""],
+  ""soft_skills"": [""沟通顺畅"", ""责任心强"", ""用户体验思维"", ""细节把控能力"", ""配合项目进度""],
+  ""education"": ""本科及以上学历，设计类相关专业优先"",
+  ""experience"": ""3年以上相关设计经验"",
+  ""ai_tech_stack"": [""AI金融系统"", ""智能保险APP"", ""智能风控后台""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练使用 Figma/Sketch/PS/AI 等设计软件；具备扎实的视觉、排版、色彩基础，懂交互逻辑优先；能独立完成 PC 端、移动端整套界面设计。"",
+    ""soft_skills"": ""沟通顺畅、责任心强；具备用户体验思维与细节把控能力；能配合项目进度完成设计交付"",
+    ""education"": ""本科及以上学历，设计类相关专业优先"",
+    ""experience"": ""未明确限定，参考同体系岗位要求：3 年以上相关设计经验"",
+    ""ai_tech_stack"": ""负责 AI 金融系统、智能保险 APP、智能风控后台的界面与视觉设计，保障 AI 金融产品的用户体验与视觉落地""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0192.json
+JOB_0186,P1,R1,deepseek-v4-flash,2026-08-13T15:23:48.844656+00:00,2026-08-13T15:23:52.336486+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""numpy"", ""pandas"", ""Oracle"", ""MySQL"", ""JS"", ""前端框架""],
+  ""soft_skills"": [""逻辑思维能力"", ""沟通表达能力"", ""对技术挑战有高热情"", ""团队协作意识""],
+  ""education"": ""本科及以上学历，计算机相关专业"",
+  ""experience"": ""2年以上相关工作经验"",
+  ""ai_tech_stack"": [""AI金融数据分析"", ""量化建模"", ""智能风控模型开发"", ""金融大数据分析"", ""AI模型训练与落地""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通 Python 语言，熟练掌握 numpy、pandas 等科学运算库；掌握 Oracle/MySQL 等数据库技术；具备 JS、前端框架知识优先。"",
+    ""soft_skills"": ""优秀的逻辑思维能力、沟通表达能力；对技术挑战有高热情；具备良好的团队协作意识"",
+    ""education"": ""学历要求：本科及以上学历，计算机相关专业"",
+    ""experience"": ""经验要求：2 年以上相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：直接对接 AI 金融数据分析、量化建模、智能风控模型开发，是 AI 金融科技核心研发岗位，可支撑金融大数据分析、AI 模型训练与落地""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0186.json
+JOB_0147,P1,R1,deepseek-v4-flash,2026-08-13T15:23:49.737178+00:00,2026-08-13T15:23:53.004639+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""接口自动化测试用例编写、调试与维护"", ""熟悉 Oracle、MySQL 等数据库，可编写 SQL 语句、存储过程与函数"", ""至少掌握 Python/Java 一种编程语言，可开发测试小工具"", ""有金融行业（基金、证券、保险、银行）投研系统测试经验优先""],
+  ""soft_skills"": [""工作认真细致"", ""具备较强的沟通理解能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5 年相关工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：1. 掌握接口自动化测试用例编写、调试与维护2. 熟悉 Oracle、MySQL 等数据库，可编写 SQL 语句、存储过程与函数3. 至少掌握 Python/Java 一种编程语言，可开发测试小工具4. 有金融行业（基金、证券、保险、银行）投研系统测试经验优先"",
+    ""soft_skills"": ""软技能：工作认真细致，具备较强的沟通理解能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无明确要求""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0147.json
+JOB_0145,P1,R1,deepseek-v4-flash,2026-08-13T15:23:50.803224+00:00,2026-08-13T15:23:54.001892+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""自动化测试"", ""功能测试"", ""性能测试"", ""Python""],
+  ""soft_skills"": [],
+  ""education"": ""本科（学信网可查）"",
+  ""experience"": ""2年以上测试经验，岗位要求3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""掌握自动化测试、功能测试、性能测试相关技能；具备 Python 相关技术能力"",
+    ""soft_skills"": ""无明确额外要求"",
+    ""education"": ""本科（学信网可查）"",
+    ""experience"": ""2 年以上测试经验，岗位要求 3-5 年"",
+    ""ai_tech_stack"": ""无明确要求""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0145.json
+JOB_0238,P2,R1,deepseek-v4-flash,2026-08-13T15:23:53.008880+00:00,2026-08-13T15:23:55.014916+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [],
+  ""soft_skills"": [],
+  ""education"": ""本科及以上"",
+  ""experience"": ""产品规划与设计相关经验，深入理解保险业务（金融相关）"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": null,
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：产品规划与设计相关经验，深入理解保险业务（金融相关）"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0238.json
+JOB_0144,P1,R1,deepseek-v4-flash,2026-08-13T15:23:52.340645+00:00,2026-08-13T15:23:56.503879+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力"", ""具备收并购项目实操经验，熟悉标的选取与评估流程"", ""财务建模与估值分析能力""],
+  ""soft_skills"": [""可适应高频出差，能承受较大工作压力"", ""具备项目资源与行业人脉""],
+  ""education"": ""本科及以上（能力突出可放宽）"",
+  ""experience"": ""3-5 年相关工作经验"",
+  ""ai_tech_stack"": [""AI+MCN"", ""AI 行业研究"", ""AI 相关标的筛选与投资价值评估""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：1. 熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力2. 具备收并购项目实操经验，熟悉标的选取与评估流程；财务建模与估值分析能力优先"",
+    ""soft_skills"": ""软技能：可适应高频出差，能承受较大工作压力；具备项目资源与行业人脉优先"",
+    ""education"": ""学历要求：本科及以上（能力突出可放宽）"",
+    ""experience"": ""经验要求：3-5 年相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P1/R1/JOB_0144.json
+JOB_0243,P2,R1,deepseek-v4-flash,2026-08-13T15:23:54.006003+00:00,2026-08-13T15:23:58.467489+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""系统设计"", ""编码开发"", ""Java开发语言"", ""Spring"", ""SpringMVC"", ""SpringBoot"", ""MyBatis"", ""Oracle"", ""MySql"", ""SqlServer"", ""SQL调优"", ""网络通讯(TCP/HTTP/HTTPS)"", ""接口安全技术""],
+  ""soft_skills"": [""沟通能力"", ""学习能力"", ""责任心""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备系统设计、编码开发能力，熟悉java开发语言及相关框架；熟练使用JAVA语言及各类开源框架，如Spring、SpringMVC、SpringBoot、MyBatis等；熟练使用Oracle、MySql、SqlServer等数据库，对SQL语句能够调优分析；对网络通讯(TCP\\HTTP\\HTTPS)和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": ""经验要求：27届提前批实习生，无明确工作经验要求，有相关开发经验优先。"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0243.json
+JOB_0242,P2,R1,deepseek-v4-flash,2026-08-13T15:23:55.020144+00:00,2026-08-13T15:23:58.666616+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Spring"", ""SpringMVC"", ""SpringBoot"", ""MyBatis"", ""Oracle"", ""MySQL"", ""SqlServer"", ""SQL调优"", ""TCP"", ""HTTP"", ""HTTPS"", ""接口安全""],
+  ""soft_skills"": [""沟通能力"", ""学习能力"", ""责任心""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉java开发语言及相关框架；熟练使用JAVA语言及各类开源框架，如Spring、SpringMVC、SpringBoot、MyBatis等；熟练使用Oracle、MySql、SqlServer等数据库，对SQL语句能够调优分析；对网络通讯(TCP\\HTTP\\HTTPS)和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0242.json
+JOB_0151,P2,R1,deepseek-v4-flash,2026-08-13T15:23:56.508025+00:00,2026-08-13T15:23:59.937954+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Python"", ""JavaScript/TypeScript"", ""MySQL"", ""Redis"", ""Spring"", ""微服务架构"", ""Git"", ""代码规范"", ""单元测试"", ""接口调试"", ""CI/CD"", ""SDD"", ""架构设计""],
+  ""soft_skills"": [""技术方案设计"", ""代码评审"", ""性能优化"", ""工程化建设"", ""推动新技术落地""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10年工作经验，具备2年以上架构经验"",
+  ""ai_tech_stack"": [""大模型"", ""AI Coding工具（claude code、codex等）"", ""AI Coding"", ""智能体开发"", ""自动化测试"", ""代码生成""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。"",
+    ""soft_skills"": ""具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0151.json
+JOB_0183,P2,R1,deepseek-v4-flash,2026-08-13T15:23:58.670668+00:00,2026-08-13T15:24:01.926384+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""数据结构与算法"", ""高并发"", ""多线程"", ""Shell脚本"", ""金融系统开发"", ""单元测试"", ""代码走查"", ""需求文档编写""],
+  ""soft_skills"": [""逻辑分析"", ""故障排查"", ""团队协作"", ""沟通表达"", ""责任心强"", ""抗压""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3年及以上银行/保险金融系统开发经验"",
+  ""ai_tech_stack"": [""金融AI模型""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""扎实 Java 基础、数据结构与算法；熟悉高并发、多线程、Shell 脚本；熟练账务 / 支付 / 托管类金融系统开发；单元测试、代码走查、需求文档编写能力。"",
+    ""soft_skills"": ""逻辑分析、故障排查能力；团队协作、沟通表达；责任心强、抗压"",
+    ""education"": ""学历要求：本科及以上，学信网可查"",
+    ""experience"": ""经验要求：3 年及以上银行 / 保险金融系统开发经验；账务、支付、托管系统开发经验优先"",
+    ""ai_tech_stack"": ""作为金融 AI 模型的业务载体，承接 AI 输出数据完成金融业务计算与流转""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0183.json
+JOB_0152,P2,R1,deepseek-v4-flash,2026-08-13T15:23:58.471986+00:00,2026-08-13T15:24:02.283769+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Python"", ""JavaScript/TypeScript"", ""微服务架构"", ""Git"", ""代码规范"", ""单元测试"", ""接口调试"", ""CI/CD"", ""SDD""],
+  ""soft_skills"": [""团队管理能力"", ""技术方案设计"", ""代码评审"", ""性能优化"", ""工程化建设"", ""信贷全流程业务逻辑"", ""风控要点"", ""推动新技术落地""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3-5年工作经验，具备2年以上架构经验"",
+  ""ai_tech_stack"": [""AI大模型"", ""AI Coding工具"", ""claude code"", ""codex"", ""AI Coding"", ""智能体开发"", ""自动化测试"", ""代码生成"", ""AI Agent"", ""RAG"", ""大模型应用开发""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发。"",
+    ""soft_skills"": ""软技能：具备团队管理能力；具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术落地；有尽职调查、授信审核业务认知、银行对公 / 供应链金融系统开发经验为加分项。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3-5 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：熟悉 AI 大模型；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践；有 AI Agent、RAG 或大模型应用开发经验为加分项""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0152.json
+JOB_0181,P2,R1,deepseek-v4-flash,2026-08-13T15:23:59.941857+00:00,2026-08-13T15:24:04.077065+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""银行全业务架构"",
+    ""银行新核心系统测试体系"",
+    ""银行系统测试全流程"",
+    ""测试总体规划"",
+    ""测试方案设计"",
+    ""项目风险识别"",
+    ""售前咨询"",
+    ""搭建银行测试知识库"",
+    ""开展内部培训""
+  ],
+  ""soft_skills"": [
+    ""统筹规划"",
+    ""团队管理"",
+    ""跨方沟通协调"",
+    ""问题拆解与解决方案输出"",
+    ""责任心强"",
+    ""抗压"",
+    ""可接受加班""
+  ],
+  ""education"": ""统招本科及以上，学信网可查"",
+  ""experience"": ""8 年以上工作经验；3 个以上银行新核心系统测试项目实施 / 咨询经验；有测试团队管理经验优先"",
+  ""ai_tech_stack"": [
+    ""AI 风控"",
+    ""智能账务"",
+    ""数字化金融平台"",
+    ""AI 金融落地场景""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通银行全业务架构、银行新核心系统测试体系；掌握银行系统测试全流程，可独立完成测试总体规划；具备测试方案设计、项目风险识别、售前咨询能力；搭建银行测试知识库、开展内部培训。"",
+    ""soft_skills"": ""优秀统筹规划、团队管理、跨方沟通协调能力；问题拆解与解决方案输出能力；责任心强，抗压、可接受加班"",
+    ""education"": ""学历要求：统招本科及以上，学信网可查"",
+    ""experience"": ""经验要求：8 年以上工作经验；3 个以上银行新核心系统测试项目实施 / 咨询经验；有测试团队管理经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：负责银行 AI 风控、智能账务、数字化金融平台整体测试体系搭建，为各类金融 AI 应用提供质量保障，无单独标注 AI 开发技术栈，业务全链路覆盖 AI 金融落地场景""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0181.json
+JOB_0043,P2,R1,deepseek-v4-flash,2026-08-13T15:24:02.288329+00:00,2026-08-13T15:24:04.328492+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""行情后台开发"", ""金融数据处理""],
+  ""soft_skills"": [],
+  ""education"": ""硕士"",
+  ""experience"": ""1-3年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：行情后台开发、金融数据处理"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：硕士"",
+    ""experience"": ""经验要求：1-3年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0043.json
+JOB_0182,P2,R1,deepseek-v4-flash,2026-08-13T15:24:01.931910+00:00,2026-08-13T15:24:04.958718+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Spring"", ""SpringBoot"", ""SpringCloud"", ""MyBatis"", ""Dubbo"", ""Redis"", ""Kafka"", ""Vue"", ""ElementUI"", ""IDEA"", ""Eclipse"", ""Git"", ""MySQL""],
+  ""soft_skills"": [""持续学习新技术"", ""快速适配项目"", ""抗压"", ""高强度工作适配"", ""独立技术风险排查与方案输出""],
+  ""education"": ""统招二本及以上，学信网可查"",
+  ""experience"": ""5 年及以上全栈开发经验；银行项目经验优先"",
+  ""ai_tech_stack"": [""金融 AI 模型"", ""智能业务流程""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""后端精通 Java、Spring/SpringBoot/SpringCloud/MyBatis、Dubbo、Redis、Kafka；前端熟练 Vue+ElementUI；熟练 IDEA/Eclipse、Git；精通 MySQL 数据库"",
+    ""soft_skills"": ""持续学习新技术、快速适配项目；抗压，高强度工作适配；独立技术风险排查与方案输出"",
+    ""education"": ""学历要求：统招二本及以上，学信网可查"",
+    ""experience"": ""经验要求：5 年及以上全栈开发经验；银行项目经验优先"",
+    ""ai_tech_stack"": ""承担银行智能信贷、AI 账务、数字化金融系统前后端研发，搭建支撑金融 AI 模型调用、智能业务流程的全栈底层系统""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0182.json
+JOB_0014,P2,R1,deepseek-v4-flash,2026-08-13T15:24:04.081596+00:00,2026-08-13T15:24:06.237413+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [],
+  ""soft_skills"": [],
+  ""education"": ""博士"",
+  ""experience"": ""经验不限"",
+  ""ai_tech_stack"": [""大模型算法""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": null,
+    ""soft_skills"": null,
+    ""education"": ""学历要求：博士"",
+    ""experience"": ""经验要求：经验不限"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：大模型算法""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0014.json
+JOB_0080,P2,R1,deepseek-v4-flash,2026-08-13T15:24:04.333844+00:00,2026-08-13T15:24:07.121380+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""技术架构设计"", ""系统规划""],
+  ""soft_skills"": [""跨团队推进"", ""团队管理""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""soft_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0080.json
+JOB_0105,P2,R1,deepseek-v4-flash,2026-08-13T15:24:04.961923+00:00,2026-08-13T15:24:07.225920+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AI应用开发""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [""大模型应用""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：AI应用开发相关能力"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：AI应用开发、大模型应用""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0105.json
+JOB_0122,P2,R1,deepseek-v4-flash,2026-08-13T15:24:06.242248+00:00,2026-08-13T15:24:10.017767+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Go"", ""Rust"", ""Linux"", ""Windows"", ""多线程/多进程编程"", ""进程间通讯"", ""消息事件通知"", ""同步/异步"", ""内存管理"", ""低延迟"", ""高并发无锁化编程"", ""TCP/UDP协议"", ""组网"", ""抓包分析""],
+  ""soft_skills"": [""敬业"", ""细心"", ""爱钻研技术"", ""团队精神"", ""善于总结"", ""能承受一定的工作压力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""精通C/C++、Go或Rust等编程语言的一种；熟练使用Linux/Windows开发、编译、调试；熟悉Linux下多线程/多进程编程模型，进程间通讯，消息事件通知，同步/异步；熟悉Linux下内存管理机制，低延迟、高并发无锁化编程；熟悉TCP/UDP协议、组网、抓包分析等网络编程"",
+    ""soft_skills"": ""工作敬业，细心，爱钻研技术，有团队精神，善于总结，能承受一定的工作压力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0122.json
+JOB_0161,P2,R1,deepseek-v4-flash,2026-08-13T15:24:07.230548+00:00,2026-08-13T15:24:10.154412+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""R"", ""Java"", ""SQL"", ""金融大数据需求分析"", ""数据挖掘"", ""金融类模型构建""],
+  ""soft_skills"": [""沟通与逻辑能力"", ""创业精神"", ""团队合作意识"", ""学习能力强"", ""快速适应新环境与新方法""],
+  ""education"": ""本科及以上，国内外双一流大学及以上学历，硕士优先"",
+  ""experience"": ""5-10年，需具备3年以上金融或大数据相关行业经验"",
+  ""ai_tech_stack"": [""大模型微调"", ""规则模型"", ""量化模型"", ""金融风控"", ""大数据相关AI应用场景""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练使用 Python、R、Java、SQL 中任意一种分析工具；具备金融大数据需求分析、数据挖掘、金融类模型构建能力"",
+    ""soft_skills"": ""良好的沟通与逻辑能力；具备创业精神与团队合作意识；学习能力强，可快速适应新环境与新方法"",
+    ""education"": ""本科及以上，国内外双一流大学及以上学历，硕士优先"",
+    ""experience"": ""5-10 年，需具备 3 年以上金融或大数据相关行业经验"",
+    ""ai_tech_stack"": ""可参与大模型微调、规则模型、量化模型等金融类模型构建；覆盖金融风控、大数据相关 AI 应用场景""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0161.json
+JOB_0099,P2,R1,deepseek-v4-flash,2026-08-13T15:24:07.126634+00:00,2026-08-13T15:24:10.216247+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""Java"", ""Go"", ""C++"", ""算法与数据结构"", ""Agent系统开发"", ""LangChain"", ""LlamaIndex"", ""AutoGen"", ""Prompt工程"", ""RAG"", ""Tool Calling"", ""上下文工程"", ""OpenAPI"", ""RPC"", ""MCP""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""5天/周，持续2个月"",
+  ""ai_tech_stack"": [""大模型"", ""多智能体（Multi-Agent）架构"", ""Prompt工程"", ""RAG（检索增强生成）"", ""Tool Calling"", ""上下文编排"", ""模型服务化与智能体调度架构"", ""LangChain"", ""LlamaIndex"", ""AutoGen""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：Python/Java/Go/C++等编程语言，扎实的算法与数据结构基础；了解Agent系统开发，熟悉LangChain/LlamaIndex/AutoGen等框架；掌握Prompt工程、RAG、Tool Calling、上下文工程等AI应用关键技术；掌握OpenAPI、RPC、MCP等协议"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5天/周，持续2个月"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：大模型/多智能体（Multi-Agent）架构，Prompt工程，RAG（检索增强生成），Tool Calling，上下文编排，模型服务化与智能体调度架构，LangChain/LlamaIndex/AutoGen""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0099.json
+JOB_0244,P2,R1,deepseek-v4-flash,2026-08-13T15:24:10.219753+00:00,2026-08-13T15:24:13.015158+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""商业智能解决方案"", ""数据仓库"", ""大数据"", ""数据治理"", ""数据分析"", ""风险管理"", ""银行行业计算机应用系统""],
+  ""soft_skills"": [""沟通协调能力"", ""商务拓展能力"", ""客户关系维护能力"", ""需求分析与解决方案提供能力""],
+  ""education"": ""大专及以上"",
+  ""experience"": ""有金融行业背景，具备相关销售/售前支持相关经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备商业智能解决方案知识，熟悉数据仓库、大数据、数据治理、数据分析、风险管理等领域知识，了解银行行业计算机应用系统"",
+    ""soft_skills"": ""软技能：良好的沟通协调能力，独立的商务拓展能力，客户关系维护能力，需求分析与解决方案提供能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：有金融行业背景，具备相关销售/售前支持相关经验优先"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0244.json
+JOB_0154,P2,R1,deepseek-v4-flash,2026-08-13T15:24:10.158743+00:00,2026-08-13T15:24:13.293833+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""高端大客户商务洽谈与招投标能力"", ""SaaS 软件、数据业务产品销售"", ""金融行业消保、风控相关业务知识""],
+  ""soft_skills"": [""诚实守信"", ""市场开拓能力"", ""抗压能力"", ""良好的职业素养""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3 年以上软件行业销售经验"",
+  ""ai_tech_stack"": [""AI"", ""NLP"", ""大数据"", ""风控"", ""企业舆情"", ""大模型应用""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备高端大客户商务洽谈与招投标能力；熟悉 SaaS 软件、数据业务产品销售；掌握金融行业消保、风控相关业务知识"",
+    ""soft_skills"": ""软技能：诚实守信，具备市场开拓能力与抗压能力；具备良好的职业素养"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3 年以上软件行业销售经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：了解 AI、NLP、大数据、风控及企业舆情在金融行业的应用场景；了解大模型应用等科技发展状况""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0154.json
+JOB_0160,P2,R1,deepseek-v4-flash,2026-08-13T15:24:10.021310+00:00,2026-08-13T15:24:13.586240+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Adobe 系列"", ""Sketch"", ""figma"", ""Axure"", ""XMind"", ""B 端大数据产品全周期管理"", ""需求分析"", ""产品规划""],
+  ""soft_skills"": [""需求理解能力"", ""自驱力"", ""责任心"", ""交付能力"", ""团队协作"", ""沟通能力""],
+  ""education"": ""统招本科及以上，硕士优先"",
+  ""experience"": ""3-5 年"",
+  ""ai_tech_stack"": [""大模型"", ""语义类 AI"", ""金融智能体"", ""产业大脑"", ""智能体""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练使用 Adobe 系列、Sketch、figma、Axure、XMind 等设计工具；具备 B 端大数据产品全周期管理、需求分析与产品规划能力"",
+    ""soft_skills"": ""较强的需求理解能力；自驱力、责任心与交付能力强；具备良好的团队协作与沟通能力"",
+    ""education"": ""统招本科及以上，硕士优先"",
+    ""experience"": ""3-5 年"",
+    ""ai_tech_stack"": ""熟悉大模型应用相关技术；覆盖语义类 AI、金融智能体、产业大脑等 AI 应用场景；对智能体、大模型、金融领域有浓厚兴趣""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0160.json
+JOB_0245,P2,R1,deepseek-v4-flash,2026-08-13T15:24:13.018064+00:00,2026-08-13T15:24:15.809341+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""了解银行业及计算机应用系统"", ""银行软件产品销售能力"", ""提供高附加值服务解决方案""],
+  ""soft_skills"": [""人际沟通能力"", ""独立的商务拓展能力"", ""快速学习能力"", ""产品展示与表达能力"", ""客户关系维护与人脉拓展能力""],
+  ""education"": ""大专及以上"",
+  ""experience"": ""具备银行软件产品销售工作经验，有系统销售、模型或咨询项目销售经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：了解银行业及计算机应用系统，具备银行软件产品销售能力，能提供高附加值服务解决方案"",
+    ""soft_skills"": ""软技能：良好的人际沟通能力，独立的商务拓展能力，快速学习能力，产品展示与表达能力，客户关系维护与人脉拓展能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：具备银行软件产品销售工作经验，有系统销售、模型或咨询项目销售经验优先"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0245.json
+JOB_0199,P2,R1,deepseek-v4-flash,2026-08-13T15:24:13.590834+00:00,2026-08-13T15:24:16.233034+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""SQL"", ""ORACLE数据库""],
+  ""soft_skills"": [],
+  ""education"": ""全日制本科及以上学历，2027届计算机应用、金融、财务相关专业毕业生"",
+  ""experience"": ""了解软件测试理论和方法，以及软件测试流程"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握SQL语句，有ORACLE数据库经验者更优"",
+    ""soft_skills"": null,
+    ""education"": ""全日制本科及以上学历，2027届计算机应用、金融、财务相关专业毕业生"",
+    ""experience"": ""了解软件测试理论和方法，以及软件测试流程"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0199.json
+JOB_0197,P2,R1,deepseek-v4-flash,2026-08-13T15:24:13.297467+00:00,2026-08-13T15:24:16.828207+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AXURE"", ""需求调研"", ""需求分析"", ""需求设计"", ""原型绘制"", ""指标验证"", ""模型验证""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""业务理解能力"", ""学习能力"", ""文档撰写能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证；负责公司资金清算或信息披露或估值核算等相关产品用户需求调研、分析整理及跟踪；撰写用户需求说明书与需求设计等相关文档"",
+    ""soft_skills"": ""有较强的逻辑思维能力，分析能力，了解金融及经济学理论知识，热爱金融行业；具备较强的业务理解和学习能力，能快速学习新业务，文档撰写能力较好；工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力。"",
+    ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+    ""experience"": null,
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0197.json
+JOB_0195,P2,R1,deepseek-v4-flash,2026-08-13T15:24:15.813303+00:00,2026-08-13T15:24:18.883017+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AXURE"", ""原型绘制"", ""系统验证""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""学习能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证"",
+    ""soft_skills"": ""有较强的逻辑思维能力，分析能力；具备较强的业务理解和学习能力；工作抗压能力强；责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力"",
+    ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+    ""experience"": null,
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0195.json
+JOB_0178,P2,R1,deepseek-v4-flash,2026-08-13T15:24:16.237806+00:00,2026-08-13T15:24:19.473371+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Android APP 研发"", ""代码架构设计"", ""性能调优"", ""bug 修复"", ""跟踪新技术"", ""解决技术难点"", ""产品分析"", ""优化方案设计""],
+  ""soft_skills"": [""独立开发与问题解决能力"", ""主动解决问题的意识"", ""团队协作能力"", ""产品思维"", ""创新意识""],
+  ""education"": ""全日制统招本科及以上学历"",
+  ""experience"": ""3年以上软件开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""具备 Android APP 研发、代码架构设计、性能调优与 bug 修复能力；具备跟踪新技术、解决技术难点的能力；具备产品分析与优化方案设计能力。"",
+    ""soft_skills"": ""具备独立开发与问题解决能力；具备主动解决问题的意识；具备良好的团队协作能力；具备产品思维与创新意识"",
+    ""education"": ""学历要求：全日制统招本科及以上学历"",
+    ""experience"": ""经验要求：3 年以上软件开发经验"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0178.json
+JOB_0180,P2,R1,deepseek-v4-flash,2026-08-13T15:24:16.832726+00:00,2026-08-13T15:24:21.162721+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""互联网金融功能设计"", ""用户体验设计"", ""业务流程设计"", ""撰写需求文档"", ""撰写咨询报告"", ""软件系统测试"", ""Word"", ""Axure""],
+  ""soft_skills"": [""沟通能力"", ""团队合作意识"", ""分析与写作能力"", ""项目推进能力"", ""跨部门协同能力"", ""洞察力"", ""创新意识""],
+  ""education"": ""全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业"",
+  ""experience"": ""一年以上相关工作经验，有互联网、金融行业经验更佳"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""具备互联网金融功能、用户体验、业务流程设计能力；能撰写需求文档、咨询报告；具备软件系统简单测试能力；熟练使用 Word、Axure 软件。"",
+    ""soft_skills"": ""具备敏锐的互联网、金融产品、软件信息技术洞察力与创新意识；具备较强的沟通能力与团队合作意识；具备良好的分析与写作能力；具备项目推进与跨部门协同能力"",
+    ""education"": ""学历要求：全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业"",
+    ""experience"": ""经验要求：一年以上相关工作经验，有互联网、金融行业经验更佳"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0180.json
+JOB_0176,P2,R1,deepseek-v4-flash,2026-08-13T15:24:18.887758+00:00,2026-08-13T15:24:22.162390+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JavaScript"", ""C"", ""J2EE"", ""Tomcat"", ""JBOSS"", ""Weblogic"", ""Web Sphere"", ""编码"", ""单元测试""],
+  ""soft_skills"": [""团队协作意识"", ""执行与跟进能力""],
+  ""education"": ""统招211知名高校本科及以上学历，计算机软件相关专业"",
+  ""experience"": ""一年以上大、中型JAVA项目开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 Java、JavaScript、C 等语言及 J2EE 架构；熟悉 Tomcat、JBOSS、Weblogic、Web Sphere 主流应用服务器至少一种；能根据设计文档高效完成编码、单元测试。"",
+    ""soft_skills"": ""具备团队协作意识；具备较强的执行与跟进能力"",
+    ""education"": ""学历要求：统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+    ""experience"": ""经验要求：一年以上大、中型 JAVA 项目开发经验"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0176.json
+JOB_0205,P2,R1,deepseek-v4-flash,2026-08-13T15:24:19.478167+00:00,2026-08-13T15:24:23.339568+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""JAVA/J2EE"", ""SpringMVC"", ""SpringBoot"", ""VUE"", ""MySQL"", ""Oracle"", ""SQL"", ""git"", ""Linux"", ""redis"", ""SSM"", ""微服务"", ""DB2""],
+  ""soft_skills"": [""逻辑思维能力"", ""问题解决能力"", ""沟通能力"", ""吃苦耐劳"", ""承压能力""],
+  ""education"": ""全日制本科及以上学历，计算机或相关专业"",
+  ""experience"": ""3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：JAVA/J2EE开发能力，SpringMVC、SpringBoot等JAVA框架使用能力，VUE等前端框架使用能力，MySQL/Oracle等数据库操作能力，SQL语言编写能力，git、Linux常用命令使用能力，redis缓存技术、SSM框架、微服务框架、DB2数据库掌握能力"",
+    ""soft_skills"": ""软技能：逻辑思维能力，问题解决能力，沟通能力，吃苦耐劳，承压能力"",
+    ""education"": ""学历要求：全日制本科及以上学历，计算机或相关专业"",
+    ""experience"": ""经验要求：3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0205.json
+JOB_0212,P2,R1,deepseek-v4-flash,2026-08-13T15:24:21.167162+00:00,2026-08-13T15:24:25.171806+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""银行私域用户增长运营能力"", ""营销运营体系搭建能力"", ""线上营销工具使用能力"", ""营销活动策划与执行能力"", ""运营效果监测与分析能力"", ""业务指标体系建立能力"", ""数据分析与精细化运营能力""],
+  ""soft_skills"": [""用户洞察能力"", ""增长思维"", ""策划与方案统筹能力"", ""执行力"", ""沟通能力"", ""抗压能力"", ""结果导向""],
+  ""education"": ""本科及以上学历，市场营销、媒体传播等相关专业毕业优先"",
+  ""experience"": ""2年以上金融行业营销运营经验，有金融产品运营及用户增长运营相关工作经验者优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：银行私域用户增长运营能力，营销运营体系搭建能力，线上营销工具使用能力，营销活动策划与执行能力，运营效果监测与分析能力，业务指标体系建立能力，数据分析与精细化运营能力"",
+    ""soft_skills"": ""软技能：用户洞察能力，增长思维，策划与方案统筹能力，执行力，沟通能力，抗压能力，结果导向"",
+    ""education"": ""学历要求：本科及以上学历，市场营销、媒体传播等相关专业毕业优先"",
+    ""experience"": ""经验要求：2年以上金融行业营销运营经验，有金融产品运营及用户增长运营相关工作经验者优先"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0212.json
+JOB_0209,P2,R1,deepseek-v4-flash,2026-08-13T15:24:22.167099+00:00,2026-08-13T15:24:26.197160+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""新产品方向策划与确定能力"",
+    ""信贷类软件产品研发组织与管理能力"",
+    ""解决方案管理与市场推广能力"",
+    ""售前项目管理能力"",
+    ""团队培养与培训能力"",
+    ""信贷业务需求设计能力""
+  ],
+  ""soft_skills"": [
+    ""归纳提炼总结能力"",
+    ""沟通能力"",
+    ""方案与需求编制能力"",
+    ""市场趋势洞察能力""
+  ],
+  ""education"": ""国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+  ""experience"": ""6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+  ""ai_tech_stack"": [
+    ""AI+MCN""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：新产品方向策划与确定能力，信贷类软件产品研发组织与管理能力，解决方案管理与市场推广能力，售前项目管理能力，团队培养与培训能力，信贷业务需求设计能力"",
+    ""soft_skills"": ""软技能：归纳提炼总结能力，沟通能力，方案与需求编制能力，市场趋势洞察能力"",
+    ""education"": ""学历要求：国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+    ""experience"": ""经验要求：6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0209.json
+JOB_0171,P2,R1,deepseek-v4-flash,2026-08-13T15:24:23.344408+00:00,2026-08-13T15:24:26.770906+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""JavaScript"", ""ES5/ES6"", ""Vue"", ""Angular"", ""React"", ""Echarts"", ""前端工程化"", ""Git"", ""组件化开发""],
+  ""soft_skills"": [""规范开发习惯"", ""需求理解顺畅"", ""团队协作意识强""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5 年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""精通 JavaScript、ES5/ES6；熟练 Vue、Angular、React、Echarts；掌握前端工程化、Git、组件化开发"",
+    ""soft_skills"": ""规范开发习惯；需求理解顺畅；团队协作意识强"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0171.json
+JOB_0173,P2,R1,deepseek-v4-flash,2026-08-13T15:24:25.175916+00:00,2026-08-13T15:24:28.990429+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""DCMM数据治理成熟度评估体系"", ""数据标准"", ""数据字典"", ""元数据"", ""数据质量"", ""指标体系"", ""数据资产全流程治理"", ""数据血缘梳理"", ""数据资产目录搭建"", ""业务建模"", ""指标梳理"", ""数仓"", ""数据中台""],
+  ""soft_skills"": [""客户调研访谈"", ""方案编写"", ""项目落地推进"", ""多方团队沟通协调"", ""闭环项目管理""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10年；5年以上数据治理咨询/实施全流程操盘经验；拥有能源集团客户落地案例优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：掌握 DCMM 数据治理成熟度评估体系；精通数据标准、数据字典、元数据、数据质量、指标体系、数据资产全流程治理；熟悉数据血缘梳理、数据资产目录搭建；具备业务建模、指标梳理能力；能对接数仓、数据中台"",
+    ""soft_skills"": ""客户调研访谈、方案编写、项目落地推进、多方团队沟通协调、闭环项目管理"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年；5 年以上数据治理咨询 / 实施全流程操盘经验；拥有能源集团客户落地案例优先"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0173.json
+JOB_0175,P2,R1,deepseek-v4-flash,2026-08-13T15:24:26.200336+00:00,2026-08-13T15:24:29.747370+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""财务管理"", ""会计核算"", ""电力行业财务软件实施"", ""项目需求调研"", ""需求分析"", ""文档编写"", ""项目管理"", ""电力行业数据治理"", ""数据服务""],
+  ""soft_skills"": [""客户沟通"", ""项目管控"", ""需求梳理"", ""驻场项目交付能力""],
+  ""education"": ""本科，财务/会计类相关专业优先"",
+  ""experience"": ""3-5年，社保累计3年以上；具备电力行业经验、财务系统实施经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉财务管理、会计核算业务流程；电力行业财务软件实施、项目需求调研、需求分析、文档编写；掌握项目管理方法；了解电力行业数据治理、数据服务工作"",
+    ""soft_skills"": ""客户沟通、项目管控、需求梳理、驻场项目交付能力"",
+    ""education"": ""学历要求：本科，财务/会计类相关专业优先"",
+    ""experience"": ""经验要求：3-5年，社保累计3年以上；具备电力行业经验、财务系统实施经验优先"",
+    ""ai_tech_stack"": ""岗位JD无直接写明AI技术栈；负责电力行业财资数字化与数据治理，为企业财务智能分析、智能报表、业财AI风控提供数据基础，属于产业金融数字化AI应用支撑岗位""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0175.json
+JOB_0129,P2,R1,deepseek-v4-flash,2026-08-13T15:24:26.775335+00:00,2026-08-13T15:24:30.937766+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JVM"", ""IO"", ""多线程"", ""并发"", ""集合"", ""分布式"", ""缓存"", ""消息"", ""Spring"", ""Spring Cloud"", ""Hibernate"", ""Netty"", ""Dubbo"", ""Tomcat"", ""Nginx"", ""Zookeeper"", ""MySQL"", ""Redis"", ""SQL索引优化"", ""查询优化"", ""存储过程优化"", ""TCP/IP"", ""HTTP"", ""RESTful"", ""API开发"", ""Maven"", ""Jenkins"", ""JUnit"", ""Html"", ""Javascript"", ""Css"", ""Angularjs""],
+  ""soft_skills"": [""良好的开发习惯""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：3年以上Java开发工作经验，精通Java开发，了解JVM原理；熟悉IO、多线程和并发、集合等基础框架，熟悉分布式、缓存、消息等机制；熟悉Spring、Spring Cloud、Hibernate、Netty/Dubbo等Java开源框架，熟悉Tomcat、Nginx、Zookeeper等开源工具；熟悉MySQL、Redis常用DB/Cache数据库，熟悉SQL索引优化、查询优化和存储过程优化；熟悉TCP/IP协议，熟悉HTTP协议和RESTful规范，有API开发经验；有良好的开发习惯，熟悉Maven、Jenkins、JUnit；熟悉Html、Javascript、Css等前端开发技术，有Angularjs等前端框架开发经验优先"",
+    ""soft_skills"": ""有良好的开发习惯"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0129.json
+JOB_0140,P2,R1,deepseek-v4-flash,2026-08-13T15:24:29.750971+00:00,2026-08-13T15:24:32.860310+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Linux/Unix/Windows操作和开发环境"", ""TCP/IP协议"", ""C++开发"", ""网络编程"", ""SQL Server"", ""DB2"", ""Oracle"", ""SQL语言""],
+  ""soft_skills"": [""热爱编程"", ""有创造力"", ""良好的交流沟通能力"", ""能适应短期出差""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": ""2026届毕业生"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉Linux/Unix/Windows操作和开发环境，熟悉TCP/IP协议相关知识，有C++开发和网络编程经验优先；熟悉SQL Server、DB2、Oracle数据库中至少一种，熟练掌握数据库SQL语言"",
+    ""soft_skills"": ""热爱编程，有创造力，具备良好的交流沟通能力，能适应短期出差"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""2026届毕业生"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0140.json
+JOB_0135,P2,R1,deepseek-v4-flash,2026-08-13T15:24:28.994892+00:00,2026-08-13T15:24:32.945280+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JVM"", ""IO"", ""多线程"", ""并发"", ""集合"", ""分布式"", ""缓存"", ""消息"", ""Spring"", ""Spring Cloud"", ""Hibernate"", ""Netty"", ""Dubbo"", ""Tomcat"", ""Nginx"", ""Zookeeper"", ""MySQL"", ""Redis"", ""SQL索引优化"", ""查询优化"", ""存储过程优化"", ""TCP/IP"", ""HTTP"", ""RESTful"", ""API开发"", ""Html"", ""JavaScript"", ""Css"", ""jQuery"", ""struts""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：参与项目的功能模块编码、开发、测试；协助解决项目开发过程中的技术难题和编写日常开发文档和流程图；计算机科学或相关专业本科及以上学历；3年以上java开发工作经验，精通java开发，了解JVM原理；熟练使用IO、多线程和并发、集合功能，熟悉分布式、缓存、消息等机制；熟悉Spring、Spring Cloud、Hibernate、Netty/Dubbo开源框架，熟悉Tomcat、Nginx、Zookeeper等开源工具；熟悉MySQL、Redis常用DB/Cache数据库，熟悉SQL索引优化、查询优化和存储过程优化；熟悉TCP/IP协议，熟悉HTTP协议和RESTful规范，有API开发经验；熟悉Html、JavaScript、Css、jQuery等前端开发技术，有struts等前端框架开发经验优先"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0135.json
+JOB_0005,P2,R1,deepseek-v4-flash,2026-08-13T15:24:30.941882+00:00,2026-08-13T15:24:34.526950+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""多线程"", ""Spring"", ""Springboot"", ""Dubbo"", ""Redis"", ""Zookeeper"", ""MQ"", ""Spring Cloud"", ""微服务"", ""架构设计"", ""分布式系统""],
+  ""soft_skills"": [""沟通能力"", ""协调能力"", ""团队精神"", ""求知欲"", ""创造力"", ""责任感"", ""抗压能力""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：Java、多线程、Spring、Springboot、Dubbo、Redis、Zookeeper、MQ、Spring Cloud、微服务、架构设计、分布式系统"",
+    ""soft_skills"": ""软技能：沟通能力、协调能力、团队精神、求知欲、创造力、责任感、抗压能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0005.json
+JOB_0003,P2,R1,deepseek-v4-flash,2026-08-13T15:24:32.948218+00:00,2026-08-13T15:24:35.856524+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Linux"", ""gdb调试"", ""多线程/进程编程"", ""内存管理"", ""数据库（事务特性、索引）"", ""Linux服务端开发"", ""系统性能调优""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、Linux、gdb调试、多线程/进程编程、内存管理、数据库（事务特性、索引）、Linux服务端开发、系统性能调优"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0003.json
+JOB_0009,P2,R1,deepseek-v4-flash,2026-08-13T15:24:32.862398+00:00,2026-08-13T15:24:36.012003+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""C"", ""Linux"", ""全内存证券交易系统"", ""多线程/进程编程"", ""内存管理"", ""数据库""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、C、Linux、全内存证券交易系统、多线程/进程编程、内存管理、数据库"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0009.json
+JOB_0188,P2,R1,deepseek-v4-flash,2026-08-13T15:24:34.530599+00:00,2026-08-13T15:24:38.681648+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""SQL"", ""PLSQL"", ""数据库查询与优化"", ""Python"", ""R"", ""数据分析"", ""数据挖掘""],
+  ""soft_skills"": [""逻辑思维能力"", ""沟通表达能力"", ""自驱力"", ""业务洞察"", ""问题解决能力""],
+  ""education"": ""本科及以上学历，信息技术类、数学、统计学、计量经济学类专业"",
+  ""experience"": ""3年以上数据分析相关工作经验"",
+  ""ai_tech_stack"": [""AI智能风控"", ""精准营销"", ""智能理赔""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 SQL、PLSQL 编程，具备数据库查询与优化能力；熟悉 Python/R 等数据分析编程语言优先；具备数据分析、数据挖掘能力。"",
+    ""soft_skills"": ""强逻辑思维能力、数据分析能力；优秀的沟通表达能力与自驱力；具备业务洞察与问题解决能力"",
+    ""education"": ""学历要求：本科及以上学历，信息技术类、数学、统计学、计量经济学类专业"",
+    ""experience"": ""经验要求：3 年以上数据分析相关工作经验"",
+    ""ai_tech_stack"": ""为 AI 智能风控、精准营销、智能理赔等 AI 金融场景提供数据洞察与模型输入""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0188.json
+JOB_0186,P2,R1,deepseek-v4-flash,2026-08-13T15:24:36.017122+00:00,2026-08-13T15:24:38.924096+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""numpy"", ""pandas"", ""Oracle/MySQL"", ""JS"", ""前端框架""],
+  ""soft_skills"": [""逻辑思维能力"", ""沟通表达能力"", ""对技术挑战有高热情"", ""团队协作意识""],
+  ""education"": ""本科及以上学历，计算机相关专业"",
+  ""experience"": ""2年以上相关工作经验"",
+  ""ai_tech_stack"": [""AI金融数据分析"", ""量化建模"", ""智能风控模型"", ""AI模型训练""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""精通 Python 语言，熟练掌握 numpy、pandas 等科学运算库；掌握 Oracle/MySQL 等数据库技术；具备 JS、前端框架知识优先。"",
+    ""soft_skills"": ""优秀的逻辑思维能力、沟通表达能力；对技术挑战有高热情；具备良好的团队协作意识"",
+    ""education"": ""学历要求：本科及以上学历，计算机相关专业"",
+    ""experience"": ""经验要求：2 年以上相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：直接对接 AI 金融数据分析、量化建模、智能风控模型开发，是 AI 金融科技核心研发岗位，可支撑金融大数据分析、AI 模型训练与落地""
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0186.json
+JOB_0192,P2,R1,deepseek-v4-flash,2026-08-13T15:24:35.859841+00:00,2026-08-13T15:24:39.083982+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Figma"", ""Sketch"", ""PS"", ""AI"", ""视觉设计"", ""排版"", ""色彩"", ""交互逻辑"", ""PC端界面设计"", ""移动端界面设计""],
+  ""soft_skills"": [""沟通顺畅"", ""责任心强"", ""用户体验思维"", ""细节把控能力"", ""配合项目进度""],
+  ""education"": ""本科及以上学历，设计类相关专业优先"",
+  ""experience"": ""3年以上相关设计经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练使用 Figma/Sketch/PS/AI 等设计软件；具备扎实的视觉、排版、色彩基础，懂交互逻辑优先；能独立完成 PC 端、移动端整套界面设计。"",
+    ""soft_skills"": ""沟通顺畅、责任心强；具备用户体验思维与细节把控能力；能配合项目进度完成设计交付"",
+    ""education"": ""学历要求：本科及以上学历，设计类相关专业优先"",
+    ""experience"": ""经验要求：未明确限定，参考同体系岗位要求：3 年以上相关设计经验"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0192.json
+JOB_0145,P2,R1,deepseek-v4-flash,2026-08-13T15:24:38.928939+00:00,2026-08-13T15:24:41.555304+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""自动化测试"", ""功能测试"", ""性能测试"", ""Python""],
+  ""soft_skills"": [],
+  ""education"": ""本科（学信网可查）"",
+  ""experience"": ""2年以上测试经验，岗位要求3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""掌握自动化测试、功能测试、性能测试相关技能；具备 Python 相关技术能力"",
+    ""soft_skills"": null,
+    ""education"": ""本科（学信网可查）"",
+    ""experience"": ""2 年以上测试经验，岗位要求 3-5 年"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0145.json
+JOB_0144,P2,R1,deepseek-v4-flash,2026-08-13T15:24:39.088232+00:00,2026-08-13T15:24:41.844872+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""政策解读"", ""行业数据调研分析"", ""收并购项目实操"", ""标的选取与评估"", ""财务建模"", ""估值分析""],
+  ""soft_skills"": [""适应高频出差"", ""承受较大工作压力""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3-5年相关工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力；具备收并购项目实操经验，熟悉标的选取与评估流程；财务建模与估值分析能力优先"",
+    ""soft_skills"": ""可适应高频出差，能承受较大工作压力"",
+    ""education"": ""本科及以上（能力突出可放宽）"",
+    ""experience"": ""3-5 年相关工作经验"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0144.json
+JOB_0147,P2,R1,deepseek-v4-flash,2026-08-13T15:24:38.686318+00:00,2026-08-13T15:24:42.031622+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""接口自动化测试"", ""Oracle"", ""MySQL"", ""SQL"", ""存储过程"", ""函数"", ""Python"", ""Java""],
+  ""soft_skills"": [""工作认真细致"", ""沟通理解能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年相关工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""掌握接口自动化测试用例编写、调试与维护；熟悉 Oracle、MySQL 等数据库，可编写 SQL 语句、存储过程与函数；至少掌握 Python/Java 一种编程语言"",
+    ""soft_skills"": ""工作认真细致，具备较强的沟通理解能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年相关工作经验"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R1/JOB_0147.json
+JOB_0238,P3,R1,deepseek-v4-flash,2026-08-13T15:24:41.559742+00:00,2026-08-13T15:24:44.865335+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""渠道适配平台的规划与设计"", ""渠道对接功能"", ""业务流程"", ""后台管理内容"", ""产品需求文档（PRD）"", ""产品交互功能框架""],
+  ""soft_skills"": [""深入理解保险业务"", ""渠道对接类业务"", ""创新产品设计方案""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""产品规划与设计相关经验，深入理解保险业务（金融相关）"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：负责渠道适配平台的规划与设计，包含渠道对接功能、业务流程、后台管理内容等；接收业务部门第三方渠道对接类需求，分析渠道对接链路功能点，形成清晰的产品需求文档（PRD）；协助开发、测试团队理解和掌握产品需求，解释研发中的业务问题；抽象产品交互功能框架，持续进行产品功能改进。"",
+    ""soft_skills"": ""软技能：深入理解保险业务、渠道对接类业务，结合行业发展趋势提出创新产品设计方案。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：产品规划与设计相关经验，深入理解保险业务（金融相关）。"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0238.json
+JOB_0243,P3,R1,deepseek-v4-flash,2026-08-13T15:24:41.849025+00:00,2026-08-13T15:24:45.269806+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""系统设计"", ""编码开发"", ""JAVA"", ""Spring"", ""SpringMVC"", ""SpringBoot"", ""MyBatis"", ""Oracle"", ""MySql"", ""SqlServer"", ""SQL语句调优分析"", ""网络通讯(TCP\\HTTP\\HTTPS)"", ""接口安全技术""],
+  ""soft_skills"": [""沟通能力"", ""学习能力"", ""责任心""],
+  ""education"": ""计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+  ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备系统设计、编码开发能力，熟悉java开发语言及相关框架；熟练使用JAVA语言及各类开源框架，如Spring、SpringMVC、SpringBoot、MyBatis等；熟练使用Oracle、MySql、SqlServer等数据库，对SQL语句能够调优分析；对网络通讯(TCP\\HTTP\\HTTPS)和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": ""经验要求：27届提前批实习生，无明确工作经验要求，有相关开发经验优先。"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0243.json
+JOB_0242,P3,R1,deepseek-v4-flash,2026-08-13T15:24:42.036346+00:00,2026-08-13T15:24:45.705898+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""系统设计"", ""编码开发"", ""java开发语言"", ""Spring"", ""SpringMVC"", ""SpringBoot"", ""MyBatis"", ""Oracle"", ""MySql"", ""SqlServer"", ""SQL语句调优分析"", ""网络通讯(TCP\\HTTP\\HTTPS)"", ""接口安全技术""],
+  ""soft_skills"": [""沟通能力"", ""学习能力"", ""责任心""],
+  ""education"": ""计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+  ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备系统设计、编码开发能力，熟悉java开发语言及相关框架；熟练使用JAVA语言及各类开源框架，如Spring、SpringMVC、SpringBoot、MyBatis等；熟练使用Oracle、MySql、SqlServer等数据库，对SQL语句能够调优分析；对网络通讯(TCP\\HTTP\\HTTPS)和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": ""经验要求：27届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会。"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0242.json
+JOB_0151,P3,R1,deepseek-v4-flash,2026-08-13T15:24:44.868705+00:00,2026-08-13T15:24:48.919693+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Python"", ""JavaScript/TypeScript"", ""MySQL"", ""Redis"", ""Spring"", ""微服务架构"", ""Git"", ""代码规范"", ""单元测试"", ""接口调试"", ""CI/CD 开发流程"", ""SDD 开发"", ""架构设计""],
+  ""soft_skills"": [""技术方案设计"", ""代码评审"", ""性能优化"", ""工程化建设"", ""推动新技术落地""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10 年工作经验，具备 2 年以上架构经验"",
+  ""ai_tech_stack"": [""大模型"", ""AI Coding 工具"", ""claude code"", ""codex"", ""AI Coding"", ""智能体开发"", ""自动化测试"", ""代码生成""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。"",
+    ""soft_skills"": ""软技能：具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0151.json
+JOB_0152,P3,R1,deepseek-v4-flash,2026-08-13T15:24:45.274337+00:00,2026-08-13T15:24:49.108346+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Python"", ""JavaScript/TypeScript"", ""微服务架构"", ""Git"", ""代码规范"", ""单元测试"", ""接口调试"", ""CI/CD 开发流程"", ""SDD 开发""],
+  ""soft_skills"": [""团队管理能力"", ""技术方案设计"", ""代码评审"", ""性能优化"", ""工程化建设能力"", ""信贷全流程业务逻辑"", ""风控要点"", ""推动新技术落地"", ""尽职调查"", ""授信审核业务认知"", ""银行对公/供应链金融系统开发经验""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3-5 年工作经验，具备 2 年以上架构经验"",
+  ""ai_tech_stack"": [""AI 大模型"", ""AI Coding 工具"", ""claude code"", ""codex"", ""AI Coding"", ""智能体开发"", ""自动化测试"", ""代码生成"", ""AI Agent"", ""RAG"", ""大模型应用开发""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发。"",
+    ""soft_skills"": ""软技能：具备团队管理能力；具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术落地；有尽职调查、授信审核业务认知、银行对公 / 供应链金融系统开发经验为加分项。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3-5 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：熟悉 AI 大模型；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践；有 AI Agent、RAG 或大模型应用开发经验为加分项""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0152.json
+JOB_0183,P3,R1,deepseek-v4-flash,2026-08-13T15:24:45.710112+00:00,2026-08-13T15:24:49.528441+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""数据结构与算法"", ""高并发"", ""多线程"", ""Shell脚本"", ""金融系统开发"", ""单元测试"", ""代码走查"", ""需求文档编写""],
+  ""soft_skills"": [""逻辑分析"", ""故障排查"", ""团队协作"", ""沟通表达"", ""责任心强"", ""抗压""],
+  ""education"": ""本科及以上，学信网可查"",
+  ""experience"": ""3年及以上银行/保险金融系统开发经验；账务、支付、托管系统开发经验优先"",
+  ""ai_tech_stack"": [""智能支付"", ""智能风控"", ""自动化账务系统"", ""金融AI模型""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：扎实 Java 基础、数据结构与算法；熟悉高并发、多线程、Shell 脚本；熟练账务 / 支付 / 托管类金融系统开发；单元测试、代码走查、需求文档编写能力。"",
+    ""soft_skills"": ""逻辑分析、故障排查能力；团队协作、沟通表达；责任心强、抗压"",
+    ""education"": ""学历要求：本科及以上，学信网可查"",
+    ""experience"": ""经验要求：3 年及以上银行 / 保险金融系统开发经验；账务、支付、托管系统开发经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：开发银行智能支付、智能风控后台、自动化账务系统，作为金融 AI 模型的业务载体，承接 AI 输出数据完成金融业务计算与流转""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0183.json
+JOB_0043,P3,R1,deepseek-v4-flash,2026-08-13T15:24:49.532031+00:00,2026-08-13T15:24:51.898376+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""行情后台开发"", ""金融数据处理""],
+  ""soft_skills"": [],
+  ""education"": ""硕士"",
+  ""experience"": ""1-3年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：行情后台开发、金融数据处理"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：硕士"",
+    ""experience"": ""经验要求：1-3年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0043.json
+JOB_0182,P3,R1,deepseek-v4-flash,2026-08-13T15:24:49.112421+00:00,2026-08-13T15:24:53.229747+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Spring"", ""SpringBoot"", ""SpringCloud"", ""MyBatis"", ""Dubbo"", ""Redis"", ""Kafka"", ""Vue"", ""ElementUI"", ""IDEA"", ""Eclipse"", ""Git"", ""MySQL""],
+  ""soft_skills"": [""持续学习新技术"", ""快速适配项目"", ""抗压"", ""高强度工作适配"", ""独立技术风险排查与方案输出""],
+  ""education"": ""统招二本及以上，学信网可查"",
+  ""experience"": ""5 年及以上全栈开发经验；银行项目经验优先"",
+  ""ai_tech_stack"": [""金融 AI 模型调用"", ""智能业务流程""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：后端精通 Java、Spring/SpringBoot/SpringCloud/MyBatis、Dubbo、Redis、Kafka；前端熟练 Vue+ElementUI；熟练 IDEA/Eclipse、Git；精通 MySQL 数据库"",
+    ""soft_skills"": ""持续学习新技术、快速适配项目；抗压，高强度工作适配；独立技术风险排查与方案输出"",
+    ""education"": ""学历要求：统招二本及以上，学信网可查"",
+    ""experience"": ""经验要求：5 年及以上全栈开发经验；银行项目经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：承担银行智能信贷、AI 账务、数字化金融系统前后端研发，搭建支撑金融 AI 模型调用、智能业务流程的全栈底层系统""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0182.json
+JOB_0181,P3,R1,deepseek-v4-flash,2026-08-13T15:24:48.922629+00:00,2026-08-13T15:24:53.431184+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""银行全业务架构"", ""银行新核心系统测试体系"", ""银行系统测试全流程"", ""测试总体规划"", ""测试方案设计"", ""项目风险识别"", ""售前咨询"", ""银行测试知识库"", ""内部培训""],
+  ""soft_skills"": [""统筹规划"", ""团队管理"", ""跨方沟通协调"", ""问题拆解"", ""解决方案输出"", ""责任心强"", ""抗压"", ""可接受加班""],
+  ""education"": ""统招本科及以上，学信网可查"",
+  ""experience"": ""8年以上工作经验；3个以上银行新核心系统测试项目实施/咨询经验；有测试团队管理经验优先"",
+  ""ai_tech_stack"": [""AI风控"", ""智能账务"", ""数字化金融平台"", ""金融AI应用"", ""AI金融落地场景""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通银行全业务架构、银行新核心系统测试体系；掌握银行系统测试全流程，可独立完成测试总体规划；具备测试方案设计、项目风险识别、售前咨询能力；搭建银行测试知识库、开展内部培训。"",
+    ""soft_skills"": ""优秀统筹规划、团队管理、跨方沟通协调能力；问题拆解与解决方案输出能力；责任心强，抗压、可接受加班"",
+    ""education"": ""学历要求：统招本科及以上，学信网可查"",
+    ""experience"": ""经验要求：8 年以上工作经验；3 个以上银行新核心系统测试项目实施 / 咨询经验；有测试团队管理经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：负责银行 AI 风控、智能账务、数字化金融平台整体测试体系搭建，为各类金融 AI 应用提供质量保障，无单独标注 AI 开发技术栈，业务全链路覆盖 AI 金融落地场景""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0181.json
+JOB_0014,P3,R1,deepseek-v4-flash,2026-08-13T15:24:51.902601+00:00,2026-08-13T15:24:54.541163+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""大模型算法研发""],
+  ""soft_skills"": [],
+  ""education"": ""博士"",
+  ""experience"": ""经验不限"",
+  ""ai_tech_stack"": [""大模型算法""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：大模型算法研发"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：博士"",
+    ""experience"": ""经验要求：经验不限"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：大模型算法""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0014.json
+JOB_0105,P3,R1,deepseek-v4-flash,2026-08-13T15:24:53.435809+00:00,2026-08-13T15:24:55.669323+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AI应用开发"", ""大模型应用""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [""AI应用开发"", ""大模型应用""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：AI应用开发相关能力"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：AI应用开发、大模型应用""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0105.json
+JOB_0080,P3,R1,deepseek-v4-flash,2026-08-13T15:24:53.232745+00:00,2026-08-13T15:24:55.751161+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""技术架构设计"", ""系统规划""],
+  ""soft_skills"": [""跨团队推进"", ""团队管理""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""soft_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：AI技术管理""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0080.json
+JOB_0122,P3,R1,deepseek-v4-flash,2026-08-13T15:24:54.544164+00:00,2026-08-13T15:24:58.314020+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Go"", ""Rust"", ""Linux"", ""Windows"", ""TCP/UDP"", ""多线程/多进程编程"", ""内存管理"", ""无锁化编程"", ""网络编程""],
+  ""soft_skills"": [""工作敬业"", ""细心"", ""爱钻研技术"", ""团队精神"", ""善于总结"", ""能承受一定的工作压力""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""三年以上C++工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""精通C/C++、Go或Rust等编程语言的一种；熟练使用Linux/Windows开发、编译、调试；熟悉Linux下多线程/多进程编程模型，进程间通讯，消息事件通知，同步/异步；熟悉Linux下内存管理机制，低延迟、高并发无锁化编程；熟悉TCP/UDP协议、组网、抓包分析等网络编程"",
+    ""soft_skills"": ""工作敬业，细心，爱钻研技术，有团队精神，善于总结，能承受一定的工作压力"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""具有三年以上C++工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0122.json
+JOB_0099,P3,R1,deepseek-v4-flash,2026-08-13T15:24:55.672439+00:00,2026-08-13T15:24:58.976749+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""Java"", ""Go"", ""C++"", ""算法与数据结构"", ""Agent系统开发"", ""LangChain"", ""LlamaIndex"", ""AutoGen"", ""Prompt工程"", ""RAG"", ""Tool Calling"", ""上下文工程"", ""OpenAPI"", ""RPC"", ""MCP""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""5天/周，持续2个月"",
+  ""ai_tech_stack"": [""大模型/多智能体（Multi-Agent）架构"", ""Prompt工程"", ""RAG（检索增强生成）"", ""Tool Calling"", ""上下文编排"", ""模型服务化与智能体调度架构"", ""LangChain/LlamaIndex/AutoGen""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：Python/Java/Go/C++等编程语言，扎实的算法与数据结构基础；了解Agent系统开发，熟悉LangChain/LlamaIndex/AutoGen等框架；掌握Prompt工程、RAG、Tool Calling、上下文工程等AI应用关键技术；掌握OpenAPI、RPC、MCP等协议"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5天/周，持续2个月"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：大模型/多智能体（Multi-Agent）架构，Prompt工程，RAG（检索增强生成），Tool Calling，上下文编排，模型服务化与智能体调度架构，LangChain/LlamaIndex/AutoGen""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0099.json
+JOB_0161,P3,R1,deepseek-v4-flash,2026-08-13T15:24:55.754057+00:00,2026-08-13T15:24:59.193064+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""R"", ""Java"", ""SQL"", ""金融大数据需求分析"", ""数据挖掘"", ""金融类模型构建""],
+  ""soft_skills"": [""沟通能力"", ""逻辑能力"", ""创业精神"", ""团队合作意识"", ""学习能力强"", ""适应能力""],
+  ""education"": ""本科及以上，国内外双一流大学及以上学历，硕士优先"",
+  ""experience"": ""5-10 年，需具备 3 年以上金融或大数据相关行业经验"",
+  ""ai_tech_stack"": [""大模型微调"", ""规则模型"", ""量化模型"", ""金融风控"", ""大数据相关 AI 应用场景""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：熟练使用 Python、R、Java、SQL 中任意一种分析工具；具备金融大数据需求分析、数据挖掘、金融类模型构建能力"",
+    ""soft_skills"": ""软技能：良好的沟通与逻辑能力；具备创业精神与团队合作意识；学习能力强，可快速适应新环境与新方法"",
+    ""education"": ""学历要求：本科及以上，国内外双一流大学及以上学历，硕士优先"",
+    ""experience"": ""经验要求：5-10 年，需具备 3 年以上金融或大数据相关行业经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：可参与大模型微调、规则模型、量化模型等金融类模型构建；覆盖金融风控、大数据相关 AI 应用场景""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0161.json
+JOB_0160,P3,R1,deepseek-v4-flash,2026-08-13T15:24:58.318243+00:00,2026-08-13T15:25:01.756982+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Adobe 系列"", ""Sketch"", ""figma"", ""Axure"", ""XMind"", ""B 端大数据产品全周期管理"", ""需求分析"", ""产品规划能力""],
+  ""soft_skills"": [""需求理解能力"", ""自驱力"", ""责任心"", ""交付能力"", ""团队协作"", ""沟通能力""],
+  ""education"": ""统招本科及以上，硕士优先"",
+  ""experience"": ""3-5 年"",
+  ""ai_tech_stack"": [""大模型应用相关技术"", ""语义类 AI"", ""金融智能体"", ""产业大脑"", ""智能体"", ""大模型""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：熟练使用 Adobe 系列、Sketch、figma、Axure、XMind 等设计工具；具备 B 端大数据产品全周期管理、需求分析与产品规划能力"",
+    ""soft_skills"": ""软技能：较强的需求理解能力；自驱力、责任心与交付能力强；具备良好的团队协作与沟通能力"",
+    ""education"": ""学历要求：统招本科及以上，硕士优先"",
+    ""experience"": ""经验要求：3-5 年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：熟悉大模型应用相关技术；覆盖语义类 AI、金融智能体、产业大脑等 AI 应用场景；对智能体、大模型、金融领域有浓厚兴趣""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0160.json
+JOB_0154,P3,R1,deepseek-v4-flash,2026-08-13T15:24:58.981066+00:00,2026-08-13T15:25:02.004423+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""高端大客户商务洽谈与招投标能力"", ""SaaS软件"", ""数据业务产品销售"", ""金融行业消保、风控相关业务知识""],
+  ""soft_skills"": [""诚实守信"", ""市场开拓能力"", ""抗压能力"", ""良好的职业素养""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3年以上软件行业销售经验"",
+  ""ai_tech_stack"": [""AI"", ""NLP"", ""大数据"", ""风控"", ""企业舆情"", ""大模型应用""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备高端大客户商务洽谈与招投标能力；熟悉 SaaS 软件、数据业务产品销售；掌握金融行业消保、风控相关业务知识"",
+    ""soft_skills"": ""软技能：诚实守信，具备市场开拓能力与抗压能力；具备良好的职业素养"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3 年以上软件行业销售经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：了解 AI、NLP、大数据、风控及企业舆情在金融行业的应用场景；了解大模型应用等科技发展状况""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0154.json
+JOB_0244,P3,R1,deepseek-v4-flash,2026-08-13T15:24:59.196781+00:00,2026-08-13T15:25:02.623444+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""商业智能解决方案"", ""数据仓库"", ""大数据"", ""数据治理"", ""数据分析"", ""风险管理"", ""银行行业计算机应用系统""],
+  ""soft_skills"": [""沟通协调能力"", ""商务拓展能力"", ""客户关系维护能力"", ""需求分析与解决方案提供能力""],
+  ""education"": ""大专及以上"",
+  ""experience"": ""有金融行业背景，具备相关销售/售前支持相关经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备商业智能解决方案知识，熟悉数据仓库、大数据、数据治理、数据分析、风险管理等领域知识，了解银行行业计算机应用系统"",
+    ""soft_skills"": ""软技能：良好的沟通协调能力，独立的商务拓展能力，客户关系维护能力，需求分析与解决方案提供能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：有金融行业背景，具备相关销售/售前支持相关经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0244.json
+JOB_0245,P3,R1,deepseek-v4-flash,2026-08-13T15:25:01.761466+00:00,2026-08-13T15:25:04.390728+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""银行业及计算机应用系统"", ""银行软件产品销售"", ""高附加值服务解决方案""],
+  ""soft_skills"": [""人际沟通能力"", ""商务拓展能力"", ""快速学习能力"", ""产品展示与表达能力"", ""客户关系维护与人脉拓展能力""],
+  ""education"": ""大专及以上"",
+  ""experience"": ""具备银行软件产品销售工作经验，有系统销售、模型或咨询项目销售经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：了解银行业及计算机应用系统，具备银行软件产品销售能力，能提供高附加值服务解决方案"",
+    ""soft_skills"": ""软技能：良好的人际沟通能力，独立的商务拓展能力，快速学习能力，产品展示与表达能力，客户关系维护与人脉拓展能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：具备银行软件产品销售工作经验，有系统销售、模型或咨询项目销售经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0245.json
+JOB_0197,P3,R1,deepseek-v4-flash,2026-08-13T15:25:02.008514+00:00,2026-08-13T15:25:05.516628+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AXURE"", ""原型工具"", ""指标验证工具""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""业务理解能力"", ""学习能力"", ""文档撰写能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证"",
+    ""soft_skills"": ""有较强的逻辑思维能力，分析能力，了解金融及经济学理论知识，热爱金融行业；具备较强的业务理解和学习能力，能快速学习新业务，文档撰写能力较好；工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力。"",
+    ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0197.json
+JOB_0199,P3,R1,deepseek-v4-flash,2026-08-13T15:25:02.628351+00:00,2026-08-13T15:25:05.716650+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""SQL"", ""ORACLE数据库""],
+  ""soft_skills"": [],
+  ""education"": ""全日制本科及以上学历，2027届计算机应用、金融、财务相关专业毕业生"",
+  ""experience"": ""了解软件测试理论和方法，以及软件测试流程"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握SQL语句，有ORACLE数据库经验者更优"",
+    ""soft_skills"": null,
+    ""education"": ""全日制本科及以上学历，2027届计算机应用、金融、财务相关专业毕业生"",
+    ""experience"": ""了解软件测试理论和方法，以及软件测试流程"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0199.json
+JOB_0195,P3,R1,deepseek-v4-flash,2026-08-13T15:25:04.395165+00:00,2026-08-13T15:25:07.796401+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AXURE"", ""原型工具"", ""指标验证工具""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""业务理解能力"", ""学习能力"", ""文档撰写能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证"",
+    ""soft_skills"": ""有较强的逻辑思维能力，分析能力，了解金融及经济学理论知识，热爱金融行业；具备较强的业务理解和学习能力，能快速学习新业务，文档撰写能力较好；工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力。"",
+    ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0195.json
+JOB_0178,P3,R1,deepseek-v4-flash,2026-08-13T15:25:05.519871+00:00,2026-08-13T15:25:08.611322+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Android APP 研发"", ""代码架构设计"", ""性能调优"", ""bug 修复"", ""跟踪新技术"", ""解决技术难点"", ""产品分析"", ""优化方案设计""],
+  ""soft_skills"": [""独立开发能力"", ""问题解决能力"", ""主动解决问题的意识"", ""团队协作能力"", ""产品思维"", ""创新意识""],
+  ""education"": ""全日制统招本科及以上学历"",
+  ""experience"": ""3 年以上软件开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：具备 Android APP 研发、代码架构设计、性能调优与 bug 修复能力；具备跟踪新技术、解决技术难点的能力；具备产品分析与优化方案设计能力。"",
+    ""soft_skills"": ""具备独立开发与问题解决能力；具备主动解决问题的意识；具备良好的团队协作能力；具备产品思维与创新意识"",
+    ""education"": ""学历要求：全日制统招本科及以上学历"",
+    ""experience"": ""经验要求：3 年以上软件开发经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0178.json
+JOB_0180,P3,R1,deepseek-v4-flash,2026-08-13T15:25:05.720883+00:00,2026-08-13T15:25:08.825733+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Word"", ""Axure""],
+  ""soft_skills"": [""沟通能力"", ""团队合作意识"", ""分析与写作能力"", ""项目推进与跨部门协同能力""],
+  ""education"": ""全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业"",
+  ""experience"": ""一年以上相关工作经验，有互联网、金融行业经验更佳"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练使用 Word、Axure 软件"",
+    ""soft_skills"": ""具备较强的沟通能力与团队合作意识；具备良好的分析与写作能力；具备项目推进与跨部门协同能力"",
+    ""education"": ""学历要求：全日制本科或以上学历，金融、经济、电子商务、工商管理、国贸等专业"",
+    ""experience"": ""经验要求：一年以上相关工作经验，有互联网、金融行业经验更佳"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0180.json
+JOB_0176,P3,R1,deepseek-v4-flash,2026-08-13T15:25:07.800860+00:00,2026-08-13T15:25:10.927945+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JavaScript"", ""C"", ""J2EE"", ""Tomcat"", ""JBOSS"", ""Weblogic"", ""Web Sphere""],
+  ""soft_skills"": [""团队协作意识"", ""执行与跟进能力""],
+  ""education"": ""统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+  ""experience"": ""一年以上大、中型 JAVA 项目开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 Java、JavaScript、C 等语言及 J2EE 架构；熟悉 Tomcat、JBOSS、Weblogic、Web Sphere 主流应用服务器至少一种"",
+    ""soft_skills"": ""具备团队协作意识；具备较强的执行与跟进能力"",
+    ""education"": ""学历要求：统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+    ""experience"": ""经验要求：一年以上大、中型 JAVA 项目开发经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0176.json
+JOB_0212,P3,R1,deepseek-v4-flash,2026-08-13T15:25:08.828906+00:00,2026-08-13T15:25:12.264814+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""银行私域用户增长运营能力"", ""营销运营体系搭建能力"", ""线上营销工具使用能力"", ""营销活动策划与执行能力"", ""运营效果监测与分析能力"", ""业务指标体系建立能力"", ""数据分析与精细化运营能力""],
+  ""soft_skills"": [""用户洞察能力"", ""增长思维"", ""策划与方案统筹能力"", ""执行力"", ""沟通能力"", ""抗压能力"", ""结果导向""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": ""2年以上金融行业营销运营经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：银行私域用户增长运营能力，营销运营体系搭建能力，线上营销工具使用能力，营销活动策划与执行能力，运营效果监测与分析能力，业务指标体系建立能力，数据分析与精细化运营能力"",
+    ""soft_skills"": ""软技能：用户洞察能力，增长思维，策划与方案统筹能力，执行力，沟通能力，抗压能力，结果导向"",
+    ""education"": ""学历要求：本科及以上学历，市场营销、媒体传播等相关专业毕业优先"",
+    ""experience"": ""经验要求：2年以上金融行业营销运营经验，有金融产品运营及用户增长运营相关工作经验者优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无明确要求""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0212.json
+JOB_0205,P3,R1,deepseek-v4-flash,2026-08-13T15:25:08.615345+00:00,2026-08-13T15:25:12.326231+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""JAVA/J2EE"", ""SpringMVC"", ""SpringBoot"", ""VUE"", ""MySQL"", ""Oracle"", ""SQL"", ""git"", ""Linux"", ""redis"", ""SSM"", ""微服务"", ""DB2""],
+  ""soft_skills"": [""逻辑思维能力"", ""问题解决能力"", ""沟通能力"", ""吃苦耐劳"", ""承压能力""],
+  ""education"": ""全日制本科及以上学历，计算机或相关专业"",
+  ""experience"": ""3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：JAVA/J2EE开发能力，SpringMVC、SpringBoot等JAVA框架使用能力，VUE等前端框架使用能力，MySQL/Oracle等数据库操作能力，SQL语言编写能力，git、Linux常用命令使用能力，redis缓存技术、SSM框架、微服务框架、DB2数据库掌握能力"",
+    ""soft_skills"": ""软技能：逻辑思维能力，问题解决能力，沟通能力，吃苦耐劳，承压能力"",
+    ""education"": ""学历要求：全日制本科及以上学历，计算机或相关专业"",
+    ""experience"": ""经验要求：3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0205.json
+JOB_0209,P3,R1,deepseek-v4-flash,2026-08-13T15:25:10.932299+00:00,2026-08-13T15:25:14.787674+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""新产品方向策划与确定能力"", ""信贷类软件产品研发组织与管理能力"", ""解决方案管理与市场推广能力"", ""售前项目管理能力"", ""团队培养与培训能力"", ""信贷业务需求设计能力""],
+  ""soft_skills"": [""归纳提炼总结能力"", ""沟通能力"", ""方案与需求编制能力"", ""市场趋势洞察能力""],
+  ""education"": ""国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+  ""experience"": ""6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+  ""ai_tech_stack"": [""AI+MCN"", ""AI行业研究"", ""AI相关标的筛选与投资价值评估""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：新产品方向策划与确定能力，信贷类软件产品研发组织与管理能力，解决方案管理与市场推广能力，售前项目管理能力，团队培养与培训能力，信贷业务需求设计能力"",
+    ""soft_skills"": ""软技能：归纳提炼总结能力，沟通能力，方案与需求编制能力，市场趋势洞察能力"",
+    ""education"": ""学历要求：国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+    ""experience"": ""经验要求：6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0209.json
+JOB_0171,P3,R1,deepseek-v4-flash,2026-08-13T15:25:12.268852+00:00,2026-08-13T15:25:14.833908+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""JavaScript"", ""ES5/ES6"", ""Vue"", ""Angular"", ""React"", ""Echarts"", ""前端工程化"", ""Git"", ""组件化开发""],
+  ""soft_skills"": [""规范开发习惯"", ""需求理解顺畅"", ""团队协作意识强""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5 年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通 JavaScript、ES5/ES6；熟练 Vue、Angular、React、Echarts；掌握前端工程化、Git、组件化开发。"",
+    ""soft_skills"": ""规范开发习惯；需求理解顺畅；团队协作意识强"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：开发银行智能管理后台、数据可视化大屏，承载 AI 数据分析结果展示、智能金融业务交互页面开发""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0171.json
+JOB_0173,P3,R1,deepseek-v4-flash,2026-08-13T15:25:12.327911+00:00,2026-08-13T15:25:16.269540+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""DCMM 数据治理成熟度评估体系"", ""数据标准"", ""数据字典"", ""元数据"", ""数据质量"", ""指标体系"", ""数据资产全流程治理"", ""数据血缘梳理"", ""数据资产目录搭建"", ""业务建模"", ""指标梳理"", ""数仓"", ""数据中台""],
+  ""soft_skills"": [""客户调研访谈"", ""方案编写"", ""项目落地推进"", ""多方团队沟通协调"", ""闭环项目管理""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10 年；5 年以上数据治理咨询 / 实施全流程操盘经验；拥有能源集团客户落地案例优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：掌握 DCMM 数据治理成熟度评估体系；精通数据标准、数据字典、元数据、数据质量、指标体系、数据资产全流程治理；熟悉数据血缘梳理、数据资产目录搭建；具备业务建模、指标梳理能力；能对接数仓、数据中台"",
+    ""soft_skills"": ""客户调研访谈、方案编写、项目落地推进、多方团队沟通协调、闭环项目管理"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年；5 年以上数据治理咨询 / 实施全流程操盘经验；拥有能源集团客户落地案例优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：岗位未直接写明 AI 技术栈；岗位属于金融 AI 底层数据底座建设，工作产出为金融大模型、智能分析提供高质量治理后的数据，可适配金融数据智能清洗、指标智能识别等 AI 场景；需要理解数据如何支撑智能化数据分析应用""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0173.json
+JOB_0175,P3,R1,deepseek-v4-flash,2026-08-13T15:25:14.792012+00:00,2026-08-13T15:25:17.863448+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""财务管理"", ""会计核算"", ""电力行业财务软件实施"", ""项目需求调研"", ""需求分析"", ""文档编写"", ""项目管理方法"", ""电力行业数据治理"", ""数据服务""],
+  ""soft_skills"": [""客户沟通"", ""项目管控"", ""需求梳理"", ""驻场项目交付能力""],
+  ""education"": ""本科，财务 / 会计类相关专业优先"",
+  ""experience"": ""3-5 年，社保累计 3 年以上；具备电力行业经验、财务系统实施经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：熟悉财务管理、会计核算业务流程；电力行业财务软件实施、项目需求调研、需求分析、文档编写；掌握项目管理方法；了解电力行业数据治理、数据服务工作；"",
+    ""soft_skills"": ""客户沟通、项目管控、需求梳理、驻场项目交付能力"",
+    ""education"": ""学历要求：本科，财务 / 会计类相关专业优先"",
+    ""experience"": ""经验要求：3-5 年，社保累计 3 年以上；具备电力行业经验、财务系统实施经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：岗位 JD 无直接写明 AI 技术栈；负责电力行业财资数字化与数据治理，为企业财务智能分析、智能报表、业财 AI 风控提供数据基础，属于产业金融数字化 AI 应用支撑岗位""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0175.json
+JOB_0129,P3,R1,deepseek-v4-flash,2026-08-13T15:25:14.837339+00:00,2026-08-13T15:25:18.395745+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JVM原理"", ""IO"", ""多线程"", ""并发"", ""集合"", ""分布式"", ""缓存"", ""消息"", ""Spring"", ""Spring Cloud"", ""Hibernate"", ""Netty/Dubbo"", ""Tomcat"", ""Nginx"", ""Zookeeper"", ""MySQL"", ""Redis"", ""SQL索引优化"", ""查询优化"", ""存储过程优化"", ""TCP/IP协议"", ""HTTP协议"", ""RESTful规范"", ""API开发"", ""Maven"", ""Jenkins"", ""JUnit"", ""Html"", ""Javascript"", ""Css"", ""Angularjs""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：3年以上Java开发工作经验，精通Java开发，了解JVM原理；熟悉IO、多线程和并发、集合等基础框架，熟悉分布式、缓存、消息等机制；熟悉Spring、Spring Cloud、Hibernate、Netty/Dubbo等Java开源框架，熟悉Tomcat、Nginx、Zookeeper等开源工具；熟悉MySQL、Redis常用DB/Cache数据库，熟悉SQL索引优化、查询优化和存储过程优化；熟悉TCP/IP协议，熟悉HTTP协议和RESTful规范，有API开发经验；有良好的开发习惯，熟悉Maven、Jenkins、JUnit；熟悉Html、Javascript、Css等前端开发技术，有Angularjs等前端框架开发经验优先"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0129.json
+JOB_0135,P3,R1,deepseek-v4-flash,2026-08-13T15:25:16.273368+00:00,2026-08-13T15:25:20.521418+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""java"", ""JVM"", ""IO"", ""多线程"", ""并发"", ""集合"", ""分布式"", ""缓存"", ""消息"", ""Spring"", ""Spring Cloud"", ""Hibernate"", ""Netty/Dubbo"", ""Tomcat"", ""Nginx"", ""Zookeeper"", ""MySQL"", ""Redis"", ""SQL索引优化"", ""查询优化"", ""存储过程优化"", ""TCP/IP协议"", ""HTTP协议"", ""RESTful规范"", ""API开发"", ""Html"", ""JavaScript"", ""Css"", ""jQuery"", ""struts""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：参与项目的功能模块编码、开发、测试；协助解决项目开发过程中的技术难题和编写日常开发文档和流程图；计算机科学或相关专业本科及以上学历；3年以上java开发工作经验，精通java开发，了解JVM原理；熟练使用IO、多线程和并发、集合功能，熟悉分布式、缓存、消息等机制；熟悉Spring、Spring Cloud、Hibernate、Netty/Dubbo开源框架，熟悉Tomcat、Nginx、Zookeeper等开源工具；熟悉MySQL、Redis常用DB/Cache数据库，熟悉SQL索引优化、查询优化和存储过程优化；熟悉TCP/IP协议，熟悉HTTP协议和RESTful规范，有API开发经验；熟悉Html、JavaScript、Css、jQuery等前端开发技术，有struts等前端框架开发经验优先"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0135.json
+JOB_0140,P3,R1,deepseek-v4-flash,2026-08-13T15:25:17.867509+00:00,2026-08-13T15:25:20.785636+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C++"", ""SQL"", ""Linux/Unix/Windows"", ""TCP/IP"", ""SQL Server"", ""DB2"", ""Oracle""],
+  ""soft_skills"": [""交流沟通能力"", ""热爱编程"", ""有创造力""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""4天/周 4个月"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉Linux/Unix/Windows操作和开发环境，熟悉TCP/IP协议相关知识，有C++开发和网络编程经验优先；熟悉SQL Server、DB2、Oracle数据库中至少一种，熟练掌握数据库SQL语言"",
+    ""soft_skills"": ""热爱编程，有创造力，具备良好的交流沟通能力"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""经验要求：4天/周 4个月"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0140.json
+JOB_0005,P3,R1,deepseek-v4-flash,2026-08-13T15:25:18.400021+00:00,2026-08-13T15:25:21.341273+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""多线程"", ""Spring"", ""Springboot"", ""Dubbo"", ""Redis"", ""Zookeeper"", ""MQ"", ""Spring Cloud"", ""微服务"", ""架构设计"", ""分布式系统""],
+  ""soft_skills"": [""沟通能力"", ""协调能力"", ""团队精神"", ""求知欲"", ""创造力"", ""责任感"", ""抗压能力""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：Java、多线程、Spring、Springboot、Dubbo、Redis、Zookeeper、MQ、Spring Cloud、微服务、架构设计、分布式系统"",
+    ""soft_skills"": ""软技能：沟通能力、协调能力、团队精神、求知欲、创造力、责任感、抗压能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0005.json
+JOB_0009,P3,R1,deepseek-v4-flash,2026-08-13T15:25:20.525800+00:00,2026-08-13T15:25:23.494881+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""C"", ""Linux"", ""全内存证券交易系统"", ""多线程/进程编程"", ""内存管理"", ""数据库""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、C、Linux、全内存证券交易系统、多线程/进程编程、内存管理、数据库"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0009.json
+JOB_0003,P3,R1,deepseek-v4-flash,2026-08-13T15:25:20.790008+00:00,2026-08-13T15:25:23.944184+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Linux"", ""gdb调试"", ""多线程/进程编程"", ""内存管理"", ""数据库（事务特性、索引）"", ""Linux服务端开发"", ""系统性能调优""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、Linux、gdb调试、多线程/进程编程、内存管理、数据库（事务特性、索引）、Linux服务端开发、系统性能调优"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0003.json
+JOB_0188,P3,R1,deepseek-v4-flash,2026-08-13T15:25:21.345609+00:00,2026-08-13T15:25:24.541341+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""SQL"", ""PLSQL"", ""Python"", ""R"", ""数据分析"", ""数据挖掘""],
+  ""soft_skills"": [""逻辑思维能力"", ""数据分析能力"", ""沟通表达能力"", ""自驱力"", ""业务洞察能力"", ""问题解决能力""],
+  ""education"": ""本科及以上学历，信息技术类、数学、统计学、计量经济学类专业"",
+  ""experience"": ""3年以上数据分析相关工作经验"",
+  ""ai_tech_stack"": [""AI智能风控"", ""精准营销"", ""智能理赔""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 SQL、PLSQL 编程，具备数据库查询与优化能力；熟悉 Python/R 等数据分析编程语言优先；具备数据分析、数据挖掘能力。"",
+    ""soft_skills"": ""强逻辑思维能力、数据分析能力；优秀的沟通表达能力与自驱力；具备业务洞察与问题解决能力"",
+    ""education"": ""学历要求：本科及以上学历，信息技术类、数学、统计学、计量经济学类专业"",
+    ""experience"": ""经验要求：3 年以上数据分析相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：负责金融 / 保险业务数据分析、数据挖掘，为 AI 智能风控、精准营销、智能理赔等 AI 金融场景提供数据洞察与模型输入""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0188.json
+JOB_0192,P3,R1,deepseek-v4-flash,2026-08-13T15:25:23.499072+00:00,2026-08-13T15:25:26.611835+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Figma"", ""Sketch"", ""PS"", ""AI"", ""视觉设计"", ""排版"", ""色彩"", ""交互逻辑"", ""PC端界面设计"", ""移动端界面设计""],
+  ""soft_skills"": [""沟通顺畅"", ""责任心强"", ""用户体验思维"", ""细节把控能力"", ""配合项目进度""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": null,
+  ""ai_tech_stack"": [""AI金融系统"", ""智能保险APP"", ""智能风控后台""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练使用 Figma/Sketch/PS/AI 等设计软件；具备扎实的视觉、排版、色彩基础，懂交互逻辑优先；能独立完成 PC 端、移动端整套界面设计"",
+    ""soft_skills"": ""沟通顺畅、责任心强；具备用户体验思维与细节把控能力；能配合项目进度完成设计交付"",
+    ""education"": ""本科及以上学历，设计类相关专业优先"",
+    ""experience"": ""未明确限定，参考同体系岗位要求：3 年以上相关设计经验"",
+    ""ai_tech_stack"": ""负责 AI 金融系统、智能保险 APP、智能风控后台的界面与视觉设计，保障 AI 金融产品的用户体验与视觉落地""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0192.json
+JOB_0147,P3,R1,deepseek-v4-flash,2026-08-13T15:25:24.545863+00:00,2026-08-13T15:25:27.539620+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""接口自动化测试用例编写"", ""调试与维护"", ""Oracle"", ""MySQL"", ""SQL语句"", ""存储过程"", ""函数"", ""Python"", ""Java"", ""开发测试小工具"", ""投研系统测试""],
+  ""soft_skills"": [""工作认真细致"", ""沟通理解能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年相关工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：1. 掌握接口自动化测试用例编写、调试与维护2. 熟悉 Oracle、MySQL 等数据库，可编写 SQL 语句、存储过程与函数3. 至少掌握 Python/Java 一种编程语言，可开发测试小工具4. 有金融行业（基金、证券、保险、银行）投研系统测试经验优先"",
+    ""soft_skills"": ""软技能：工作认真细致，具备较强的沟通理解能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5 年相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无明确要求""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0147.json
+JOB_0186,P3,R1,deepseek-v4-flash,2026-08-13T15:25:23.948355+00:00,2026-08-13T15:25:27.544401+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""numpy"", ""pandas"", ""Oracle"", ""MySQL"", ""JS"", ""前端框架""],
+  ""soft_skills"": [""逻辑思维能力"", ""沟通表达能力"", ""对技术挑战有高热情"", ""团队协作意识""],
+  ""education"": ""本科及以上学历，计算机相关专业"",
+  ""experience"": ""2年以上相关工作经验"",
+  ""ai_tech_stack"": [""AI金融数据分析"", ""量化建模"", ""智能风控模型"", ""AI模型训练""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通 Python 语言，熟练掌握 numpy、pandas 等科学运算库；掌握 Oracle/MySQL 等数据库技术；具备 JS、前端框架知识优先。"",
+    ""soft_skills"": ""优秀的逻辑思维能力、沟通表达能力；对技术挑战有高热情；具备良好的团队协作意识"",
+    ""education"": ""学历要求：本科及以上学历，计算机相关专业"",
+    ""experience"": ""经验要求：2 年以上相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：直接对接 AI 金融数据分析、量化建模、智能风控模型开发，是 AI 金融科技核心研发岗位，可支撑金融大数据分析、AI 模型训练与落地""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0186.json
+JOB_0145,P3,R1,deepseek-v4-flash,2026-08-13T15:25:26.615680+00:00,2026-08-13T15:25:29.849267+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""自动化测试"", ""功能测试"", ""性能测试"", ""Python""],
+  ""soft_skills"": [],
+  ""education"": ""本科（学信网可查）"",
+  ""experience"": ""2 年以上测试经验，岗位要求 3-5 年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：掌握自动化测试、功能测试、性能测试相关技能；具备 Python 相关技术能力"",
+    ""soft_skills"": ""软技能：无明确额外要求"",
+    ""education"": ""学历要求：本科（学信网可查）"",
+    ""experience"": ""经验要求：2 年以上测试经验，岗位要求 3-5 年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无明确要求""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0145.json
+JOB_0144,P3,R1,deepseek-v4-flash,2026-08-13T15:25:27.543824+00:00,2026-08-13T15:25:30.604591+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AI行业政策解读"", ""行业数据调研分析"", ""收并购项目实操"", ""标的选取与评估"", ""财务建模"", ""估值分析""],
+  ""soft_skills"": [""适应高频出差"", ""承受较大工作压力"", ""项目资源"", ""行业人脉""],
+  ""education"": ""本科及以上（能力突出可放宽）"",
+  ""experience"": ""3-5年相关工作经验"",
+  ""ai_tech_stack"": [""AI行业研究"", ""AI相关标的筛选"", ""投资价值评估""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：1. 熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力2. 具备收并购项目实操经验，熟悉标的选取与评估流程；财务建模与估值分析能力优先"",
+    ""soft_skills"": ""软技能：可适应高频出差，能承受较大工作压力；具备项目资源与行业人脉优先"",
+    ""education"": ""学历要求：本科及以上（能力突出可放宽）"",
+    ""experience"": ""经验要求：3-5 年相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P3/R1/JOB_0144.json
+JOB_0151,P1,R2,deepseek-v4-flash,2026-08-13T15:26:10.419714+00:00,2026-08-13T15:26:14.364020+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Python"", ""JavaScript/TypeScript"", ""MySQL"", ""Redis"", ""Spring"", ""微服务架构"", ""Git"", ""代码规范"", ""单元测试"", ""接口调试"", ""CI/CD"", ""SDD"", ""架构设计""],
+  ""soft_skills"": [""技术方案设计"", ""代码评审"", ""性能优化"", ""工程化建设"", ""信贷全流程业务逻辑"", ""风控要点"", ""推动新技术落地""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10年工作经验，2年以上架构经验"",
+  ""ai_tech_stack"": [""大模型"", ""AI Coding工具（claude code、codex等）"", ""AI Coding"", ""智能体开发"", ""自动化测试"", ""代码生成""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。"",
+    ""soft_skills"": ""软技能：具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0151.json
+JOB_0242,P1,R2,deepseek-v4-flash,2026-08-13T15:26:10.419189+00:00,2026-08-13T15:26:14.364897+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""系统设计"", ""编码开发"", ""Java"", ""Spring"", ""SpringMVC"", ""SpringBoot"", ""MyBatis"", ""Oracle"", ""MySQL"", ""SqlServer"", ""SQL调优"", ""网络通讯"", ""TCP"", ""HTTP"", ""HTTPS"", ""接口安全""],
+  ""soft_skills"": [""对金融科技行业感兴趣"", ""沟通能力"", ""学习能力"", ""责任心""],
+  ""education"": ""本科及以上学历，计算机科学、软件工程等相关理工类专业"",
+  ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：具备系统设计、编码开发能力，熟悉java开发语言及相关框架；熟练使用JAVA语言及各类开源框架，如Spring、SpringMVC、SpringBoot、MyBatis等；熟练使用Oracle、MySql、SqlServer等数据库，对SQL语句能够调优分析；对网络通讯(TCP\\HTTP\\HTTPS)和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": ""经验要求：27届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会。"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0242.json
+JOB_0182,P1,R2,deepseek-v4-flash,2026-08-13T15:26:10.419896+00:00,2026-08-13T15:26:14.564073+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Spring"", ""SpringBoot"", ""SpringCloud"", ""MyBatis"", ""Dubbo"", ""Redis"", ""Kafka"", ""Vue"", ""ElementUI"", ""IDEA"", ""Eclipse"", ""Git"", ""MySQL""],
+  ""soft_skills"": [""持续学习新技术"", ""快速适配项目"", ""抗压"", ""高强度工作适配"", ""独立技术风险排查与方案输出""],
+  ""education"": ""统招二本及以上，学信网可查"",
+  ""experience"": ""5年及以上全栈开发经验；银行项目经验优先"",
+  ""ai_tech_stack"": [""金融AI模型调用"", ""智能业务流程"", ""全栈底层系统""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：后端精通 Java、Spring/SpringBoot/SpringCloud/MyBatis、Dubbo、Redis、Kafka；前端熟练 Vue+ElementUI；熟练 IDEA/Eclipse、Git；精通 MySQL 数据库"",
+    ""soft_skills"": ""持续学习新技术、快速适配项目；抗压，高强度工作适配；独立技术风险排查与方案输出"",
+    ""education"": ""学历要求：统招二本及以上，学信网可查"",
+    ""experience"": ""经验要求：5 年及以上全栈开发经验；银行项目经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：承担银行智能信贷、AI 账务、数字化金融系统前后端研发，搭建支撑金融 AI 模型调用、智能业务流程的全栈底层系统""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0182.json
+JOB_0080,P1,R2,deepseek-v4-flash,2026-08-13T15:26:14.369519+00:00,2026-08-13T15:26:17.187212+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""技术架构设计"", ""系统规划"", ""跨团队推进"", ""团队管理""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [""AI技术管理""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：AI技术管理""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0080.json
+JOB_0099,P1,R2,deepseek-v4-flash,2026-08-13T15:26:14.371900+00:00,2026-08-13T15:26:17.787125+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""Java"", ""Go"", ""C++"", ""算法"", ""数据结构"", ""OpenAPI"", ""RPC"", ""MCP""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""5天/周，持续2个月"",
+  ""ai_tech_stack"": [""大模型"", ""多智能体（Multi-Agent）架构"", ""Prompt工程"", ""RAG（检索增强生成）"", ""Tool Calling"", ""上下文编排"", ""模型服务化与智能体调度架构"", ""LangChain"", ""LlamaIndex"", ""AutoGen""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：Python/Java/Go/C++等编程语言，扎实的算法与数据结构基础；掌握OpenAPI、RPC、MCP等协议"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5天/周，持续2个月"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：大模型/多智能体（Multi-Agent）架构，Prompt工程，RAG（检索增强生成），Tool Calling，上下文编排，模型服务化与智能体调度架构，LangChain/LlamaIndex/AutoGen""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0099.json
+JOB_0154,P1,R2,deepseek-v4-flash,2026-08-13T15:26:14.567653+00:00,2026-08-13T15:26:18.445192+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""高端大客户商务洽谈与招投标能力"", ""熟悉 SaaS 软件、数据业务产品销售"", ""掌握金融行业消保、风控相关业务知识""],
+  ""soft_skills"": [""诚实守信"", ""市场开拓能力"", ""抗压能力"", ""良好的职业素养""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3年以上软件行业销售经验"",
+  ""ai_tech_stack"": [""AI"", ""NLP"", ""大数据"", ""风控"", ""企业舆情"", ""大模型应用""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备高端大客户商务洽谈与招投标能力；熟悉 SaaS 软件、数据业务产品销售；掌握金融行业消保、风控相关业务知识"",
+    ""soft_skills"": ""软技能：诚实守信，具备市场开拓能力与抗压能力；具备良好的职业素养"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3 年以上软件行业销售经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：了解 AI、NLP、大数据、风控及企业舆情在金融行业的应用场景；了解大模型应用等科技发展状况""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0154.json
+JOB_0244,P1,R2,deepseek-v4-flash,2026-08-13T15:26:17.191416+00:00,2026-08-13T15:26:20.264771+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""商业智能解决方案知识"", ""数据仓库"", ""大数据"", ""数据治理"", ""数据分析"", ""风险管理"", ""银行行业计算机应用系统""],
+  ""soft_skills"": [""沟通协调能力"", ""商务拓展能力"", ""客户关系维护能力"", ""需求分析与解决方案提供能力""],
+  ""education"": ""大专及以上"",
+  ""experience"": ""有金融行业背景，具备相关销售/售前支持相关经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备商业智能解决方案知识，熟悉数据仓库、大数据、数据治理、数据分析、风险管理等领域知识，了解银行行业计算机应用系统"",
+    ""soft_skills"": ""软技能：良好的沟通协调能力，独立的商务拓展能力，客户关系维护能力，需求分析与解决方案提供能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：有金融行业背景，具备相关销售/售前支持相关经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0244.json
+JOB_0195,P1,R2,deepseek-v4-flash,2026-08-13T15:26:17.791450+00:00,2026-08-13T15:26:21.403201+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""需求调研"", ""需求分析"", ""需求跟踪"", ""撰写需求文档"", ""AXURE原型设计"", ""系统验证""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""业务理解能力"", ""学习能力"", ""文档撰写能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：1、负责公司资金清算或信息披露或估值核算等相关产品用户需求调研、分析整理及跟踪；2、撰写用户需求说明书与需求设计等相关文档；3、使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证；"",
+    ""soft_skills"": ""经验要求：1、有较强的逻辑思维能力，分析能力，了解金融及经济学理论知识，热爱金融行业；2、具备较强的业务理解和学习能力，能快速学习新业务，文档撰写能力较好；3、工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力。"",
+    ""education"": ""学历要求：1、全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生；"",
+    ""experience"": null,
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0195.json
+JOB_0176,P1,R2,deepseek-v4-flash,2026-08-13T15:26:18.448558+00:00,2026-08-13T15:26:21.907152+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JavaScript"", ""C"", ""J2EE"", ""Tomcat"", ""JBOSS"", ""Weblogic"", ""Web Sphere"", ""编码"", ""单元测试""],
+  ""soft_skills"": [""团队协作意识"", ""执行与跟进能力"", ""编码规范与流程执行能力"", ""文档编写能力""],
+  ""education"": ""统招211知名高校本科及以上学历，计算机软件相关专业"",
+  ""experience"": ""一年以上大、中型JAVA项目开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：熟练掌握 Java、JavaScript、C 等语言及 J2EE 架构；熟悉 Tomcat、JBOSS、Weblogic、Web Sphere 主流应用服务器至少一种；能根据设计文档高效完成编码、单元测试。"",
+    ""soft_skills"": ""具备良好的编码规范与流程执行能力；具备团队协作意识；能配合完成项目相关文档编写；具备较强的执行与跟进能力"",
+    ""education"": ""学历要求：统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+    ""experience"": ""经验要求：一年以上大、中型 JAVA 项目开发经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0176.json
+JOB_0209,P1,R2,deepseek-v4-flash,2026-08-13T15:26:20.268393+00:00,2026-08-13T15:26:24.264009+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""新产品方向策划与确定能力"",
+    ""信贷类软件产品研发组织与管理能力"",
+    ""解决方案管理与市场推广能力"",
+    ""售前项目管理能力"",
+    ""团队培养与培训能力"",
+    ""信贷业务需求设计能力""
+  ],
+  ""soft_skills"": [
+    ""归纳提炼总结能力"",
+    ""沟通能力"",
+    ""方案与需求编制能力"",
+    ""市场趋势洞察能力""
+  ],
+  ""education"": ""国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+  ""experience"": ""6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+  ""ai_tech_stack"": [
+    ""AI+MCN"",
+    ""AI行业研究"",
+    ""AI相关标的筛选与投资价值评估""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：新产品方向策划与确定能力，信贷类软件产品研发组织与管理能力，解决方案管理与市场推广能力，售前项目管理能力，团队培养与培训能力，信贷业务需求设计能力"",
+    ""soft_skills"": ""软技能：归纳提炼总结能力，沟通能力，方案与需求编制能力，市场趋势洞察能力"",
+    ""education"": ""学历要求：国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+    ""experience"": ""经验要求：6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0209.json
+JOB_0140,P1,R2,deepseek-v4-flash,2026-08-13T15:26:21.911283+00:00,2026-08-13T15:26:24.658839+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Linux/Unix/Windows"", ""TCP/IP"", ""C++"", ""网络编程"", ""SQL Server"", ""DB2"", ""Oracle"", ""SQL""],
+  ""soft_skills"": [""热爱编程"", ""有创造力"", ""交流沟通能力"", ""适应短期出差""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": ""2026届毕业生，4天/周，4个月"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉Linux/Unix/Windows操作和开发环境，熟悉TCP/IP协议相关知识，有C++开发和网络编程经验优先；熟悉SQL Server、DB2、Oracle数据库中至少一种，熟练掌握数据库SQL语言"",
+    ""soft_skills"": ""热爱编程，有创造力，具备良好的交流沟通能力，能适应短期出差"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""2026届毕业生，4天/周 4个月"",
+    ""ai_tech_stack"": ""无""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0140.json
+JOB_0175,P1,R2,deepseek-v4-flash,2026-08-13T15:26:21.406460+00:00,2026-08-13T15:26:25.332797+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""熟悉财务管理、会计核算业务流程"", ""电力行业财务软件实施"", ""项目需求调研"", ""需求分析"", ""文档编写"", ""掌握项目管理方法"", ""了解电力行业数据治理、数据服务工作"", ""客户沟通"", ""项目管控"", ""需求梳理"", ""驻场项目交付能力""],
+  ""soft_skills"": [],
+  ""education"": ""本科，财务/会计类相关专业优先"",
+  ""experience"": ""3-5年，社保累计3年以上；具备电力行业经验、财务系统实施经验优先"",
+  ""ai_tech_stack"": [""数据治理"", ""数据服务"", ""财务智能分析"", ""智能报表"", ""业财AI风控""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：熟悉财务管理、会计核算业务流程；电力行业财务软件实施、项目需求调研、需求分析、文档编写；掌握项目管理方法；了解电力行业数据治理、数据服务工作； 客户沟通、项目管控、需求梳理、驻场项目交付能力"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科，财务 / 会计类相关专业优先"",
+    ""experience"": ""经验要求：3-5 年，社保累计 3 年以上；具备电力行业经验、财务系统实施经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：岗位 JD 无直接写明 AI 技术栈；负责电力行业财资数字化与数据治理，为企业财务智能分析、智能报表、业财 AI 风控提供数据基础，属于产业金融数字化 AI 应用支撑岗位""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0175.json
+JOB_0003,P1,R2,deepseek-v4-flash,2026-08-13T15:26:24.267845+00:00,2026-08-13T15:26:27.027923+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Linux"", ""gdb调试"", ""多线程/进程编程"", ""内存管理"", ""数据库（事务特性、索引）"", ""Linux服务端开发"", ""系统性能调优""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、Linux、gdb调试、多线程/进程编程、内存管理、数据库（事务特性、索引）、Linux服务端开发、系统性能调优"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0003.json
+JOB_0144,P1,R2,deepseek-v4-flash,2026-08-13T15:26:25.335517+00:00,2026-08-13T15:26:28.361705+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力"", ""具备收并购项目实操经验，熟悉标的选取与评估流程"", ""财务建模与估值分析能力""],
+  ""soft_skills"": [""可适应高频出差，能承受较大工作压力"", ""具备项目资源与行业人脉""],
+  ""education"": ""本科及以上（能力突出可放宽）"",
+  ""experience"": ""3-5 年相关工作经验"",
+  ""ai_tech_stack"": [""AI+MCN"", ""AI 行业研究"", ""AI 相关标的筛选与投资价值评估""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：硬技能：1. 熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力2. 具备收并购项目实操经验，熟悉标的选取与评估流程；财务建模与估值分析能力优先"",
+    ""soft_skills"": ""软技能：可适应高频出差，能承受较大工作压力；具备项目资源与行业人脉优先"",
+    ""education"": ""学历要求：本科及以上（能力突出可放宽）"",
+    ""experience"": ""经验要求：3-5 年相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0144.json
+JOB_0186,P1,R2,deepseek-v4-flash,2026-08-13T15:26:24.662483+00:00,2026-08-13T15:26:28.458979+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""numpy"", ""pandas"", ""Oracle"", ""MySQL"", ""JS"", ""前端框架""],
+  ""soft_skills"": [""逻辑思维能力"", ""沟通表达能力"", ""对技术挑战有高热情"", ""团队协作意识""],
+  ""education"": ""本科及以上学历，计算机相关专业"",
+  ""experience"": ""2年以上相关工作经验"",
+  ""ai_tech_stack"": [""AI金融数据分析"", ""量化建模"", ""智能风控模型开发"", ""金融大数据分析"", ""AI模型训练与落地""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通 Python 语言，熟练掌握 numpy、pandas 等科学运算库；掌握 Oracle/MySQL 等数据库技术；具备 JS、前端框架知识优先。"",
+    ""soft_skills"": ""优秀的逻辑思维能力、沟通表达能力；对技术挑战有高热情；具备良好的团队协作意识"",
+    ""education"": ""学历要求：本科及以上学历，计算机相关专业"",
+    ""experience"": ""经验要求：2 年以上相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：直接对接 AI 金融数据分析、量化建模、智能风控模型开发，是 AI 金融科技核心研发岗位，可支撑金融大数据分析、AI 模型训练与落地""
+  }
+}",data/interim/llm_outputs/P1/R2/JOB_0186.json
+JOB_0242,P2,R2,deepseek-v4-flash,2026-08-13T15:26:27.031385+00:00,2026-08-13T15:26:31.123484+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Spring"", ""SpringMVC"", ""SpringBoot"", ""MyBatis"", ""Oracle"", ""MySQL"", ""SqlServer"", ""SQL调优"", ""TCP"", ""HTTP"", ""HTTPS"", ""接口安全""],
+  ""soft_skills"": [""沟通能力"", ""学习能力"", ""责任心""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉java开发语言及相关框架；熟练使用JAVA语言及各类开源框架，如Spring、SpringMVC、SpringBoot、MyBatis等；熟练使用Oracle、MySql、SqlServer等数据库，对SQL语句能够调优分析；对网络通讯(TCP\\HTTP\\HTTPS)和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会。"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0242.json
+JOB_0151,P2,R2,deepseek-v4-flash,2026-08-13T15:26:28.365677+00:00,2026-08-13T15:26:31.676498+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Python"", ""JavaScript/TypeScript"", ""MySQL"", ""Redis"", ""Spring"", ""微服务架构"", ""Git"", ""代码规范"", ""单元测试"", ""接口调试"", ""CI/CD 开发流程"", ""SDD 开发"", ""架构设计""],
+  ""soft_skills"": [""技术方案设计"", ""代码评审"", ""性能优化"", ""工程化建设"", ""推动新技术落地""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10 年工作经验，具备 2 年以上架构经验"",
+  ""ai_tech_stack"": [""大模型"", ""AI Coding 工具（claude code、codex 等）"", ""AI Coding"", ""智能体开发"", ""自动化测试"", ""代码生成""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。"",
+    ""soft_skills"": ""具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0151.json
+JOB_0182,P2,R2,deepseek-v4-flash,2026-08-13T15:26:28.462554+00:00,2026-08-13T15:26:31.804630+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Spring"", ""SpringBoot"", ""SpringCloud"", ""MyBatis"", ""Dubbo"", ""Redis"", ""Kafka"", ""Vue"", ""ElementUI"", ""IDEA"", ""Eclipse"", ""Git"", ""MySQL""],
+  ""soft_skills"": [""持续学习新技术"", ""快速适配项目"", ""抗压"", ""高强度工作适配"", ""独立技术风险排查与方案输出""],
+  ""education"": ""统招二本及以上，学信网可查"",
+  ""experience"": ""5 年及以上全栈开发经验；银行项目经验优先"",
+  ""ai_tech_stack"": [""金融 AI 模型"", ""智能业务流程""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""后端精通 Java、Spring/SpringBoot/SpringCloud/MyBatis、Dubbo、Redis、Kafka；前端熟练 Vue+ElementUI；熟练 IDEA/Eclipse、Git；精通 MySQL 数据库"",
+    ""soft_skills"": ""持续学习新技术、快速适配项目；抗压，高强度工作适配；独立技术风险排查与方案输出"",
+    ""education"": ""学历要求：统招二本及以上，学信网可查"",
+    ""experience"": ""经验要求：5 年及以上全栈开发经验；银行项目经验优先"",
+    ""ai_tech_stack"": ""承担银行智能信贷、AI 账务、数字化金融系统前后端研发，搭建支撑金融 AI 模型调用、智能业务流程的全栈底层系统""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0182.json
+JOB_0080,P2,R2,deepseek-v4-flash,2026-08-13T15:26:31.128313+00:00,2026-08-13T15:26:33.786646+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""技术架构设计"", ""系统规划""],
+  ""soft_skills"": [""跨团队推进"", ""团队管理""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""soft_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0080.json
+JOB_0154,P2,R2,deepseek-v4-flash,2026-08-13T15:26:31.808719+00:00,2026-08-13T15:26:34.703828+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""高端大客户商务洽谈与招投标能力"", ""熟悉 SaaS 软件、数据业务产品销售"", ""掌握金融行业消保、风控相关业务知识""],
+  ""soft_skills"": [""诚实守信"", ""市场开拓能力"", ""抗压能力"", ""良好的职业素养""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3 年以上软件行业销售经验"",
+  ""ai_tech_stack"": [""AI"", ""NLP"", ""大数据"", ""风控"", ""企业舆情"", ""大模型应用""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备高端大客户商务洽谈与招投标能力；熟悉 SaaS 软件、数据业务产品销售；掌握金融行业消保、风控相关业务知识"",
+    ""soft_skills"": ""软技能：诚实守信，具备市场开拓能力与抗压能力；具备良好的职业素养"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3 年以上软件行业销售经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：了解 AI、NLP、大数据、风控及企业舆情在金融行业的应用场景；了解大模型应用等科技发展状况""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0154.json
+JOB_0099,P2,R2,deepseek-v4-flash,2026-08-13T15:26:31.680548+00:00,2026-08-13T15:26:35.103285+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""Java"", ""Go"", ""C++"", ""算法与数据结构"", ""Agent系统开发"", ""LangChain"", ""LlamaIndex"", ""AutoGen"", ""Prompt工程"", ""RAG"", ""Tool Calling"", ""上下文工程"", ""OpenAPI"", ""RPC"", ""MCP""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""5天/周，持续2个月"",
+  ""ai_tech_stack"": [""大模型"", ""多智能体（Multi-Agent）架构"", ""Prompt工程"", ""RAG（检索增强生成）"", ""Tool Calling"", ""上下文编排"", ""模型服务化与智能体调度架构"", ""LangChain"", ""LlamaIndex"", ""AutoGen""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：Python/Java/Go/C++等编程语言，扎实的算法与数据结构基础；了解Agent系统开发，熟悉LangChain/LlamaIndex/AutoGen等框架；掌握Prompt工程、RAG、Tool Calling、上下文工程等AI应用关键技术；掌握OpenAPI、RPC、MCP等协议"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5天/周，持续2个月"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：大模型/多智能体（Multi-Agent）架构，Prompt工程，RAG（检索增强生成），Tool Calling，上下文编排，模型服务化与智能体调度架构，LangChain/LlamaIndex/AutoGen""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0099.json
+JOB_0244,P2,R2,deepseek-v4-flash,2026-08-13T15:26:33.790340+00:00,2026-08-13T15:26:37.063939+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""商业智能解决方案"", ""数据仓库"", ""大数据"", ""数据治理"", ""数据分析"", ""风险管理"", ""银行行业计算机应用系统""],
+  ""soft_skills"": [""沟通协调能力"", ""商务拓展能力"", ""客户关系维护能力"", ""需求分析与解决方案提供能力""],
+  ""education"": ""大专及以上"",
+  ""experience"": ""有金融行业背景，具备相关销售/售前支持相关经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备商业智能解决方案知识，熟悉数据仓库、大数据、数据治理、数据分析、风险管理等领域知识，了解银行行业计算机应用系统"",
+    ""soft_skills"": ""软技能：良好的沟通协调能力，独立的商务拓展能力，客户关系维护能力，需求分析与解决方案提供能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：有金融行业背景，具备相关销售/售前支持相关经验优先"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0244.json
+JOB_0176,P2,R2,deepseek-v4-flash,2026-08-13T15:26:35.106125+00:00,2026-08-13T15:26:38.088958+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JavaScript"", ""C"", ""J2EE"", ""Tomcat"", ""JBOSS"", ""Weblogic"", ""Web Sphere"", ""编码"", ""单元测试""],
+  ""soft_skills"": [""团队协作"", ""执行与跟进能力""],
+  ""education"": ""统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+  ""experience"": ""一年以上大、中型 JAVA 项目开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 Java、JavaScript、C 等语言及 J2EE 架构；熟悉 Tomcat、JBOSS、Weblogic、Web Sphere 主流应用服务器至少一种；能根据设计文档高效完成编码、单元测试。"",
+    ""soft_skills"": ""具备团队协作意识；具备较强的执行与跟进能力"",
+    ""education"": ""学历要求：统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+    ""experience"": ""经验要求：一年以上大、中型 JAVA 项目开发经验"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0176.json
+JOB_0195,P2,R2,deepseek-v4-flash,2026-08-13T15:26:34.706918+00:00,2026-08-13T15:26:38.151629+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AXURE"", ""需求调研"", ""需求分析"", ""需求设计"", ""原型绘制"", ""指标验证"", ""模型验证""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""业务理解能力"", ""学习能力"", ""文档撰写能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证；负责公司资金清算或信息披露或估值核算等相关产品用户需求调研、分析整理及跟踪；撰写用户需求说明书与需求设计等相关文档"",
+    ""soft_skills"": ""有较强的逻辑思维能力，分析能力，了解金融及经济学理论知识，热爱金融行业；具备较强的业务理解和学习能力，能快速学习新业务，文档撰写能力较好；工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力。"",
+    ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+    ""experience"": null,
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0195.json
+JOB_0140,P2,R2,deepseek-v4-flash,2026-08-13T15:26:38.154142+00:00,2026-08-13T15:26:40.832752+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Linux/Unix/Windows操作和开发环境"", ""TCP/IP协议"", ""C++开发"", ""网络编程"", ""SQL Server"", ""DB2"", ""Oracle"", ""SQL语言""],
+  ""soft_skills"": [""热爱编程"", ""有创造力"", ""良好的交流沟通能力"", ""能适应短期出差""],
+  ""education"": ""本科及以上学历"",
+  ""experience"": ""2026届毕业生"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉Linux/Unix/Windows操作和开发环境，熟悉TCP/IP协议相关知识，有C++开发和网络编程经验优先；熟悉SQL Server、DB2、Oracle数据库中至少一种，熟练掌握数据库SQL语言"",
+    ""soft_skills"": ""热爱编程，有创造力，具备良好的交流沟通能力，能适应短期出差"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""2026届毕业生"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0140.json
+JOB_0209,P2,R2,deepseek-v4-flash,2026-08-13T15:26:37.067993+00:00,2026-08-13T15:26:40.981387+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [
+    ""新产品方向策划与确定能力"",
+    ""信贷类软件产品研发组织与管理能力"",
+    ""解决方案管理与市场推广能力"",
+    ""售前项目管理能力"",
+    ""团队培养与培训能力"",
+    ""信贷业务需求设计能力""
+  ],
+  ""soft_skills"": [
+    ""归纳提炼总结能力"",
+    ""沟通能力"",
+    ""方案与需求编制能力"",
+    ""市场趋势洞察能力""
+  ],
+  ""education"": ""国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+  ""experience"": ""6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+  ""ai_tech_stack"": [
+    ""AI+MCN""
+  ],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：新产品方向策划与确定能力，信贷类软件产品研发组织与管理能力，解决方案管理与市场推广能力，售前项目管理能力，团队培养与培训能力，信贷业务需求设计能力"",
+    ""soft_skills"": ""软技能：归纳提炼总结能力，沟通能力，方案与需求编制能力，市场趋势洞察能力"",
+    ""education"": ""学历要求：国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+    ""experience"": ""经验要求：6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0209.json
+JOB_0175,P2,R2,deepseek-v4-flash,2026-08-13T15:26:38.092137+00:00,2026-08-13T15:26:41.393735+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""财务管理"", ""会计核算"", ""电力行业财务软件实施"", ""项目需求调研"", ""需求分析"", ""文档编写"", ""项目管理"", ""电力行业数据治理"", ""数据服务""],
+  ""soft_skills"": [""客户沟通"", ""项目管控"", ""需求梳理"", ""驻场项目交付能力""],
+  ""education"": ""本科，财务/会计类相关专业优先"",
+  ""experience"": ""3-5年，社保累计3年以上；具备电力行业经验、财务系统实施经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉财务管理、会计核算业务流程；电力行业财务软件实施、项目需求调研、需求分析、文档编写；掌握项目管理方法；了解电力行业数据治理、数据服务工作"",
+    ""soft_skills"": ""客户沟通、项目管控、需求梳理、驻场项目交付能力"",
+    ""education"": ""学历要求：本科，财务/会计类相关专业优先"",
+    ""experience"": ""经验要求：3-5年，社保累计3年以上；具备电力行业经验、财务系统实施经验优先"",
+    ""ai_tech_stack"": ""岗位JD无直接写明AI技术栈；负责电力行业财资数字化与数据治理，为企业财务智能分析、智能报表、业财AI风控提供数据基础，属于产业金融数字化AI应用支撑岗位""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0175.json
+JOB_0003,P2,R2,deepseek-v4-flash,2026-08-13T15:26:40.837120+00:00,2026-08-13T15:26:43.629940+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Linux"", ""gdb调试"", ""多线程/进程编程"", ""内存管理"", ""数据库（事务特性、索引）"", ""Linux服务端开发"", ""系统性能调优""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、Linux、gdb调试、多线程/进程编程、内存管理、数据库（事务特性、索引）、Linux服务端开发、系统性能调优"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0003.json
+JOB_0186,P2,R2,deepseek-v4-flash,2026-08-13T15:26:40.985406+00:00,2026-08-13T15:26:44.055657+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""numpy"", ""pandas"", ""Oracle/MySQL"", ""JS"", ""前端框架""],
+  ""soft_skills"": [""逻辑思维能力"", ""沟通表达能力"", ""对技术挑战有高热情"", ""团队协作意识""],
+  ""education"": ""本科及以上学历，计算机相关专业"",
+  ""experience"": ""2年以上相关工作经验"",
+  ""ai_tech_stack"": [""AI金融数据分析"", ""量化建模"", ""智能风控模型"", ""AI模型训练""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""精通 Python 语言，熟练掌握 numpy、pandas 等科学运算库；掌握 Oracle/MySQL 等数据库技术；具备 JS、前端框架知识优先"",
+    ""soft_skills"": ""优秀的逻辑思维能力、沟通表达能力；对技术挑战有高热情；具备良好的团队协作意识"",
+    ""education"": ""学历要求：本科及以上学历，计算机相关专业"",
+    ""experience"": ""经验要求：2 年以上相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：直接对接 AI 金融数据分析、量化建模、智能风控模型开发，是 AI 金融科技核心研发岗位，可支撑金融大数据分析、AI 模型训练与落地""
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0186.json
+JOB_0144,P2,R2,deepseek-v4-flash,2026-08-13T15:26:41.397384+00:00,2026-08-13T15:26:44.702479+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""政策解读"", ""行业数据调研分析"", ""收并购项目实操"", ""标的选取与评估"", ""财务建模与估值分析""],
+  ""soft_skills"": [""适应高频出差"", ""承受较大工作压力""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3-5年相关工作经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力；具备收并购项目实操经验，熟悉标的选取与评估流程；财务建模与估值分析能力优先"",
+    ""soft_skills"": ""可适应高频出差，能承受较大工作压力"",
+    ""education"": ""本科及以上（能力突出可放宽）"",
+    ""experience"": ""3-5 年相关工作经验"",
+    ""ai_tech_stack"": null
+  }
+}",data/interim/llm_outputs/P2/R2/JOB_0144.json
+JOB_0151,P3,R2,deepseek-v4-flash,2026-08-13T15:26:44.060089+00:00,2026-08-13T15:26:47.715830+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Python"", ""JavaScript/TypeScript"", ""MySQL"", ""Redis"", ""Spring"", ""微服务架构"", ""Git"", ""代码规范"", ""单元测试"", ""接口调试"", ""CI/CD 开发流程"", ""SDD 开发"", ""架构设计""],
+  ""soft_skills"": [""技术方案设计"", ""代码评审"", ""性能优化"", ""工程化建设"", ""推动新技术落地""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""5-10 年工作经验，具备 2 年以上架构经验"",
+  ""ai_tech_stack"": [""大模型"", ""AI Coding 工具"", ""claude code"", ""codex"", ""AI Coding"", ""智能体开发"", ""自动化测试"", ""代码生成""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉 MySQL、Redis、Spring、微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发，具备架构设计能力。"",
+    ""soft_skills"": ""软技能：具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术在团队落地。"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：5-10 年工作经验，具备 2 年以上架构经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：具备大模型相关经验；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0151.json
+JOB_0242,P3,R2,deepseek-v4-flash,2026-08-13T15:26:43.634131+00:00,2026-08-13T15:26:47.800234+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""系统设计"", ""编码开发"", ""JAVA"", ""Spring"", ""SpringMVC"", ""SpringBoot"", ""MyBatis"", ""Oracle"", ""MySql"", ""SqlServer"", ""SQL调优"", ""网络通讯"", ""TCP"", ""HTTP"", ""HTTPS"", ""接口安全""],
+  ""soft_skills"": [""沟通能力"", ""学习能力"", ""责任心""],
+  ""education"": ""计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+  ""experience"": ""27届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备系统设计、编码开发能力，熟悉java开发语言及相关框架；熟练使用JAVA语言及各类开源框架，如Spring、SpringMVC、SpringBoot、MyBatis等；熟练使用Oracle、MySql、SqlServer等数据库，对SQL语句能够调优分析；对网络通讯(TCP\\HTTP\\HTTPS)和接口安全技术有一定的了解。"",
+    ""soft_skills"": ""软技能：对金融科技行业感兴趣，良好的沟通能力和学习能力以及超强责任心。"",
+    ""education"": ""学历要求：计算机科学、软件工程等相关理工类专业，本科及以上学历"",
+    ""experience"": ""经验要求：27届提前批实习生，无明确工作经验要求，有相关开发经验优先，优秀者或合格者提供转正机会。"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0242.json
+JOB_0182,P3,R2,deepseek-v4-flash,2026-08-13T15:26:44.705344+00:00,2026-08-13T15:26:47.980526+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""Spring"", ""SpringBoot"", ""SpringCloud"", ""MyBatis"", ""Dubbo"", ""Redis"", ""Kafka"", ""Vue"", ""ElementUI"", ""IDEA"", ""Eclipse"", ""Git"", ""MySQL""],
+  ""soft_skills"": [""持续学习新技术"", ""快速适配项目"", ""抗压"", ""高强度工作适配"", ""独立技术风险排查与方案输出""],
+  ""education"": ""统招二本及以上，学信网可查"",
+  ""experience"": ""5 年及以上全栈开发经验；银行项目经验优先"",
+  ""ai_tech_stack"": [""金融 AI 模型调用"", ""智能业务流程""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：后端精通 Java、Spring/SpringBoot/SpringCloud/MyBatis、Dubbo、Redis、Kafka；前端熟练 Vue+ElementUI；熟练 IDEA/Eclipse、Git；精通 MySQL 数据库"",
+    ""soft_skills"": ""持续学习新技术、快速适配项目；抗压，高强度工作适配；独立技术风险排查与方案输出"",
+    ""education"": ""学历要求：统招二本及以上，学信网可查"",
+    ""experience"": ""经验要求：5 年及以上全栈开发经验；银行项目经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：承担银行智能信贷、AI 账务、数字化金融系统前后端研发，搭建支撑金融 AI 模型调用、智能业务流程的全栈底层系统""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0182.json
+JOB_0080,P3,R2,deepseek-v4-flash,2026-08-13T15:26:47.719646+00:00,2026-08-13T15:26:49.886574+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""技术架构设计"", ""系统规划""],
+  ""soft_skills"": [""跨团队推进"", ""团队管理""],
+  ""education"": ""本科"",
+  ""experience"": ""5-10年"",
+  ""ai_tech_stack"": [""AI技术管理""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""soft_skills"": ""技能要求：技术架构设计、系统规划、跨团队推进、团队管理"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5-10年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：AI技术管理""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0080.json
+JOB_0099,P3,R2,deepseek-v4-flash,2026-08-13T15:26:47.804328+00:00,2026-08-13T15:26:50.999688+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""Java"", ""Go"", ""C++"", ""算法与数据结构"", ""Agent系统开发"", ""LangChain"", ""LlamaIndex"", ""AutoGen"", ""Prompt工程"", ""RAG"", ""Tool Calling"", ""上下文工程"", ""OpenAPI"", ""RPC"", ""MCP""],
+  ""soft_skills"": [],
+  ""education"": ""本科"",
+  ""experience"": ""5天/周，持续2个月"",
+  ""ai_tech_stack"": [""大模型/多智能体（Multi-Agent）架构"", ""Prompt工程"", ""RAG（检索增强生成）"", ""Tool Calling"", ""上下文编排"", ""模型服务化与智能体调度架构"", ""LangChain"", ""LlamaIndex"", ""AutoGen""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：Python/Java/Go/C++等编程语言，扎实的算法与数据结构基础；了解Agent系统开发，熟悉LangChain/LlamaIndex/AutoGen等框架；掌握Prompt工程、RAG、Tool Calling、上下文工程等AI应用关键技术；掌握OpenAPI、RPC、MCP等协议"",
+    ""soft_skills"": null,
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：5天/周，持续2个月"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：大模型/多智能体（Multi-Agent）架构，Prompt工程，RAG（检索增强生成），Tool Calling，上下文编排，模型服务化与智能体调度架构，LangChain/LlamaIndex/AutoGen""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0099.json
+JOB_0154,P3,R2,deepseek-v4-flash,2026-08-13T15:26:47.984222+00:00,2026-08-13T15:26:51.004621+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""高端大客户商务洽谈与招投标能力"", ""SaaS软件"", ""数据业务产品销售"", ""金融行业消保、风控相关业务知识""],
+  ""soft_skills"": [""诚实守信"", ""市场开拓能力"", ""抗压能力"", ""良好的职业素养""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""3年以上软件行业销售经验"",
+  ""ai_tech_stack"": [""AI"", ""NLP"", ""大数据"", ""风控"", ""企业舆情"", ""大模型应用""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备高端大客户商务洽谈与招投标能力；熟悉 SaaS 软件、数据业务产品销售；掌握金融行业消保、风控相关业务知识"",
+    ""soft_skills"": ""软技能：诚实守信，具备市场开拓能力与抗压能力；具备良好的职业素养"",
+    ""education"": ""学历要求：本科及以上"",
+    ""experience"": ""经验要求：3 年以上软件行业销售经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：了解 AI、NLP、大数据、风控及企业舆情在金融行业的应用场景；了解大模型应用等科技发展状况""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0154.json
+JOB_0244,P3,R2,deepseek-v4-flash,2026-08-13T15:26:49.890331+00:00,2026-08-13T15:26:53.109389+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""商业智能解决方案"", ""数据仓库"", ""大数据"", ""数据治理"", ""数据分析"", ""风险管理"", ""银行行业计算机应用系统""],
+  ""soft_skills"": [""沟通协调能力"", ""商务拓展能力"", ""客户关系维护能力"", ""需求分析与解决方案提供能力""],
+  ""education"": ""大专及以上"",
+  ""experience"": ""有金融行业背景，具备相关销售/售前支持相关经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：具备商业智能解决方案知识，熟悉数据仓库、大数据、数据治理、数据分析、风险管理等领域知识，了解银行行业计算机应用系统"",
+    ""soft_skills"": ""软技能：良好的沟通协调能力，独立的商务拓展能力，客户关系维护能力，需求分析与解决方案提供能力"",
+    ""education"": ""学历要求：大专及以上"",
+    ""experience"": ""经验要求：有金融行业背景，具备相关销售/售前支持相关经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0244.json
+JOB_0176,P3,R2,deepseek-v4-flash,2026-08-13T15:26:51.007712+00:00,2026-08-13T15:26:53.876881+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Java"", ""JavaScript"", ""C"", ""J2EE"", ""Tomcat"", ""JBOSS"", ""Weblogic"", ""Web Sphere""],
+  ""soft_skills"": [""团队协作意识"", ""执行与跟进能力""],
+  ""education"": ""统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+  ""experience"": ""一年以上大、中型 JAVA 项目开发经验"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟练掌握 Java、JavaScript、C 等语言及 J2EE 架构；熟悉 Tomcat、JBOSS、Weblogic、Web Sphere 主流应用服务器至少一种"",
+    ""soft_skills"": ""具备团队协作意识；具备较强的执行与跟进能力"",
+    ""education"": ""学历要求：统招 211 知名高校本科及以上学历，计算机软件相关专业"",
+    ""experience"": ""经验要求：一年以上大、中型 JAVA 项目开发经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0176.json
+JOB_0195,P3,R2,deepseek-v4-flash,2026-08-13T15:26:51.003124+00:00,2026-08-13T15:26:54.522021+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AXURE"", ""原型工具"", ""指标验证工具""],
+  ""soft_skills"": [""逻辑思维能力"", ""分析能力"", ""业务理解能力"", ""学习能力"", ""文档撰写能力"", ""抗压能力"", ""责任感"", ""主动好学"", ""性格开朗"", ""沟通协调能力"", ""团队协作能力""],
+  ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+  ""experience"": null,
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""使用AXURE等原型工具绘制界面原型或使用相关工具对系统的指标或模型进行验证"",
+    ""soft_skills"": ""有较强的逻辑思维能力，分析能力，了解金融及经济学理论知识，热爱金融行业；具备较强的业务理解和学习能力，能快速学习新业务，文档撰写能力较好；工作抗压能力强，能适应中短期出差。性格特征：责任感强，主动好学，性格开朗，有良好沟通协调能力，有良好的团队协作能力。"",
+    ""education"": ""全日制本科或研究生以上学历，2027届计算机、金融或财务相关专业毕业生"",
+    ""experience"": null,
+    ""ai_tech_stack"": ""AI相关技术栈要求：""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0195.json
+JOB_0209,P3,R2,deepseek-v4-flash,2026-08-13T15:26:53.113062+00:00,2026-08-13T15:26:56.746755+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""新产品方向策划与确定能力"", ""信贷类软件产品研发组织与管理能力"", ""解决方案管理与市场推广能力"", ""售前项目管理能力"", ""团队培养与培训能力"", ""信贷业务需求设计能力""],
+  ""soft_skills"": [""归纳提炼总结能力"", ""沟通能力"", ""方案与需求编制能力"", ""市场趋势洞察能力""],
+  ""education"": ""国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+  ""experience"": ""6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+  ""ai_tech_stack"": [""AI行业研究"", ""AI相关标的筛选"", ""投资价值评估""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：新产品方向策划与确定能力，信贷类软件产品研发组织与管理能力，解决方案管理与市场推广能力，售前项目管理能力，团队培养与培训能力，信贷业务需求设计能力"",
+    ""soft_skills"": ""软技能：归纳提炼总结能力，沟通能力，方案与需求编制能力，市场趋势洞察能力"",
+    ""education"": ""学历要求：国内985/211大学或者海外QS排名100以内的著名大学的经济学、金融学、统计学相关本科及以上学历"",
+    ""experience"": ""经验要求：6年以上金融it行业相关工作经验，熟悉银行、公司信贷业务、零售信贷业务、投行类业务、同业类业务等企业类授信相关的流程及管理制度"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0209.json
+JOB_0175,P3,R2,deepseek-v4-flash,2026-08-13T15:26:53.880815+00:00,2026-08-13T15:26:57.087452+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""财务管理"", ""会计核算"", ""电力行业财务软件实施"", ""项目需求调研"", ""需求分析"", ""文档编写"", ""项目管理方法"", ""电力行业数据治理"", ""数据服务""],
+  ""soft_skills"": [""客户沟通"", ""项目管控"", ""需求梳理"", ""驻场项目交付能力""],
+  ""education"": ""本科，财务/会计类相关专业优先"",
+  ""experience"": ""3-5年，社保累计3年以上；具备电力行业经验、财务系统实施经验优先"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：熟悉财务管理、会计核算业务流程；电力行业财务软件实施、项目需求调研、需求分析、文档编写；掌握项目管理方法；了解电力行业数据治理、数据服务工作；"",
+    ""soft_skills"": ""客户沟通、项目管控、需求梳理、驻场项目交付能力"",
+    ""education"": ""学历要求：本科，财务 / 会计类相关专业优先"",
+    ""experience"": ""经验要求：3-5 年，社保累计 3 年以上；具备电力行业经验、财务系统实施经验优先"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：岗位 JD 无直接写明 AI 技术栈；负责电力行业财资数字化与数据治理，为企业财务智能分析、智能报表、业财 AI 风控提供数据基础，属于产业金融数字化 AI 应用支撑岗位""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0175.json
+JOB_0140,P3,R2,deepseek-v4-flash,2026-08-13T15:26:54.526160+00:00,2026-08-13T15:26:57.441281+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Linux"", ""Unix"", ""Windows"", ""TCP/IP协议"", ""C++"", ""SQL Server"", ""DB2"", ""Oracle"", ""SQL""],
+  ""soft_skills"": [""交流沟通能力"", ""热爱编程"", ""有创造力""],
+  ""education"": ""本科及以上"",
+  ""experience"": ""4天/周 4个月"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""熟悉Linux/Unix/Windows操作和开发环境，熟悉TCP/IP协议相关知识，有C++开发和网络编程经验优先；熟悉SQL Server、DB2、Oracle数据库中至少一种，熟练掌握数据库SQL语言"",
+    ""soft_skills"": ""热爱编程，有创造力，具备良好的交流沟通能力"",
+    ""education"": ""本科及以上学历"",
+    ""experience"": ""经验要求：4天/周 4个月"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0140.json
+JOB_0003,P3,R2,deepseek-v4-flash,2026-08-13T15:26:56.750726+00:00,2026-08-13T15:26:59.705573+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""C/C++"", ""Linux"", ""gdb调试"", ""多线程/进程编程"", ""内存管理"", ""数据库（事务特性、索引）"", ""Linux服务端开发"", ""系统性能调优""],
+  ""soft_skills"": [""责任心"", ""沟通能力"", ""抗压能力"", ""系统分析和设计能力"", ""技术钻研能力""],
+  ""education"": ""本科"",
+  ""experience"": ""3-5年"",
+  ""ai_tech_stack"": [],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：C/C++、Linux、gdb调试、多线程/进程编程、内存管理、数据库（事务特性、索引）、Linux服务端开发、系统性能调优"",
+    ""soft_skills"": ""软技能：责任心、沟通能力、抗压能力、系统分析和设计能力、技术钻研能力"",
+    ""education"": ""学历要求：本科"",
+    ""experience"": ""经验要求：3-5年"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：无""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0003.json
+JOB_0186,P3,R2,deepseek-v4-flash,2026-08-13T15:26:57.090192+00:00,2026-08-13T15:27:00.287773+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""Python"", ""numpy"", ""pandas"", ""Oracle"", ""MySQL"", ""JS"", ""前端框架""],
+  ""soft_skills"": [""逻辑思维能力"", ""沟通表达能力"", ""团队协作意识""],
+  ""education"": ""本科及以上学历，计算机相关专业"",
+  ""experience"": ""2年以上相关工作经验"",
+  ""ai_tech_stack"": [""AI金融数据分析"", ""量化建模"", ""智能风控模型""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""技能要求：精通 Python 语言，熟练掌握 numpy、pandas 等科学运算库；掌握 Oracle/MySQL 等数据库技术；具备 JS、前端框架知识优先。"",
+    ""soft_skills"": ""优秀的逻辑思维能力、沟通表达能力；对技术挑战有高热情；具备良好的团队协作意识"",
+    ""education"": ""学历要求：本科及以上学历，计算机相关专业"",
+    ""experience"": ""经验要求：2 年以上相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：直接对接 AI 金融数据分析、量化建模、智能风控模型开发，是 AI 金融科技核心研发岗位，可支撑金融大数据分析、AI 模型训练与落地""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0186.json
+JOB_0144,P3,R2,deepseek-v4-flash,2026-08-13T15:26:57.445485+00:00,2026-08-13T15:27:00.675166+00:00,"{
+  ""job_title"": null,
+  ""salary_range"": null,
+  ""work_location"": null,
+  ""hard_skills"": [""AI行业政策解读"", ""行业数据调研分析"", ""收并购项目实操"", ""标的选取与评估"", ""财务建模"", ""估值分析""],
+  ""soft_skills"": [""适应高频出差"", ""承受较大工作压力"", ""项目资源"", ""行业人脉""],
+  ""education"": ""本科及以上（能力突出可放宽）"",
+  ""experience"": ""3-5年相关工作经验"",
+  ""ai_tech_stack"": [""AI行业研究"", ""AI相关标的筛选"", ""投资价值评估""],
+  ""evidence"": {
+    ""job_title"": null,
+    ""salary_range"": null,
+    ""work_location"": null,
+    ""hard_skills"": ""硬技能：1. 熟悉 AI 行业政策环境，具备政策解读与行业数据调研分析能力2. 具备收并购项目实操经验，熟悉标的选取与评估流程；财务建模与估值分析能力优先"",
+    ""soft_skills"": ""软技能：可适应高频出差，能承受较大工作压力；具备项目资源与行业人脉优先"",
+    ""education"": ""学历要求：本科及以上（能力突出可放宽）"",
+    ""experience"": ""经验要求：3-5 年相关工作经验"",
+    ""ai_tech_stack"": ""AI相关技术栈要求：聚焦 AI+MCN 领域，需开展 AI 行业研究、AI 相关标的筛选与投资价值评估""
+  }
+}",data/interim/llm_outputs/P3/R2/JOB_0144.json

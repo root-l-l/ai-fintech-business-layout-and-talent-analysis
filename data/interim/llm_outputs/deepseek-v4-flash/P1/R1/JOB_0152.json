@@ -1,0 +1,53 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "Java",
+    "Python",
+    "JavaScript/TypeScript",
+    "微服务架构",
+    "Git",
+    "代码规范",
+    "单元测试",
+    "接口调试",
+    "CI/CD",
+    "SDD开发"
+  ],
+  "soft_skills": [
+    "团队管理能力",
+    "技术方案设计",
+    "代码评审",
+    "性能优化",
+    "工程化建设",
+    "信贷全流程业务逻辑",
+    "风控要点",
+    "推动新技术落地",
+    "尽职调查",
+    "授信审核业务认知",
+    "银行对公/供应链金融系统开发经验"
+  ],
+  "education": "本科及以上",
+  "experience": "3-5年工作经验，2年以上架构经验",
+  "ai_tech_stack": [
+    "AI大模型",
+    "AI Coding工具（claude code、codex等）",
+    "AI Coding",
+    "智能体开发",
+    "自动化测试",
+    "代码生成",
+    "AI Agent",
+    "RAG",
+    "大模型应用开发"
+  ],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "硬技能：熟练掌握 Java，了解 Python、JavaScript/TypeScript；熟悉微服务架构；掌握 Git、代码规范、单元测试、接口调试、CI/CD 开发流程，熟悉 SDD 开发。",
+    "soft_skills": "软技能：具备团队管理能力；具备技术方案设计、代码评审、性能优化与工程化建设能力；熟悉信贷全流程业务逻辑与风控要点，可推动新技术落地；有尽职调查、授信审核业务认知、银行对公 / 供应链金融系统开发经验为加分项。",
+    "education": "学历要求：本科及以上",
+    "experience": "经验要求：3-5 年工作经验，具备 2 年以上架构经验",
+    "ai_tech_stack": "AI相关技术栈要求：熟悉 AI 大模型；熟练使用 AI Coding 工具（claude code、codex 等任意一种）；可跟踪并落地 AI Coding、智能体开发、自动化测试、代码生成方向的新工具与实践；有 AI Agent、RAG 或大模型应用开发经验为加分项"
+  }
+}

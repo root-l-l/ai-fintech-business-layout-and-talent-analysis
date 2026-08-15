@@ -1,0 +1,32 @@
+{
+  "job_title": "2026届C++开发实习生",
+  "salary_range": "120-140元/天",
+  "work_location": "长沙",
+  "hard_skills": [
+    "C++",
+    "Linux/Unix/Windows",
+    "TCP/IP",
+    "SQL Server",
+    "DB2",
+    "Oracle",
+    "SQL"
+  ],
+  "soft_skills": [
+    "热爱编程",
+    "创造力",
+    "交流沟通能力"
+  ],
+  "education": "本科及以上学历",
+  "experience": "4天/周 4个月",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": "职位名称：2026届C++开发实习生",
+    "salary_range": "薪资范围：120-140元/天",
+    "work_location": "工作地点：长沙",
+    "hard_skills": "熟悉Linux/Unix/Windows操作和开发环境，熟悉TCP/IP协议相关知识，有C++开发和网络编程经验优先；熟悉SQL Server、DB2、Oracle数据库中至少一种，熟练掌握数据库SQL语言",
+    "soft_skills": "热爱编程，有创造力，具备良好的交流沟通能力",
+    "education": "本科及以上学历",
+    "experience": "经验要求：4天/周 4个月",
+    "ai_tech_stack": "AI相关技术栈要求：无"
+  }
+}

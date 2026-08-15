@@ -1,0 +1,39 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "JAVA/J2EE开发能力",
+    "SpringMVC",
+    "SpringBoot",
+    "VUE",
+    "MySQL/Oracle",
+    "SQL语言编写",
+    "git",
+    "Linux常用命令",
+    "redis缓存技术",
+    "SSM框架",
+    "微服务框架",
+    "DB2数据库"
+  ],
+  "soft_skills": [
+    "逻辑思维能力",
+    "问题解决能力",
+    "沟通能力",
+    "吃苦耐劳",
+    "承压能力"
+  ],
+  "education": "全日制本科及以上学历，计算机或相关专业",
+  "experience": "3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "硬技能：JAVA/J2EE开发能力，SpringMVC、SpringBoot等JAVA框架使用能力，VUE等前端框架使用能力，MySQL/Oracle等数据库操作能力，SQL语言编写能力，git、Linux常用命令使用能力，redis缓存技术、SSM框架、微服务框架、DB2数据库掌握能力",
+    "soft_skills": "软技能：逻辑思维能力，问题解决能力，沟通能力，吃苦耐劳，承压能力",
+    "education": "学历要求：全日制本科及以上学历，计算机或相关专业",
+    "experience": "经验要求：3-5年工作经验，5年以上实际java开发项目经验，有金融或银行项目实施经验优先",
+    "ai_tech_stack": "AI相关技术栈要求："
+  }
+}

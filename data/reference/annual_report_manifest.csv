@@ -1,0 +1,20 @@
+source_id,company_code,company_name,report_year,local_path,sha256,mapping_status,mapping_note
+,,,2025,data/raw/annual_reports/002987_2025.pdf,746e3a456f56414ac1a5abdb539db13f5d048017265224e96b2188cffb0ea048,unmapped_or_ambiguous,Matches: []
+AR_600570_SH_2025,600570.SH,恒生电子,2025,data/raw/annual_reports/1. 恒生电子25年报.pdf,e2b084183d2061001e76fb87b9d60d9fa27a4a51939a70721746f678c0ecfedc,mapped,Mapped from user-provided filename token; original file retained.
+AR_300663_SZ_2025,300663.SZ,科蓝软件,2025,data/raw/annual_reports/10-科蓝软件：2025年年度报告.pdf,b5c34bbb3067f64750eb44b662e54fd5f3535e73cd7ae34571243ff5576041a6,mapped,Mapped from user-provided filename token; original file retained.
+AR_002987_SZ_2025,002987.SZ,京北方,2025,data/raw/annual_reports/11-京北方：2025年年度报告.pdf,746e3a456f56414ac1a5abdb539db13f5d048017265224e96b2188cffb0ea048,mapped,Mapped from user-provided filename token; original file retained.
+AR_603927_SH_2025,603927.SH,中科软,2025,data/raw/annual_reports/12-中科软：中科软2025年年度报告.pdf,3eac969323359ee757becc4f07fae1e581fca58c6e5af350a7d710ac30cc6964,mapped,Mapped from user-provided filename token; original file retained.
+AR_688590_SH_2025,688590.SH,新致软件,2025,data/raw/annual_reports/13-新致软件2025年报.pdf,051a139571fbc157a9a9a176e287ff6c2efca861a7271dd61066c1a2c39e544d,mapped,Mapped from user-provided filename token; original file retained.
+AR_002230_SZ_2025,002230.SZ,科大讯飞,2025,data/raw/annual_reports/14-科大讯飞：2025年年度报告.PDF,8504042c6e77ea787ad43a88e0b3a35b9a57992fd6cf3be51a59fde2fe498ade,mapped,Mapped from user-provided filename token; original file retained.
+AR_300229_SZ_2025,300229.SZ,拓尔思,2025,data/raw/annual_reports/15-拓尔思：2025年年度报告.PDF,721e1bba49f07c6303fe800bfc5a91271c2c676e8e9e9aa2babf8d9c1ec2e1c7,mapped,Mapped from user-provided filename token; original file retained.
+AR_300033_SZ_2025,300033.SZ,同花顺,2025,data/raw/annual_reports/2. 同花顺：2025年年度报告.pdf,5f0ac7f8c84a7e53dcd681d4b2bd3392f1164f76e45853d5d3e49d20d0a88722,mapped,Mapped from user-provided filename token; original file retained.
+AR_300059_SZ_2025,300059.SZ,东方财富,2025,data/raw/annual_reports/3. 东方财富25年年度报告.pdf,a5edb3304600d7ff7faeefa65fea3846f4326743cc72d9ade14cf93af20c1737,mapped,Mapped from user-provided filename token; original file retained.
+,,,2025,data/raw/annual_reports/300377_2025.pdf,069e74c98f543502e40fbfd95b9c6a515e222a8907c6bbcda95af327fdce19cc,unmapped_or_ambiguous,Matches: []
+,,,2025,data/raw/annual_reports/300465_2025.pdf,bc7840798fd61f7f520c2b8feaab0864e7ea9eb26a96ac27add6dbeeb7e2cbc9,unmapped_or_ambiguous,Matches: []
+,,,2025,data/raw/annual_reports/300674_2025.pdf,c8cf9c6d8b6969ca6a0dd363abe352bd23ce205eca51901f410b69a89d3d3857,unmapped_or_ambiguous,Matches: []
+AR_600446_SH_2025,600446.SH,金证股份,2025,data/raw/annual_reports/4. 金证股份25年年报.pdf,da06cc9b36f139c5503e2c9bcaf77a780cfd863971e422fa5e42ef4814eb2354,mapped,Mapped from user-provided filename token; original file retained.
+AR_300377_SZ_2025,300377.SZ,赢时胜,2025,data/raw/annual_reports/5.赢时胜2025年报.pdf,069e74c98f543502e40fbfd95b9c6a515e222a8907c6bbcda95af327fdce19cc,mapped,Mapped from user-provided filename token; original file retained.
+AR_300674_SZ_2025,300674.SZ,宇信科技,2025,data/raw/annual_reports/6.宇信科技2025年报.pdf,c8cf9c6d8b6969ca6a0dd363abe352bd23ce205eca51901f410b69a89d3d3857,mapped,Mapped from user-provided filename token; original file retained.
+AR_000555_SZ_2025,000555.SZ,神州信息,2025,data/raw/annual_reports/7.神州信息2025年报.pdf,0d086bdb54667a2cbb5ad9f11391153ec9fe2996a15112ce4ba96ac1409f9fd0,mapped,Mapped from user-provided filename token; original file retained.
+AR_300348_SZ_2025,300348.SZ,长亮科技,2025,data/raw/annual_reports/8.长亮科技2025年报.pdf,a95d59b5d65273f800bc20ad2186dce89dda5c358aeac7ee5877f33d2fff0bf8,mapped,Mapped from user-provided filename token; original file retained.
+AR_300872_SZ_2025,300872.SZ,天阳科技,2025,data/raw/annual_reports/9-天阳科技：2025年年度报告.pdf,12d3803ff788dc3ae932d74da127f04b03a9668023b28e62d4e65e8486ad75da,mapped,Mapped from user-provided filename token; original file retained.

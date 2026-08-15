@@ -1,0 +1,16 @@
+sample_order,company_code,company_name,segment,core_ai_fintech_capability,selection_basis,screening_status,source_document,job_records,ai_reference_records,platform_count,missing_salary,missing_location,missing_education,missing_experience,missing_ai_stack,ai_reference_share,coverage_status
+1,600570.SH,恒生电子,证券与资管科技,LightGPT大模型、WarrenQ智能投研平台与LIGHT 6.0 AI生态架构,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,11,2,1,0,0,0,0,0,0.1818,有公开岗位记录
+2,300033.SZ,同花顺,证券与资管科技,问财金融大模型、同创智能体平台及C端投顾与B端投研,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,83,55,1,0,0,1,0,0,0.6627,有公开岗位记录
+3,300059.SZ,东方财富,证券与资管科技,妙想金融大模型与投研助理,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,29,12,1,0,0,0,0,0,0.4138,有公开岗位记录
+4,600446.SH,金证股份,证券与资管科技,K-GPT、AI-KOCA与金融RPA/流程自动化,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,18,3,1,0,0,0,0,0,0.1667,有公开岗位记录
+5,300377.SZ,赢时胜,证券与资管科技,资管与托管IT、AI Agent专业服务器与大模型适配,Qwen/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,5,0,1,0,0,0,0,5,0.0,有公开岗位记录
+6,300674.SZ,宇信科技,银行科技,信贷AI智能体、ChatBI及金融机构信贷流程智能化,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,28,6,1,1,0,0,0,9,0.2143,有公开岗位记录
+7,000555.SZ,神州信息,银行科技,企业级智能体中台、Skillbase Agent OS与AI for Process,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,14,0,2,0,0,0,0,14,0.0,有公开岗位记录
+8,300348.SZ,长亮科技,银行科技,AI4SE/AI4Biz、分布式AI核心系统与金融垂域大模型对接,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,2,0,1,0,0,0,0,2,0.0,有公开岗位记录
+9,300872.SZ,天阳科技,银行科技,天策/天元金融大模型、信用卡与智能风控/信贷审批,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,13,13,1,0,0,0,0,0,1.0,有公开岗位记录
+10,300663.SZ,科蓝软件,银行科技,魔聚企业级智能体底座、AI原生手机银行与网点智能机器人,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,5,0,1,0,0,0,0,5,0.0,有公开岗位记录
+11,002987.SZ,京北方,银行与保险科技,金融知识智能体、数字员工、智能客服与风控,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,3,3,1,0,0,0,0,0,1.0,有公开岗位记录
+12,603927.SH,中科软,保险科技,中科文澜大模型、AI+云原生寿险核心系统与智能核保/理赔,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,11,11,1,0,0,0,0,0,1.0,有公开岗位记录
+13,688590.SH,新致软件,保险科技,新知大模型、AI一体机、保险智能理赔与双录质检,Qwen/DeepSeek/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,8,4,1,0,0,0,0,0,0.5,有公开岗位记录
+14,002230.SZ,科大讯飞,泛金融AI底座,星火大模型在银行、保险与证券客服、营销、投研场景的服务能力,Qwen/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,2,2,1,0,0,0,0,0,1.0,有公开岗位记录
+15,300229.SZ,拓尔思,泛金融AI底座,拓天金融大模型、NLP与知识图谱的金融舆情与风控应用,Qwen/豆包/Gemini交叉共识,author_defined,第一部分1修改-2.docx,10,10,1,0,0,0,0,0,1.0,有公开岗位记录

@@ -1,0 +1,25 @@
+{
+  "job_title": null,
+  "salary_range": null,
+  "work_location": null,
+  "hard_skills": [
+    "自动化测试",
+    "功能测试",
+    "性能测试",
+    "Python"
+  ],
+  "soft_skills": [],
+  "education": "本科（学信网可查）",
+  "experience": "2年以上测试经验，岗位要求3-5年",
+  "ai_tech_stack": [],
+  "evidence": {
+    "job_title": null,
+    "salary_range": null,
+    "work_location": null,
+    "hard_skills": "掌握自动化测试、功能测试、性能测试相关技能；具备 Python 相关技术能力",
+    "soft_skills": null,
+    "education": "本科（学信网可查）",
+    "experience": "2 年以上测试经验，岗位要求 3-5 年",
+    "ai_tech_stack": null
+  }
+}
