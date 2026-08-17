@@ -26,7 +26,7 @@ def main() -> int:
     figure, axis = plt.subplots(figsize=(9, 5.2))
     bars = axis.barh(summary["category"], summary["mean_similarity"], color="#167D9A")
     axis.invert_yaxis()
-    axis.set_xlabel("Mean cosine similarity (pretrained embedding)")
+    axis.set_xlabel("Mean category similarity (pretrained embedding; category-standardized ranking used separately)")
     axis.set_title("AI fintech theme prominence across 15-company annual-report sections")
     for bar, count in zip(bars, summary["company_count"]):
         axis.text(bar.get_width() + 0.002, bar.get_y() + bar.get_height() / 2, f"n={count}", va="center", fontsize=9)

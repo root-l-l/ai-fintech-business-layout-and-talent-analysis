@@ -11,7 +11,6 @@ from common import ensure_directories, repo_path
 COLORS = {
     "证券与资管科技": "#197C9A",
     "银行科技": "#D36C54",
-    "银行与保险科技": "#B38A24",
     "保险科技": "#5B8C5A",
     "泛金融AI底座": "#6D6AAE",
 }

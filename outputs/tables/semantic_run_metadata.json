@@ -7,5 +7,6 @@
   "section_count": 60,
   "company_count": 15,
   "keyword_count": 128,
-  "run_at_utc": "2026-08-13T06:13:34.364690+00:00"
+  "category_standardization": "Within each keyword category, category-mean similarity is Z-standardized across all retained report sections. This supplementary score controls for category-specific baseline distributions and keyword-count differences.",
+  "run_at_utc": "2026-08-16T17:58:43.246904+00:00"
 }

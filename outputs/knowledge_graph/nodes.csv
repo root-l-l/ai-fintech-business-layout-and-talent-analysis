@@ -14,77 +14,73 @@ company:603927.SH,company,中科软,第一部分1修改-2.docx
 company:688590.SH,company,新致软件,第一部分1修改-2.docx
 company:002230.SZ,company,科大讯飞,第一部分1修改-2.docx
 company:300229.SZ,company,拓尔思,第一部分1修改-2.docx
+keyword:资产管理,keyword,资产管理,ai_fintech_keywords.csv
 keyword:业财一体化,keyword,业财一体化,ai_fintech_keywords.csv
-keyword:流式计算,keyword,流式计算,ai_fintech_keywords.csv
+keyword:支付清算,keyword,支付清算,ai_fintech_keywords.csv
 keyword:数据资产,keyword,数据资产,ai_fintech_keywords.csv
+keyword:流式计算,keyword,流式计算,ai_fintech_keywords.csv
 keyword:量化投资,keyword,量化投资,ai_fintech_keywords.csv
-keyword:数据质量,keyword,数据质量,ai_fintech_keywords.csv
+keyword:信用评分,keyword,信用评分,ai_fintech_keywords.csv
+keyword:数字银行,keyword,数字银行,ai_fintech_keywords.csv
 keyword:核心银行系统,keyword,核心银行系统,ai_fintech_keywords.csv
 keyword:财务SaaS,keyword,财务SaaS,ai_fintech_keywords.csv
-keyword:支付清算,keyword,支付清算,ai_fintech_keywords.csv
-keyword:数字银行,keyword,数字银行,ai_fintech_keywords.csv
-keyword:资产管理,keyword,资产管理,ai_fintech_keywords.csv
-keyword:分布式账本,keyword,分布式账本,ai_fintech_keywords.csv
-keyword:税务数字化,keyword,税务数字化,ai_fintech_keywords.csv
-keyword:推荐系统,keyword,推荐系统,ai_fintech_keywords.csv
-keyword:信用评分,keyword,信用评分,ai_fintech_keywords.csv
-keyword:决策引擎,keyword,决策引擎,ai_fintech_keywords.csv
-keyword:银行IT,keyword,银行IT,ai_fintech_keywords.csv
+keyword:信贷风控,keyword,信贷风控,ai_fintech_keywords.csv
 keyword:财富管理,keyword,财富管理,ai_fintech_keywords.csv
-keyword:金融云,keyword,金融云,ai_fintech_keywords.csv
+keyword:授信审批,keyword,授信审批,ai_fintech_keywords.csv
+keyword:贷后管理,keyword,贷后管理,ai_fintech_keywords.csv
 keyword:开放银行,keyword,开放银行,ai_fintech_keywords.csv
+keyword:银行IT,keyword,银行IT,ai_fintech_keywords.csv
+keyword:金融云,keyword,金融云,ai_fintech_keywords.csv
 keyword:供应链金融,keyword,供应链金融,ai_fintech_keywords.csv
 keyword:金融大数据,keyword,金融大数据,ai_fintech_keywords.csv
 keyword:AIOps,keyword,AIOps,ai_fintech_keywords.csv
-keyword:智能合约,keyword,智能合约,ai_fintech_keywords.csv
+keyword:财务共享,keyword,财务共享,ai_fintech_keywords.csv
 keyword:安全运营,keyword,安全运营,ai_fintech_keywords.csv
-keyword:隐私计算,keyword,隐私计算,ai_fintech_keywords.csv
+keyword:智能合约,keyword,智能合约,ai_fintech_keywords.csv
+keyword:推荐系统,keyword,推荐系统,ai_fintech_keywords.csv
 keyword:主数据管理,keyword,主数据管理,ai_fintech_keywords.csv
-keyword:智能客服,keyword,智能客服,ai_fintech_keywords.csv
-keyword:多方安全计算,keyword,多方安全计算,ai_fintech_keywords.csv
-keyword:数据治理,keyword,数据治理,ai_fintech_keywords.csv
-keyword:提示工程,keyword,提示工程,ai_fintech_keywords.csv
-keyword:云计算,keyword,云计算,ai_fintech_keywords.csv
-keyword:信贷风控,keyword,信贷风控,ai_fintech_keywords.csv
-keyword:信息抽取,keyword,信息抽取,ai_fintech_keywords.csv
-keyword:人工智能,keyword,人工智能,ai_fintech_keywords.csv
-keyword:模型可解释性,keyword,模型可解释性,ai_fintech_keywords.csv
-keyword:文本摘要,keyword,文本摘要,ai_fintech_keywords.csv
 keyword:监管科技,keyword,监管科技,ai_fintech_keywords.csv
+keyword:数据质量,keyword,数据质量,ai_fintech_keywords.csv
+keyword:智能客服,keyword,智能客服,ai_fintech_keywords.csv
+keyword:提示工程,keyword,提示工程,ai_fintech_keywords.csv
+keyword:多方安全计算,keyword,多方安全计算,ai_fintech_keywords.csv
+keyword:税务数字化,keyword,税务数字化,ai_fintech_keywords.csv
 keyword:合规科技,keyword,合规科技,ai_fintech_keywords.csv
+keyword:云计算,keyword,云计算,ai_fintech_keywords.csv
+keyword:人工智能,keyword,人工智能,ai_fintech_keywords.csv
+keyword:数据治理,keyword,数据治理,ai_fintech_keywords.csv
+keyword:智能交易,keyword,智能交易,ai_fintech_keywords.csv
+keyword:信息抽取,keyword,信息抽取,ai_fintech_keywords.csv
 keyword:身份认证,keyword,身份认证,ai_fintech_keywords.csv
-keyword:微服务,keyword,微服务,ai_fintech_keywords.csv
-keyword:贷后管理,keyword,贷后管理,ai_fintech_keywords.csv
-keyword:智能风控,keyword,智能风控,ai_fintech_keywords.csv
 keyword:保险科技,keyword,保险科技,ai_fintech_keywords.csv
-keyword:智能问答,keyword,智能问答,ai_fintech_keywords.csv
-keyword:网络安全,keyword,网络安全,ai_fintech_keywords.csv
+keyword:智能风控,keyword,智能风控,ai_fintech_keywords.csv
+keyword:智能理赔,keyword,智能理赔,ai_fintech_keywords.csv
 keyword:数据血缘,keyword,数据血缘,ai_fintech_keywords.csv
 keyword:数据仓库,keyword,数据仓库,ai_fintech_keywords.csv
-keyword:数据湖,keyword,数据湖,ai_fintech_keywords.csv
-keyword:财务共享,keyword,财务共享,ai_fintech_keywords.csv
-keyword:零信任,keyword,零信任,ai_fintech_keywords.csv
-keyword:智能交易,keyword,智能交易,ai_fintech_keywords.csv
-keyword:AIGC,keyword,AIGC,ai_fintech_keywords.csv
-keyword:行为识别,keyword,行为识别,ai_fintech_keywords.csv
+keyword:网络安全,keyword,网络安全,ai_fintech_keywords.csv
+keyword:智能问答,keyword,智能问答,ai_fintech_keywords.csv
+keyword:绿色金融,keyword,绿色金融,ai_fintech_keywords.csv
+keyword:手机银行,keyword,手机银行,ai_fintech_keywords.csv
+keyword:智能投顾,keyword,智能投顾,ai_fintech_keywords.csv
 keyword:实时计算,keyword,实时计算,ai_fintech_keywords.csv
 keyword:时序预测,keyword,时序预测,ai_fintech_keywords.csv
 keyword:深度学习,keyword,深度学习,ai_fintech_keywords.csv
+keyword:AIGC,keyword,AIGC,ai_fintech_keywords.csv
 keyword:RPA,keyword,RPA,ai_fintech_keywords.csv
+keyword:文本摘要,keyword,文本摘要,ai_fintech_keywords.csv
 keyword:分布式架构,keyword,分布式架构,ai_fintech_keywords.csv
 keyword:国产化,keyword,国产化,ai_fintech_keywords.csv
-keyword:检索增强生成,keyword,检索增强生成,ai_fintech_keywords.csv
+keyword:隐私计算,keyword,隐私计算,ai_fintech_keywords.csv
 keyword:数字人民币,keyword,数字人民币,ai_fintech_keywords.csv
 keyword:模型部署,keyword,模型部署,ai_fintech_keywords.csv
 keyword:大语言模型,keyword,大语言模型,ai_fintech_keywords.csv
+keyword:模型可解释性,keyword,模型可解释性,ai_fintech_keywords.csv
 keyword:模型治理,keyword,模型治理,ai_fintech_keywords.csv
 keyword:模型训练,keyword,模型训练,ai_fintech_keywords.csv
-keyword:预测模型,keyword,预测模型,ai_fintech_keywords.csv
 keyword:语音识别,keyword,语音识别,ai_fintech_keywords.csv
 keyword:语音合成,keyword,语音合成,ai_fintech_keywords.csv
-keyword:高可用,keyword,高可用,ai_fintech_keywords.csv
 keyword:信创,keyword,信创,ai_fintech_keywords.csv
-keyword:生成式人工智能,keyword,生成式人工智能,ai_fintech_keywords.csv
+keyword:决策引擎,keyword,决策引擎,ai_fintech_keywords.csv
 product_page:600570.SH,product_page,恒生电子,https://www.hundsun.com/
 product_page:300033.SZ,product_page,同花顺智能科技,https://www.thsyun.com/#/service/CustomerServiceBot
 product_page:300059.SZ,product_page,产品业务_东方财富网,https://about.eastmoney.com/about/product
@@ -100,36 +96,85 @@ product_page:603927.SH,product_page,财产保险_中科软科技,https://www.sin
 product_page:688590.SH,product_page,https://www.newtouch.com/#/solution?id=0,https://www.newtouch.com/
 product_page:002230.SZ,product_page,http://fintech.iflytek.com/solution/18.html,http://fintech.iflytek.com/solution/18.html
 product_page:300229.SZ,product_page,https://www.trs.com.cn/,https://www.trs.com.cn/
-product_line:600570.SH:LightGPT与WarrenQ智能投研平台,ai_product_line,LightGPT与WarrenQ智能投研平台,第一部分1修改-2.docx 第4.1节
-direction:大模型与智能投研,ai_direction,大模型与智能投研,ai_product_lines.csv
-product_line:300033.SZ:问财金融大模型与同创智能体平台,ai_product_line,问财金融大模型与同创智能体平台,第一部分1修改-2.docx 第4.1节
-direction:大模型与智能投顾,ai_direction,大模型与智能投顾,ai_product_lines.csv
-product_line:300059.SZ:妙想金融大模型与妙想投研助理,ai_product_line,妙想金融大模型与妙想投研助理,第一部分1修改-2.docx 第4.1节
-direction:大模型与投研,ai_direction,大模型与投研,ai_product_lines.csv
-product_line:600446.SH:K-GPT与AI-KOCA平台,ai_product_line,K-GPT与AI-KOCA平台,第一部分1修改-2.docx 第4.1节
-direction:金融大模型与流程智能化,ai_direction,金融大模型与流程智能化,ai_product_lines.csv
-product_line:300377.SZ:AI-Agent专业服务器,ai_product_line,AI-Agent专业服务器,第一部分1修改-2.docx 第4.1节
-direction:智能体与资管IT,ai_direction,智能体与资管IT,ai_product_lines.csv
-product_line:300674.SZ:星睿智调信贷AI智能体与ChatBI,ai_product_line,星睿智调信贷AI智能体与ChatBI,第一部分1修改-2.docx 第4.1节
-direction:信贷智能体与数据智能,ai_direction,信贷智能体与数据智能,ai_product_lines.csv
-product_line:000555.SZ:企业级智能体中台与Skillbase Agent OS,ai_product_line,企业级智能体中台与Skillbase Agent OS,第一部分1修改-2.docx 第4.1节
-direction:流程智能体,ai_direction,流程智能体,ai_product_lines.csv
-product_line:300348.SZ:分布式AI核心系统,ai_product_line,分布式AI核心系统,第一部分1修改-2.docx 第4.1节
-direction:AI原生核心系统,ai_direction,AI原生核心系统,ai_product_lines.csv
-product_line:300872.SZ:天策/天元金融大模型,ai_product_line,天策/天元金融大模型,第一部分1修改-2.docx 第4.1节
-direction:金融大模型与风控,ai_direction,金融大模型与风控,ai_product_lines.csv
-product_line:300663.SZ:魔聚企业级智能体底座,ai_product_line,魔聚企业级智能体底座,第一部分1修改-2.docx 第4.1节
-direction:智能体与AI原生渠道,ai_direction,智能体与AI原生渠道,ai_product_lines.csv
-product_line:002987.SZ:金融知识智能体与数字员工,ai_product_line,金融知识智能体与数字员工,第一部分1修改-2.docx 第4.1节
-direction:知识智能体与数字员工,ai_direction,知识智能体与数字员工,ai_product_lines.csv
-product_line:603927.SH:中科文澜大模型与AI+云原生寿险核心系统,ai_product_line,中科文澜大模型与AI+云原生寿险核心系统,第一部分1修改-2.docx 第4.1节
-direction:保险大模型,ai_direction,保险大模型,ai_product_lines.csv
-product_line:688590.SH:新知大模型与AI一体机,ai_product_line,新知大模型与AI一体机,第一部分1修改-2.docx 第4.1节
-direction:保险大模型与边缘部署,ai_direction,保险大模型与边缘部署,ai_product_lines.csv
-product_line:002230.SZ:星火大模型金融解决方案,ai_product_line,星火大模型金融解决方案,第一部分1修改-2.docx 第4.1节
-direction:通用大模型与语音NLP,ai_direction,通用大模型与语音NLP,ai_product_lines.csv
-product_line:300229.SZ:拓天金融大模型,ai_product_line,拓天金融大模型,第一部分1修改-2.docx 第4.1节
-direction:金融NLP与知识图谱,ai_direction,金融NLP与知识图谱,ai_product_lines.csv
+product_line:600570.SH:LightGPT与WarrenQ智能投研平台,stage1_product_line_claim,LightGPT与WarrenQ智能投研平台,第一部分1修改-2.docx 第4.1节
+technical_category:大模型与语言技术,technical_category,大模型与语言技术,stage1_product_line_technical_categories.csv
+product_line:300033.SZ:问财金融大模型与同创智能体平台,stage1_product_line_claim,问财金融大模型与同创智能体平台,第一部分1修改-2.docx 第4.1节
+product_line:300059.SZ:妙想金融大模型与妙想投研助理,stage1_product_line_claim,妙想金融大模型与妙想投研助理,第一部分1修改-2.docx 第4.1节
+product_line:600446.SH:K-GPT与AI-KOCA平台,stage1_product_line_claim,K-GPT与AI-KOCA平台,第一部分1修改-2.docx 第4.1节
+product_line:300377.SZ:AI-Agent专业服务器,stage1_product_line_claim,AI-Agent专业服务器,第一部分1修改-2.docx 第4.1节
+technical_category:人工智能基础,technical_category,人工智能基础,stage1_product_line_technical_categories.csv
+product_line:300674.SZ:星睿智调信贷AI智能体与ChatBI,stage1_product_line_claim,星睿智调信贷AI智能体与ChatBI,第一部分1修改-2.docx 第4.1节
+product_line:000555.SZ:企业级智能体中台与Skillbase Agent OS,stage1_product_line_claim,企业级智能体中台与Skillbase Agent OS,第一部分1修改-2.docx 第4.1节
+product_line:300348.SZ:分布式AI核心系统,stage1_product_line_claim,分布式AI核心系统,第一部分1修改-2.docx 第4.1节
+product_line:300872.SZ:天策/天元金融大模型,stage1_product_line_claim,天策/天元金融大模型,第一部分1修改-2.docx 第4.1节
+product_line:300663.SZ:魔聚企业级智能体底座,stage1_product_line_claim,魔聚企业级智能体底座,第一部分1修改-2.docx 第4.1节
+product_line:002987.SZ:金融知识智能体与数字员工,stage1_product_line_claim,金融知识智能体与数字员工,第一部分1修改-2.docx 第4.1节
+product_line:603927.SH:中科文澜大模型与AI+云原生寿险核心系统,stage1_product_line_claim,中科文澜大模型与AI+云原生寿险核心系统,第一部分1修改-2.docx 第4.1节
+product_line:688590.SH:新知大模型与AI一体机,stage1_product_line_claim,新知大模型与AI一体机,第一部分1修改-2.docx 第4.1节
+product_line:002230.SZ:星火大模型金融解决方案,stage1_product_line_claim,星火大模型金融解决方案,第一部分1修改-2.docx 第4.1节
+product_line:300229.SZ:拓天金融大模型,stage1_product_line_claim,拓天金融大模型,第一部分1修改-2.docx 第4.1节
+product_screenshot_page:002987.SZ:1,product_screenshot_page,官网截图 p1：盘庚测试平台类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图1.jpeg
+product_screenshot_page:002987.SZ:10,product_screenshot_page,官网截图 p10：风险及合规管理类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图10.jpeg
+product_screenshot_page:002987.SZ:11,product_screenshot_page,官网截图 p11：数字化管理及创新服务类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图11.jpeg
+product_screenshot_page:002987.SZ:12,product_screenshot_page,官网截图 p12：咨询服务,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图12.jpeg
+product_screenshot_page:002987.SZ:13,product_screenshot_page,官网截图 p13：软件开发服务,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图13.jpeg
+product_screenshot_page:002987.SZ:14,product_screenshot_page,官网截图 p14：软件测试服务,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图14.jpeg
+product_screenshot_page:002987.SZ:15,product_screenshot_page,官网截图 p15：IT 运维服务,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图15.jpeg
+product_screenshot_page:002987.SZ:16,product_screenshot_page,官网截图 p16：数字化运营服务,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图16.jpeg
+product_screenshot_page:002987.SZ:17,product_screenshot_page,官网截图 p17：智慧营销及客户服务,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图17.jpeg
+product_screenshot_page:002987.SZ:2,product_screenshot_page,官网截图 p2：影像及流程管理类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图2.jpeg
+product_screenshot_page:002987.SZ:3,product_screenshot_page,官网截图 p3：大数据类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图3.jpeg
+product_screenshot_page:002987.SZ:4,product_screenshot_page,官网截图 p4：AI 人工智能类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图4.jpeg
+product_screenshot_page:002987.SZ:5,product_screenshot_page,官网截图 p5：基础技术平台类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图5.jpeg
+product_screenshot_page:002987.SZ:6,product_screenshot_page,官网截图 p6：运营类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图6.jpeg
+product_screenshot_page:002987.SZ:7,product_screenshot_page,官网截图 p7：渠道类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图7.jpeg
+product_screenshot_page:002987.SZ:8,product_screenshot_page,官网截图 p8：资产管理及同业类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图8.jpeg
+product_screenshot_page:002987.SZ:9,product_screenshot_page,官网截图 p9：供应链金融及信贷类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图9.jpeg
+product_screenshot_page:300663.SZ:1,product_screenshot_page,官网截图 p1：科蓝软件产品与解决方案,data/raw/product_page_screenshots/300663.SZ/10.科蓝软件-截图.jpeg
+product_screenshot_page:300872.SZ:1,product_screenshot_page,官网截图 p1：金融科技产品,data/raw/product_page_screenshots/300872.SZ/9.天阳科技-截图1.jpeg
+product_screenshot_page:300872.SZ:2,product_screenshot_page,官网截图 p2：金融 IT 服务,data/raw/product_page_screenshots/300872.SZ/9.天阳科技-截图2.jpeg
+product_screenshot_page:300872.SZ:3,product_screenshot_page,官网截图 p3：云计算,data/raw/product_page_screenshots/300872.SZ/9.天阳科技-截图3.jpeg
+product_screenshot_page:300872.SZ:4,product_screenshot_page,官网截图 p4：运营服务,data/raw/product_page_screenshots/300872.SZ/9.天阳科技-截图4.jpeg
+product_screenshot_page:300872.SZ:5,product_screenshot_page,官网截图 p5：咨询服务,data/raw/product_page_screenshots/300872.SZ/9.天阳科技-截图5.jpeg
+product_screenshot_page:603927.SH:1,product_screenshot_page,官网截图 p1：财产保险,data/raw/product_page_screenshots/603927.SH/12.中科软-截图1.jpeg
+product_screenshot_page:603927.SH:10,product_screenshot_page,官网截图 p10：交通领域,data/raw/product_page_screenshots/603927.SH/12.中科软-截图10.jpeg
+product_screenshot_page:603927.SH:11,product_screenshot_page,官网截图 p11：民航领域,data/raw/product_page_screenshots/603927.SH/12.中科软-截图11.jpeg
+product_screenshot_page:603927.SH:12,product_screenshot_page,官网截图 p12：纪检监察,data/raw/product_page_screenshots/603927.SH/12.中科软-截图12.jpeg
+product_screenshot_page:603927.SH:13,product_screenshot_page,官网截图 p13：组工行业,data/raw/product_page_screenshots/603927.SH/12.中科软-截图13.jpeg
+product_screenshot_page:603927.SH:14,product_screenshot_page,官网截图 p14：企业信息化,data/raw/product_page_screenshots/603927.SH/12.中科软-截图14.jpeg
+product_screenshot_page:603927.SH:2,product_screenshot_page,官网截图 p2：人寿保险,data/raw/product_page_screenshots/603927.SH/12.中科软-截图2.jpeg
+product_screenshot_page:603927.SH:3,product_screenshot_page,官网截图 p3：健康医疗,data/raw/product_page_screenshots/603927.SH/12.中科软-截图3.jpeg
+product_screenshot_page:603927.SH:4,product_screenshot_page,官网截图 p4：政府领域,data/raw/product_page_screenshots/603927.SH/12.中科软-截图4.jpeg
+product_screenshot_page:603927.SH:5,product_screenshot_page,官网截图 p5：金融领域,data/raw/product_page_screenshots/603927.SH/12.中科软-截图5.jpeg
+product_screenshot_page:603927.SH:6,product_screenshot_page,官网截图 p6：媒体领域,data/raw/product_page_screenshots/603927.SH/12.中科软-截图6.jpeg
+product_screenshot_page:603927.SH:7,product_screenshot_page,官网截图 p7：能源领域,data/raw/product_page_screenshots/603927.SH/12.中科软-截图7.jpeg
+product_screenshot_page:603927.SH:8,product_screenshot_page,官网截图 p8：邮政领域,data/raw/product_page_screenshots/603927.SH/12.中科软-截图8.jpeg
+product_screenshot_page:603927.SH:9,product_screenshot_page,官网截图 p9：呼叫中心,data/raw/product_page_screenshots/603927.SH/12.中科软-截图9.jpeg
+product_line:002987.SZ:盘庚测试平台类,page_verified_ai_product_entity,盘庚测试平台类,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图1.jpeg
+technical_category:工程与基础设施,technical_category,工程与基础设施,screenshot_ai_product_entities.csv
+product_line:002987.SZ:数字化协同办公平台,page_verified_ai_product_entity,数字化协同办公平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图2.jpeg
+technical_category:视觉与智能决策,technical_category,视觉与智能决策,screenshot_ai_product_entities.csv
+product_line:002987.SZ:统一影像管理平台,page_verified_ai_product_entity,统一影像管理平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图2.jpeg
+product_line:002987.SZ:综合档案管理系统,page_verified_ai_product_entity,综合档案管理系统,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图2.jpeg
+product_line:002987.SZ:NLP及大模型算法服务平台,page_verified_ai_product_entity,NLP及大模型算法服务平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图4.jpeg
+product_line:002987.SZ:OCR智能识别服务平台,page_verified_ai_product_entity,OCR智能识别服务平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图4.jpeg
+product_line:002987.SZ:RPA机器人流程自动化平台,page_verified_ai_product_entity,RPA机器人流程自动化平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图4.jpeg
+product_line:002987.SZ:企业知识助手,page_verified_ai_product_entity,企业知识助手,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图4.jpeg
+product_line:002987.SZ:流程平台,page_verified_ai_product_entity,流程平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图5.jpeg
+product_line:002987.SZ:事后监督系统,page_verified_ai_product_entity,事后监督系统,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图6.jpeg
+product_line:002987.SZ:数字化运营管理平台,page_verified_ai_product_entity,数字化运营管理平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图6.jpeg
+product_line:002987.SZ:运营风险监控系统,page_verified_ai_product_entity,运营风险监控系统,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图6.jpeg
+technical_category:金融业务场景,technical_category,金融业务场景,screenshot_ai_product_entities.csv
+product_line:002987.SZ:集约化运营系统（含集中授权）,page_verified_ai_product_entity,集约化运营系统（含集中授权）,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图6.jpeg
+product_line:002987.SZ:基金代销系统,page_verified_ai_product_entity,基金代销系统,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图8.jpeg
+product_line:002987.SZ:理财销售系统,page_verified_ai_product_entity,理财销售系统,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图8.jpeg
+product_line:002987.SZ:资产管理系统,page_verified_ai_product_entity,资产管理系统,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图8.jpeg
+product_line:002987.SZ:供应链金融服务平台,page_verified_ai_product_entity,供应链金融服务平台,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图9.jpeg
+product_line:002987.SZ:反洗钱监测分析系统,page_verified_ai_product_entity,反洗钱监测分析系统,data/raw/product_page_screenshots/002987.SZ/11.京北方-截图10.jpeg
+product_line:300663.SZ:AI原生手机银行,page_verified_ai_product_entity,AI原生手机银行,data/raw/product_page_screenshots/300663.SZ/10.科蓝软件-截图.jpeg
+product_line:300663.SZ:Galaxy OCR证件识别,page_verified_ai_product_entity,Galaxy OCR证件识别,data/raw/product_page_screenshots/300663.SZ/10.科蓝软件-截图.jpeg
+product_line:300663.SZ:智能高柜数字机器人“小蓝”,page_verified_ai_product_entity,智能高柜数字机器人“小蓝”,data/raw/product_page_screenshots/300663.SZ/10.科蓝软件-截图.jpeg
+product_line:603927.SH:人工智能平台,page_verified_ai_product_entity,人工智能平台,data/raw/product_page_screenshots/603927.SH/12.中科软-截图1.jpeg
 product_snapshot:600570.SH,product_snapshot,官网文字快照,data/raw/product_page_snapshots/1-4 产品文字版.docx
 product_snapshot:300033.SZ,product_snapshot,官网文字快照,data/raw/product_page_snapshots/1-4 产品文字版.docx
 product_snapshot:300059.SZ,product_snapshot,官网文字快照,data/raw/product_page_snapshots/1-4 产品文字版.docx

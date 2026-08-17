@@ -11,6 +11,19 @@ def main() -> int:
     pool = pd.read_csv(repo_path("data", "reference", "final_sample_pool.csv"), dtype=str, keep_default_na=False)
     products = pd.read_csv(repo_path("data", "reference", "product_pages.csv"), dtype=str, keep_default_na=False)
     product_lines = pd.read_csv(repo_path("data", "reference", "ai_product_lines.csv"), dtype=str, keep_default_na=False)
+    page_mapping_path = repo_path("data", "processed", "screenshot_page_mapping.csv")
+    screenshot_entities_path = repo_path("data", "processed", "screenshot_ai_product_entities.csv")
+    stage_categories_path = repo_path("data", "processed", "stage1_product_line_technical_categories.csv")
+    required_paths = [page_mapping_path, screenshot_entities_path, stage_categories_path]
+    missing = [str(path.relative_to(repo_path())) for path in required_paths if not path.exists()]
+    if missing:
+        raise FileNotFoundError(
+            "Run `python src/map_screenshot_product_entities.py` before building the graph. Missing: "
+            + ", ".join(missing)
+        )
+    page_mapping = pd.read_csv(page_mapping_path, dtype=str, keep_default_na=False)
+    screenshot_entities = pd.read_csv(screenshot_entities_path, dtype=str, keep_default_na=False)
+    stage_categories = pd.read_csv(stage_categories_path, dtype=str, keep_default_na=False).set_index("company_code")["technical_category"].to_dict()
     product_evidence_path = repo_path("outputs", "tables", "ai_product_line_evidence.csv")
     product_evidence = pd.read_csv(product_evidence_path, dtype=str, keep_default_na=False) if product_evidence_path.exists() else pd.DataFrame()
     financial_path = repo_path("outputs", "tables", "company_ai_financial_comparison.csv")
@@ -35,15 +48,29 @@ def main() -> int:
         edges.append({"source": f"company:{code}", "target": product_id, "relation": "has_product_page", "weight": "", "evidence": row["product_url"], "verification_status": "link_provided"})
     for _, row in product_lines.iterrows():
         line_id = f"product_line:{row['company_code']}:{row['product_line']}"
-        direction_id = f"direction:{row['ai_direction']}"
-        nodes.append({"node_id": line_id, "node_type": "ai_product_line", "label": row["product_line"], "evidence": row["source_reference"]})
-        nodes.append({"node_id": direction_id, "node_type": "ai_direction", "label": row["ai_direction"], "evidence": "ai_product_lines.csv"})
+        category = stage_categories[row["company_code"]]
+        direction_id = f"technical_category:{category}"
+        nodes.append({"node_id": line_id, "node_type": "stage1_product_line_claim", "label": row["product_line"], "evidence": row["source_reference"]})
+        nodes.append({"node_id": direction_id, "node_type": "technical_category", "label": category, "evidence": "stage1_product_line_technical_categories.csv"})
         status = row["verification_status"]
         matching_evidence = product_evidence[product_evidence["company_code"].eq(row["company_code"])] if not product_evidence.empty else pd.DataFrame()
         if not matching_evidence.empty:
             status = matching_evidence.iloc[0].get("entity_verification_status", matching_evidence.iloc[0]["evidence_status"])
-        edges.append({"source": f"company:{row['company_code']}", "target": line_id, "relation": "offers_ai_product_line", "weight": "", "evidence": row["source_reference"], "verification_status": status})
-        edges.append({"source": line_id, "target": direction_id, "relation": "implements_direction", "weight": "", "evidence": row["application_scenario"], "verification_status": status})
+        edges.append({"source": f"company:{row['company_code']}", "target": line_id, "relation": "offers_stage1_product_line_claim", "weight": "", "evidence": row["source_reference"], "verification_status": status})
+        edges.append({"source": line_id, "target": direction_id, "relation": "maps_to_technical_category", "weight": "", "evidence": row["application_scenario"], "verification_status": status})
+    for _, page in page_mapping.iterrows():
+        page_id = f"product_screenshot_page:{page['company_code']}:{page['screenshot_page']}"
+        nodes.append({"node_id": page_id, "node_type": "product_screenshot_page", "label": f"官网截图 p{page['screenshot_page']}：{page['page_title']}", "evidence": page["local_path"]})
+        edges.append({"source": f"company:{page['company_code']}", "target": page_id, "relation": "has_product_screenshot_page", "weight": "", "evidence": page["local_path"], "verification_status": "user_provided_product_page_screenshot"})
+    for _, entity in screenshot_entities.iterrows():
+        entity_id = f"product_line:{entity['company_code']}:{entity['product_line']}"
+        direction_id = f"technical_category:{entity['technical_category']}"
+        page_id = f"product_screenshot_page:{entity['company_code']}:{entity['screenshot_page']}"
+        nodes.append({"node_id": entity_id, "node_type": "page_verified_ai_product_entity", "label": entity["product_line"], "evidence": entity["source_path"]})
+        nodes.append({"node_id": direction_id, "node_type": "technical_category", "label": entity["technical_category"], "evidence": "screenshot_ai_product_entities.csv"})
+        edges.append({"source": f"company:{entity['company_code']}", "target": entity_id, "relation": "offers_page_verified_ai_product_entity", "weight": "", "evidence": entity["evidence_text"], "verification_status": entity["verification_status"]})
+        edges.append({"source": entity_id, "target": direction_id, "relation": "maps_to_technical_category", "weight": "", "evidence": entity["application_scenario"], "verification_status": entity["verification_status"]})
+        edges.append({"source": page_id, "target": entity_id, "relation": "documents_product_entity", "weight": "", "evidence": entity["evidence_text"], "verification_status": entity["verification_status"]})
     if not product_evidence.empty:
         for _, evidence in product_evidence.iterrows():
             code = evidence["company_code"]

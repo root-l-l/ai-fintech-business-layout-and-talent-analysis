@@ -11,3 +11,17 @@ data/raw/jobs/*.csv
 data/raw/products/*.json
 data/raw/product_page_screenshots/
 data/raw/product_page_snapshots/
+
+# Keep the repository focused on reproducible code, documentation, tables and
+# figures. Final submission artifacts are deliberately local only.
+outputs/reports/
+outputs/presentations/
+outputs/*.pptx
+outputs/*.pptx.inspect.ndjson
+outputs/*.pptx/
+outputs/*汇报/
+*.docx
+.docx_build_report/
+.ppt_build_human_ai/
+.ppt_build_prompt/
+.tmp_ppt_build/

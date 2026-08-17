@@ -57,11 +57,13 @@ def main() -> int:
     args = parser.parse_args()
     sections, lexicon = load_inputs(args.input_path)
     output = repo_path("outputs", "tables", "semantic_keyword_scores.csv")
+    standardized_output = repo_path("outputs", "tables", "semantic_category_standardized_scores.csv")
     metadata = repo_path("outputs", "tables", "semantic_run_metadata.json")
     ensure_directories([output.parent])
     columns = ["company_code", "source_id", "section", "keyword", "category", "similarity", "rank"]
     if sections.empty or lexicon.empty:
         pd.DataFrame(columns=columns).to_csv(output, index=False, encoding="utf-8")
+        pd.DataFrame(columns=["company_code", "source_id", "section", "category", "keyword_count", "mean_similarity", "section_category_zscore"]).to_csv(standardized_output, index=False, encoding="utf-8")
         write_json(metadata, {"method": args.method, "status": "no_input_text_or_lexicon", "run_at_utc": datetime.now(timezone.utc).isoformat()})
         print(f"No report sections available; wrote empty result schema: {output}")
         return 0
@@ -75,8 +77,25 @@ def main() -> int:
             keyword_row = lexicon.iloc[int(keyword_index)]
             rows.append({"company_code": section_row["company_code"], "source_id": section_row["source_id"], "section": section_row["section"], "keyword": keyword_row["keyword"], "category": keyword_row["category"], "similarity": round(float(scores[section_index, keyword_index]), 6), "rank": rank})
     pd.DataFrame(rows, columns=columns).to_csv(output, index=False, encoding="utf-8")
-    write_json(metadata, {"method": args.method, "model_name": args.model_name if args.method == "sentence-transformer" else None, "max_characters_per_section": args.max_characters if args.method == "sentence-transformer" else None, "input_path": args.input_path or "data/processed/annual_report_sections.csv", "status": "completed", "section_count": len(sections), "company_count": int(sections["company_code"].nunique()), "keyword_count": len(lexicon), "run_at_utc": datetime.now(timezone.utc).isoformat()})
-    print(f"Wrote {len(rows)} semantic matches to {output}")
+    standardized_rows = []
+    for section_index, section_row in sections.reset_index(drop=True).iterrows():
+        for category, category_indices in lexicon.groupby("category").groups.items():
+            indices = list(category_indices)
+            standardized_rows.append({
+                "company_code": section_row["company_code"],
+                "source_id": section_row["source_id"],
+                "section": section_row["section"],
+                "category": category,
+                "keyword_count": len(indices),
+                "mean_similarity": round(float(scores[section_index, indices].mean()), 6),
+            })
+    standardized = pd.DataFrame(standardized_rows)
+    category_mean = standardized.groupby("category")["mean_similarity"].transform("mean")
+    category_std = standardized.groupby("category")["mean_similarity"].transform("std").replace(0, np.nan)
+    standardized["section_category_zscore"] = ((standardized["mean_similarity"] - category_mean) / category_std).fillna(0).round(6)
+    standardized.to_csv(standardized_output, index=False, encoding="utf-8")
+    write_json(metadata, {"method": args.method, "model_name": args.model_name if args.method == "sentence-transformer" else None, "max_characters_per_section": args.max_characters if args.method == "sentence-transformer" else None, "input_path": args.input_path or "data/processed/annual_report_sections.csv", "status": "completed", "section_count": len(sections), "company_count": int(sections["company_code"].nunique()), "keyword_count": len(lexicon), "category_standardization": "Within each keyword category, category-mean similarity is Z-standardized across all retained report sections. This supplementary score controls for category-specific baseline distributions and keyword-count differences.", "run_at_utc": datetime.now(timezone.utc).isoformat()})
+    print(f"Wrote {len(rows)} top-keyword matches to {output} and {len(standardized)} category-standardized rows to {standardized_output}")
     return 0
 
 

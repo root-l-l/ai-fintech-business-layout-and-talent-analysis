@@ -1,0 +1,10 @@
+prompt_version,field,n,mean_jaccard,mean_token_f1
+P1,ai_tech_stack,43,0.8127,0.867
+P1,hard_skills,43,0.5986,0.6995
+P1,soft_skills,43,0.5596,0.5774
+P2,ai_tech_stack,43,0.6744,0.7134
+P2,hard_skills,43,0.5323,0.6279
+P2,soft_skills,43,0.5198,0.5412
+P3,ai_tech_stack,43,0.7434,0.7899
+P3,hard_skills,43,0.4801,0.5799
+P3,soft_skills,43,0.4492,0.4841

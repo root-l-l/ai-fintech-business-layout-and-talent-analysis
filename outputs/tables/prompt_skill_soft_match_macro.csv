@@ -1,0 +1,4 @@
+prompt_version,fields,macro_jaccard,macro_token_f1
+P1,3,0.657,0.7146
+P2,3,0.5755,0.6275
+P3,3,0.5576,0.618

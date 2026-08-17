@@ -26,12 +26,15 @@ python3 src/build_keyword_lexicon.py
 python3 src/clean_jobs.py
 python3 src/extract_report_sections.py
 python3 src/semantic_analysis.py --method sentence-transformer --input-path data/interim/annual_report_sections_final15.csv
+python3 src/standardize_retained_semantic_scores.py
+python3 src/map_screenshot_product_entities.py
 python3 src/build_knowledge_graph.py
 python3 src/prepare_prompts.py
 python3 src/build_gold_annotation_draft.py
 python3 src/finalize_gold_annotations.py
 python3 src/normalize_salaries.py
 python3 src/evaluate_llm.py
+python3 src/evaluate_llm_soft_match.py --model-id deepseek-v4-flash --run-id FULL_R1
 python3 src/score_automation_risk.py
 ```
 
@@ -68,6 +71,12 @@ python3 src/import_product_screenshots.py \
   --input-dir '/path/to/9-12'
 ```
 
+本仓库随后以人工逐页审阅的结构化标注构建截图实体表；该步骤覆盖全部 37 页，并只在“独立实体、明确 AI 证据、金融业务范围”三项同时满足时入图：
+
+```bash
+python3 src/map_screenshot_product_entities.py
+```
+
 有关 DOCX 和 JPEG 快照如何用于知识图谱逐条核验，见 `docs/report/09_product_page_snapshot_evidence.md`。
 
 第二部分的产品线证据和财务差异比较可按以下顺序重建：
@@ -77,6 +86,7 @@ python3 src/verify_product_line_claims.py
 python3 src/build_product_line_evidence.py
 python3 src/extract_financial_comparison.py
 python3 src/build_financial_ai_comparison.py
+python3 src/map_screenshot_product_entities.py
 python3 src/build_knowledge_graph.py
 MPLBACKEND=Agg python3 src/create_financial_ai_figure.py
 ```
